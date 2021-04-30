@@ -1,32 +1,32 @@
 ﻿Item ID,Item Name,Item Number
 -1,reg_time,2018-05-10 20:01:10
-item-10,Dummy Core,2107
-item-31,Basic Training Data,10263
-item-32,Intermediate Training Data,9194
-item-33,Advanced Training Data,10441
+item-10,Dummy Core,2117
+item-31,Basic Training Data,10313
+item-32,Intermediate Training Data,8204
+item-33,Advanced Training Data,10091
 -1,kalina_level,27
 -1,kalina_favor,71270
-item-1,T-Doll Contract,2521
-item-2,Equipment Contract,2010
-item-3,Quick Production Contract,1907
-item-4,Quick Repair Contract,3926
+item-1,T-Doll Contract,2529
+item-2,Equipment Contract,2031
+item-3,Quick Production Contract,1921
+item-4,Quick Repair Contract,3937
 item-5,Daily Pause Permit,1
 item-7,Oath Certificate,4
-item-8,Quick Training Contract,101
-item-9,Enhancement Capsule,2112
+item-8,Quick Training Contract,102
+item-9,Enhancement Capsule,2123
 item-11,Key Card,0
 item-12,Points,0
-item-14,Original Sample,1103
-item-15,Pure Sample,148
-item-16,Quick Analysis Contract,684
+item-14,Original Sample,1003
+item-15,Pure Sample,168
+item-16,Quick Analysis Contract,685
 item-17,Data Patch,85
-item-41,Token,5326
+item-41,Token,5333
 item-43,Black Card,3
-item-44,Calibration Ticket,7664
-item-45,Memory Fragment,6975
+item-44,Calibration Ticket,7761
+item-45,Memory Fragment,7035
 item-46,Special Combat Report,4749
 item-47,Theater Material,22920
-item-50,Universal Parts,10908
+item-50,Universal Parts,10912
 item-51,New Type Fire-Control Component,28
 item-100,Elite Griffin Combat Medal,4
 item-101,Combat Ranking Medal,59
@@ -34,11 +34,11 @@ item-103,Challenger Medal,19
 item-104,Elite Adventurer Medal,3
 item-304,Central Data: M2,0
 item-306,Core Data: QLZ-04,20
-item-506,Battery,5651
-item-507,Surplus EXP,118233
-item-508,Friendship Points,70040
-item-509,Fairy Command,178
-item-519,HOC General Data,9
+item-506,Battery,5632
+item-507,Surplus EXP,118937
+item-508,Friendship Points,70060
+item-509,Fairy Command,200
+item-519,HOC General Data,10
 item-520,Frag Grenade,28
 item-521,Stun Grenade,40
 item-522,Turret,15
@@ -173,7 +173,7 @@ item-6013,Icy Theater,16
 item-8001,Intel Points,2610
 item-8003,Intel Points,0
 item-9003,Supply Box,0
-item-9004,Supply Box,60
+item-9004,Supply Box,0
 item-9006,item-10009006,1
 item-9007,item-10009007,1
 item-100009,Crown of Respect,20
@@ -181,7 +181,7 @@ item-100013,Kitsune Mask,112
 item-100015,Dinergate Lantern,10
 item-100023,White Knight Armor Fragments,78
 item-100025,True Core Mask - Shattered Connexion,0
-item-100030,Nova Medal,172
+item-100030,Nova Medal,201
 item-100031,Platinum Medal,32
 item-100032,item-10100032,1
 item-100033,Nova Medal,3
@@ -234,7 +234,7 @@ gift-100002,Ice Cream Cone,72
 gift-100003,Strawberry Custard Cheesecake,861
 gift-100006,Magic of Happiness,25
 gift-100007,Whiskey,60
-gift-200001,Combat Report,54582
+gift-200001,Combat Report,54424
 gift-200004,Paper Target,25
 gift-200005,Kandel Formulation,60
 furniture-10106,Multifunctional Workbench,6
