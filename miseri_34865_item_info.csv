@@ -1,32 +1,32 @@
 ﻿Item ID,Item Name,Item Number
 -1,reg_time,2018-05-10 20:01:10
-item-10,Dummy Core,2117
-item-31,Basic Training Data,10313
-item-32,Intermediate Training Data,8204
-item-33,Advanced Training Data,10091
+item-10,Dummy Core,2094
+item-31,Basic Training Data,10393
+item-32,Intermediate Training Data,8552
+item-33,Advanced Training Data,9931
 -1,kalina_level,27
--1,kalina_favor,71270
-item-1,T-Doll Contract,2529
-item-2,Equipment Contract,2031
-item-3,Quick Production Contract,1921
-item-4,Quick Repair Contract,3937
+-1,kalina_favor,71295
+item-1,T-Doll Contract,2543
+item-2,Equipment Contract,2065
+item-3,Quick Production Contract,1944
+item-4,Quick Repair Contract,3948
 item-5,Daily Pause Permit,1
 item-7,Oath Certificate,4
 item-8,Quick Training Contract,102
-item-9,Enhancement Capsule,2123
+item-9,Enhancement Capsule,2246
 item-11,Key Card,0
 item-12,Points,0
-item-14,Original Sample,1003
-item-15,Pure Sample,168
-item-16,Quick Analysis Contract,685
-item-17,Data Patch,85
-item-41,Token,5333
+item-14,Original Sample,1143
+item-15,Pure Sample,198
+item-16,Quick Analysis Contract,687
+item-17,Data Patch,86
+item-41,Token,5341
 item-43,Black Card,3
-item-44,Calibration Ticket,7761
-item-45,Memory Fragment,7035
-item-46,Special Combat Report,4749
-item-47,Theater Material,22920
-item-50,Universal Parts,10912
+item-44,Calibration Ticket,7671
+item-45,Memory Fragment,7065
+item-46,Special Combat Report,5049
+item-47,Theater Material,23546
+item-50,Universal Parts,10930
 item-51,New Type Fire-Control Component,28
 item-100,Elite Griffin Combat Medal,4
 item-101,Combat Ranking Medal,59
@@ -34,9 +34,9 @@ item-103,Challenger Medal,19
 item-104,Elite Adventurer Medal,3
 item-304,Central Data: M2,0
 item-306,Core Data: QLZ-04,20
-item-506,Battery,5632
-item-507,Surplus EXP,118937
-item-508,Friendship Points,70060
+item-506,Battery,5868
+item-507,Surplus EXP,116201
+item-508,Friendship Points,70200
 item-509,Fairy Command,200
 item-519,HOC General Data,10
 item-520,Frag Grenade,28
@@ -153,15 +153,15 @@ item-1766,Background: Safe House,1
 item-1774,ID: Work Checklist,1
 item-1776,ID: Girls by the Hearth,1
 item-1844,ID: Springtime Celebration,1
-item-4001,City's Gift,9360
-item-4002,Snowfield's Gift,12682
-item-4003,Forest's Gift,14049
-item-4004,Wasteland's Gift,6871
-item-6001,Ordinary Meat Bun,13
+item-4001,City's Gift,9728
+item-4002,Snowfield's Gift,12990
+item-4003,Forest's Gift,14181
+item-4004,Wasteland's Gift,7903
+item-6001,Ordinary Meat Bun,14
 item-6002,Bundle of Meat Buns,24
 item-6003,Trove of Meat Buns,27
 item-6004,Commonfolk Standard,1
-item-6005,Comfort Bucket for One,26
+item-6005,Comfort Bucket for One,27
 item-6006,Full Meal for Two,34
 item-6007,Strawberry Cheesecake Slice,4
 item-6008,One Week's Cake Selection,10
@@ -234,7 +234,7 @@ gift-100002,Ice Cream Cone,72
 gift-100003,Strawberry Custard Cheesecake,861
 gift-100006,Magic of Happiness,25
 gift-100007,Whiskey,60
-gift-200001,Combat Report,54424
+gift-200001,Combat Report,54502
 gift-200004,Paper Target,25
 gift-200005,Kandel Formulation,60
 furniture-10106,Multifunctional Workbench,6

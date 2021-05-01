@@ -5,7 +5,7 @@
 192091,10,★★,400,35,Reinforcement Fairy,4.0,0.0,27.0,4.0,5.0,Fervor,1,Locked
 194306,5,★,300,5,Defense Fairy,4.4,0.0,15.2,4.0,0.0,Accuracy II,1,Locked
 195734,3,★★★★★,3000,100,Armor Fairy,22.0,0.0,0.0,25.0,22.0,Damage I,5,Locked
-199337,11,★★★,900,100,Parachute Fairy,21.6,0.0,19.2,4.8,24.0,Armor I,10,Locked
+199337,11,★★★,1080,100,Parachute Fairy,21.6,0.0,19.2,4.8,24.0,Evasion I,10,Locked
 234263,17,★★★★★,3000,100,Illumination Fairy,0.0,90.0,32.0,8.0,38.0,Damage II,10,Locked
 234942,9,★★★★,3000,99,Airstrike Fairy,24.0,40.0,32.0,8.0,0.0,Damage II,10,Locked
 236429,1,★★★★★,3000,100,Warrior Fairy,25.0,80.0,40.0,10.0,0.0,Fervor,10,Locked
@@ -133,14 +133,11 @@
 501861,9,★,0,1,Airstrike Fairy,4.8,8.0,6.4,1.6,0.0,Aim,1,
 501862,9,★,0,1,Airstrike Fairy,4.8,8.0,6.4,1.6,0.0,Aim,1,
 518342,3,★,0,1,Armor Fairy,4.4,0.0,0.0,5.2,4.4,Damage II,1,
-518343,17,★,0,1,Illumination Fairy,0.0,20.0,7.2,1.6,8.4,Evasion I,1,
 521359,1,★,0,1,Warrior Fairy,4.8,16.0,8.0,2.0,0.0,Aim,1,
-521360,3,★,0,1,Armor Fairy,4.4,0.0,0.0,5.2,4.4,Evasion I,1,
 522420,15,★,0,1,Command Fairy,8.0,0.0,7.6,2.0,8.4,Suppression,1,
 523980,26,★★★★★,3000,100,Prototype Fairy,10.0,10.0,10.0,10.0,0.0,Sturdy,10,
 523981,26,★★★★★,3000,100,Prototype Fairy,10.0,10.0,10.0,10.0,0.0,Sturdy,10,
 523983,26,★★★★★,3000,100,Prototype Fairy,10.0,10.0,10.0,10.0,0.0,Damage II,10,
-523984,26,★★★★★,3000,100,Prototype Fairy,10.0,10.0,10.0,10.0,0.0,Keen,10,
 524912,25,★,0,1,Twin Fairies,3.2,11.2,8.8,2.4,0.0,Critical I,1,
 527351,7,★,0,1,Sniper Fairy,0.0,17.6,5.6,3.2,7.2,Critical I,1,
 527352,8,★,0,1,Artillery Fairy,10.8,0.0,11.2,1.2,0.0,Damage II,1,
@@ -149,5 +146,5 @@
 245639,25,★★★★★,3000,100,Twin Fairies,18.0,60.0,48.0,12.0,0.0,Aim,10,Locked
 446767,22,★★★★★,550,100,Beach Fairy,32.0,0.0,40.0,0.0,32.0,Fervor,10,Locked
 198473,6,★★★★★,3000,100,Taunt Fairy,18.0,58.0,28.0,8.0,25.0,Damage II,10,Locked
-469276,6,★★★★,2700,83,Taunt Fairy,13.6,41.6,20.0,6.4,17.6,Fervor,10,Locked
-446765,22,★★★★,550,80,Beach Fairy,21.6,0.0,27.2,0.0,22.4,Damage I,10,Locked
+469276,6,★★★★,2700,84,Taunt Fairy,13.6,42.4,20.8,6.4,18.4,Fervor,10,Locked
+446765,22,★★★★,550,81,Beach Fairy,22.4,0.0,28.0,0.0,22.4,Damage I,10,Locked
