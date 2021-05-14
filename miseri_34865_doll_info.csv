@@ -1,6 +1,6 @@
 ﻿ID,No.,Type,Rarity,Name,Level,Total Exp,Current Exp,Required Exp,Link,MOD,Max HP,HP,Damage,Accuracy,Evasion,Rate of Fire,Move Speed,Armor,Rounds,Crit.Damage,Skill1,Skill2,Equip1,Equip2,Equip3,Affection,Oathed,Oathed Datetime,Locked
 271025,29,SMG,★★★,STEN MkⅡ,70,705223,0,0,x3,,471,471,23,13,58,70,12,0,0,0,1,0,,,,100,,,Locked
-271710,20075,MG,★★★★★,M1918 Mod,110,5263300,0,0,x5,Mod2,795,795,105,35,35,115,4,0,0,0,4,9,,,,100,,,Locked
+271710,20075,MG,★★★★★,M1918 Mod,110,5263300,0,0,x5,Mod2,795,795,105,35,35,115,4,0,0,0,4,10,,,,100,,,Locked
 406147,114,HG,★★★★★,Welrod MkⅡ,100,3263300,-,-,x5,,400,400,30,75,95,52,15,0,0,0,10,0,,,,100,,,Locked
 409401,27,SMG,★★★,Skorpion,100,3263300,-,-,x5,,795,795,26,14,88,95,12,0,0,0,1,0,,,,100,,,Locked
 447896,22,SMG,★★★,PPS-43,100,3263300,-,-,x5,,880,880,35,14,69,74,12,0,0,0,8,0,,,,100,,,Locked
@@ -206,7 +206,7 @@
 157711902,264,MG,★★★★,Chauchat,1,0,0,0,x1,,87,87,36,4,4,54,4,0,0,0,1,0,,,,50,,,
 157711924,307,MG,★★★★★,ZB-26,70,705000,0,0,x1,,154,154,80,22,23,104,4,0,0,0,1,0,,,,50,,,Locked
 157718171,293,AR,★★★★★,AK-15,70,705000,0,0,x1,,94,94,46,38,38,69,10,0,0,0,1,0,,,,50,,,Locked
-157718874,292,MG,★★★★★,RPK-16,70,705000,0,0,x1,,140,140,68,27,26,115,4,0,0,0,9,0,,,,50,,,Locked
+157718874,292,MG,★★★★★,RPK-16,70,705000,0,0,x1,,140,140,68,27,26,115,4,0,0,0,10,0,,,,50,,,Locked
 157718923,281,SG,★★★★★,CAWS,70,705000,0,0,x1,,209,209,25,9,10,32,6,17,0,0,1,0,,,,50,,,Locked
 157858854,295,SMG,★★★★,CF-05,30,45000,0,0,x1,,123,123,15,6,29,69,12,0,0,0,1,0,,,,50,,,Locked
 157862781,296,RF,★★★★★,Gr SL8,70,705000,0,0,x1,,72,72,96,57,29,37,7,0,0,0,1,0,,,,50,,,Locked
@@ -249,30 +249,57 @@
 158214124,93,SMG,★★,IDW,1,0,0,0,x1,,75,75,9,2,10,49,12,0,0,0,1,0,,,,50,,,
 158217377,107,AR,★★,FF F2000,1,0,0,0,x1,,53,53,16,6,6,57,10,0,0,0,1,0,,,,50,,,
 158217379,17,SMG,★★,M3,1,0,0,0,x1,,93,93,11,2,9,46,12,0,0,0,1,0,,,,50,,,
+158283064,81,MG,★★,LWMMG,1,0,0,0,x1,,87,87,39,4,4,65,4,0,0,0,1,0,,,,50,,,
+158283145,111,MG,★★,AAT-52,1,0,0,0,x1,,91,91,34,4,4,87,4,0,0,0,1,0,,,,50,,,
+158283190,92,SMG,★★,Spectre M4,1,0,0,0,x1,,88,88,10,2,10,63,12,0,0,0,1,0,,,,50,,,
+158283235,139,HG,★★,Bren Ten,1,0,0,0,x1,,35,35,12,7,9,40,15,0,0,0,1,0,,,,50,,,
+158283508,24,SMG,★★,PP-2000,1,0,0,0,x1,,80,80,12,2,11,57,12,0,0,0,1,0,,,,50,,,
+158283892,31,SMG,★★,M38,1,0,0,0,x1,,102,102,12,2,7,52,12,0,0,0,1,0,,,,50,,,
+158283948,18,SMG,★★★,Ingram,1,0,0,0,x1,,88,88,11,2,9,63,12,0,0,0,1,0,,,,50,,,
+158284147,90,HG,★★,FF FNP9,1,0,0,0,x1,,30,30,11,7,11,42,15,0,0,0,1,0,,,,50,,,
+158291107,107,AR,★★,FF F2000,1,0,0,0,x1,,53,53,16,6,6,57,10,0,0,0,1,0,,,,50,,,
+158291561,41,RF,★★,SKS,1,0,0,0,x1,,47,47,39,8,5,24,7,0,0,0,1,0,,,,50,,,
+158291830,2,HG,★★,M1911,1,0,0,0,x1,,37,37,10,6,9,38,15,0,0,0,1,0,,,,50,,,
+158291873,18,SMG,★★★,Ingram,1,0,0,0,x1,,88,88,11,2,9,63,12,0,0,0,1,0,,,,50,,,
+158291928,2,HG,★★,M1911,1,0,0,0,x1,,37,37,10,6,9,38,15,0,0,0,1,0,,,,50,,,
+158292826,107,AR,★★,FF F2000,1,0,0,0,x1,,53,53,16,6,6,57,10,0,0,0,1,0,,,,50,,,
+158292905,94,SMG,★★,Type64,1,0,0,0,x1,,88,88,11,2,9,65,12,0,0,0,1,0,,,,50,,,
+158295110,111,MG,★★,AAT-52,1,0,0,0,x1,,91,91,34,4,4,87,4,0,0,0,1,0,,,,50,,,
+158296736,92,SMG,★★,Spectre M4,1,0,0,0,x1,,88,88,10,2,10,63,12,0,0,0,1,0,,,,50,,,
+158321395,51,RF,★★,FF FN49,1,0,0,0,x1,,47,47,41,8,4,22,7,0,0,0,1,0,,,,50,,,
+158327222,41,RF,★★,SKS,1,0,0,0,x1,,47,47,39,8,5,24,7,0,0,0,1,0,,,,50,,,
+158327508,17,SMG,★★,M3,1,0,0,0,x1,,93,93,11,2,9,46,12,0,0,0,1,0,,,,50,,,
+158333049,37,RF,★★★,M14,1,0,0,0,x1,,42,42,41,10,4,30,7,0,0,0,1,0,,,,50,,,
+158334315,139,HG,★★,Bren Ten,1,0,0,0,x1,,35,35,12,7,9,40,15,0,0,0,1,0,,,,50,,,
+158382142,10,HG,★★,PPK,1,0,0,0,x1,,29,29,9,7,12,42,15,0,0,0,1,0,,,,50,,,
+158382143,6,HG,★★★,Tokarev,1,0,0,0,x1,,43,43,12,7,9,36,15,0,0,0,1,0,,,,50,,,
+158384612,92,SMG,★★,Spectre M4,1,0,0,0,x1,,88,88,10,2,10,63,12,0,0,0,1,0,,,,50,,,
+158384700,24,SMG,★★,PP-2000,1,0,0,0,x1,,80,80,12,2,11,57,12,0,0,0,1,0,,,,50,,,
+158384938,284,RF,★★★,Zas M76,1,0,0,0,x1,,42,42,40,10,5,25,7,0,0,0,1,0,,,,50,,,
 19458654,173,MG,★★★★★,PKP,100,3263300,-,-,x5,,825,825,100,33,31,127,4,0,0,0,10,0,Mk211 High-Explosive Armor-Piercing Ammo,VFL 6-24X56,IOP Maximum Ammo Box,100,,,Locked
 101302351,183,HG,★★★★★,Contender,100,3263300,-,-,x5,,330,330,49,90,87,44,15,0,0,0,10,0,AC4 Suppressor,ILM Hollow-Point Ammo,IOP T4 Exoskeleton,100,,,Locked
 103272103,4,HG,★★★★★,Python,100,3263300,-,-,x5,,350,350,42,86,87,49,15,0,0,0,10,0,AC4 Suppressor,16Lab Hollow-Point,IOP T4 Exoskeleton,100,,,Locked
 142354496,275,MG,★★★★,M1895 CB,100,3263300,-,-,x5,,950,950,95,28,25,131,4,0,0,0,10,0,16Lab Sub-Caliber Armor-Piercing Ammo,VFL 6-24X56,IOP Maximum Ammo Box,100,,,Locked
 143049607,276,MG,★★★★★,Kord,100,3263300,-,-,x5,,990,990,115,24,23,110,4,0,0,0,10,0,Mk211 High-Explosive Armor-Piercing Ammo,VFL 6-24X56,IOP Maximum Ammo Box,100,,,Locked
-694706,20095,RF,★★★★,Type88 Mod,120,30283300,-,-,x5,Mod3,520,520,136,80,45,37,7,0,0,0,10,8,Mk211 High-Explosive Armor-Piercing Ammo,Acceleration Coil,Thermoptic Camouflage Cape,200,Oathed,2020-12-25 20:03,Locked
-5905669,96,HG,★★★★★,Grizzly,100,3263300,-,-,x5,,430,430,40,54,70,54,15,0,0,0,10,0,AC4 Suppressor,ILM Hollow-Point Ammo,IOP T4 Exoskeleton,100,,,Locked
-100380880,20097,HG,★★★★★★,M950A Mod,119,24654320,371020,5628980,x5,Mod3,400,400,35,60,81,72,15,0,0,0,10,10,WML & Tactical Handguard,ILM Hollow-Point Ammo,IOP T4 Exoskeleton,100,,,Locked
-114646961,1009,HG,★★★★★,El Clear,100,3263300,-,-,x5,,330,330,33,66,93,61,15,0,0,0,10,0,Glorylight,ILM Hollow-Point Ammo,IOP T4 Exoskeleton,100,,,Locked
-156422942,294,HG,★★★★★,Webley,100,3263300,-,-,x5,,430,430,29,66,81,57,15,0,0,0,10,0,AC4 Suppressor,ILM Hollow-Point Ammo,IOP T4 Exoskeleton,76,,,Locked
+694706,20095,RF,★★★★,Type88 Mod,120,30283300,-,-,x5,Mod3,520,520,136,80,45,37,7,0,0,0,10,8,Mk211 High-Explosive Armor-Piercing Ammo,Acceleration Coil,Thermoptic Camouflage Cape,196,Oathed,2020-12-25 20:03,Locked
+5905669,96,HG,★★★★★,Grizzly,100,3263300,-,-,x5,,430,178,40,54,70,54,15,0,0,0,10,0,AC4 Suppressor,ILM Hollow-Point Ammo,IOP T4 Exoskeleton,96,,,Locked
+100380880,20097,HG,★★★★★★,M950A Mod,119,24661664,378364,5621636,x5,Mod3,400,119,35,60,81,72,15,0,0,0,10,10,WML & Tactical Handguard,ILM Hollow-Point Ammo,IOP T4 Exoskeleton,91,,,Locked
+114646961,1009,HG,★★★★★,El Clear,100,3263300,-,-,x5,,330,330,33,66,93,61,15,0,0,0,10,0,Glorylight,ILM Hollow-Point Ammo,IOP T4 Exoskeleton,96,,,Locked
+156422942,294,HG,★★★★★,Webley,100,3263300,-,-,x5,,430,186,29,66,81,57,15,0,0,0,10,0,AC4 Suppressor,ILM Hollow-Point Ammo,IOP T4 Exoskeleton,74,,,Locked
 1319898,20026,SMG,★★★★★,Gr MP5 Mod,115,10083300,-,-,x5,Mod2,900,900,33,15,75,90,12,0,0,0,10,10,GSG UX Exoskeleton,ILM Hollow-Point Ammo,AC4 Suppressor,100,,,Locked
 106657693,198,RF,★★★★★,Carcano M91/38,100,3263300,-,-,x5,,365,365,154,95,47,34,7,0,0,0,10,0,Mk211 High-Explosive Armor-Piercing Ammo,VFL 6-24X56,Thermoptic Camouflage Cape,100,,,Locked
 125467672,242,HG,★★★★★,P22,100,3263300,-,-,x5,,350,350,30,70,116,62,15,0,0,0,10,0,AC4 Suppressor,ILM Hollow-Point Ammo,IOP T4 Exoskeleton,100,,,Locked
 135698752,285,HG,★★★★★,C-93,100,3263300,-,-,x5,,315,315,35,66,103,64,15,0,0,0,10,0,AC4 Suppressor,ILM Hollow-Point Ammo,IOP T4 Exoskeleton,100,,,Locked
 137770008,1024,RF,★★★★★,Rico,100,3263300,-,-,x5,,400,400,137,84,35,37,7,0,0,0,10,0,Mk211 High-Explosive Armor-Piercing Ammo,VFL 6-24X56,Duelling Cards,100,,,Locked
-3308284,104,SMG,★★★★★,Gr G36c,100,3263300,-,-,x5,,1015,1015,34,14,69,83,12,0,0,0,10,0,IOP T4 Exoskeleton,ILM Hollow-Point Ammo,AC4 Suppressor,100,,,Locked
-3538501,50,RF,★★★★★,Lee Enfield,100,3263300,-,-,x5,,400,400,142,82,42,36,7,0,0,0,10,0,Mk211 High-Explosive Armor-Piercing Ammo,No32 MKI,Thermoptic Camouflage Cape,100,,,Locked
+3308284,104,SMG,★★★★★,Gr G36c,100,3263300,-,-,x5,,1015,848,34,14,69,83,12,0,0,0,10,0,IOP T4 Exoskeleton,ILM Hollow-Point Ammo,AC4 Suppressor,100,,,Locked
+3538501,50,RF,★★★★★,Lee Enfield,100,3263300,-,-,x5,,400,350,142,82,42,36,7,0,0,0,10,0,Mk211 High-Explosive Armor-Piercing Ammo,No32 MKI,Thermoptic Camouflage Cape,100,,,Locked
 5279214,142,HG,★★★★★,Five-seven,100,3263300,-,-,x5,,315,315,33,60,102,66,15,0,0,0,10,0,AC4 Suppressor,ILM Hollow-Point Ammo,IOP T4 Exoskeleton,100,,,Locked
-101161896,233,HG,★★★★★,Px4 Storm,100,3263300,-,-,x5,,340,340,37,73,98,57,15,0,0,0,10,0,AC4 Suppressor,ILM Hollow-Point Ammo,IOP T4 Exoskeleton,100,,,Locked
+101161896,233,HG,★★★★★,Px4 Storm,100,3263300,-,-,x5,,340,263,37,73,98,57,15,0,0,0,10,0,AC4 Suppressor,ILM Hollow-Point Ammo,IOP T4 Exoskeleton,100,,,Locked
 117968272,266,RF,★★★★★,R93,100,3263300,-,-,x5,,405,405,140,102,36,39,7,0,0,0,10,0,Mk211 High-Explosive Armor-Piercing Ammo,VFL 6-24X56,Thermoptic Camouflage Cape,100,,,Locked
 3088013,20101,SMG,★★★★★,UMP9 Mod,115,10083300,-,-,x5,Mod2,900,900,31,18,88,87,12,0,0,0,10,10,IOP T4 Exoskeleton,ILM Hollow-Point Ammo,AC4 Suppressor,100,,,Locked
-4395238,20001,HG,★★★★★,SAA Mod,116,12687765,404465,2595535,x5,Mod3,415,415,39,53,83,50,15,0,0,0,10,10,AC3 Suppressor,ILM Hollow-Point Ammo,IOP T3 Exoskeleton,100,,,Locked
-5143189,20053,RF,★★★★★★,NTW-20 Mod,119,28226634,3943334,2056666,x5,Mod3,475,475,179,86,33,32,7,0,0,0,10,10,20mm HEI,VFL 6-24X56,Thermoptic Camouflage Cape,100,,,Locked
-98918176,20007,HG,★★★★★,Stechkin Mod,113,8457700,1174400,25600,x5,Mod2,420,420,33,53,72,66,15,0,0,0,10,1,Stechkin Buttstock,ILM Hollow-Point Ammo,IOP T3 Exoskeleton,100,,,Locked
+4395238,20001,HG,★★★★★,SAA Mod,116,12690825,407525,2592475,x5,Mod3,415,415,39,53,83,50,15,0,0,0,10,10,AC3 Suppressor,ILM Hollow-Point Ammo,IOP T3 Exoskeleton,100,,,Locked
+5143189,20053,RF,★★★★★★,NTW-20 Mod,119,28231406,3948106,2051894,x5,Mod3,475,475,179,86,33,32,7,0,0,0,10,10,20mm HEI,VFL 6-24X56,Thermoptic Camouflage Cape,100,,,Locked
+98918176,20007,HG,★★★★★,Stechkin Mod,113,8460760,1177460,22540,x5,Mod2,420,420,33,53,72,66,15,0,0,0,10,1,Stechkin Buttstock,ILM Hollow-Point Ammo,IOP T3 Exoskeleton,100,,,Locked
 100011833,212,HG,★★★★,K5,100,3263300,-,-,x5,,330,330,31,55,86,62,15,0,0,0,10,0,AC3 Suppressor,ILM Hollow-Point Ammo,IOP T3 Exoskeleton,100,,,Locked
 109545541,10,HG,★★,PPK,100,3263300,-,-,x5,,285,285,27,62,105,63,15,0,0,0,8,0,AC3 Suppressor,ILM Hollow-Point Ammo,IOP T4 Exoskeleton,100,,,Locked
 125742918,204,RF,★★★★★,Ballista,100,3263300,-,-,x5,,410,410,146,97,37,36,7,0,0,0,10,0,Mk211 High-Explosive Armor-Piercing Ammo,VFL 6-24X56,Thermoptic Camouflage Cape,100,,,Locked
@@ -281,9 +308,9 @@
 145816364,139,HG,★★,Bren Ten,100,3263300,-,-,x5,,350,350,33,54,67,58,15,0,0,0,4,0,AC3 Suppressor,ILM Hollow-Point Ammo,IOP T3 Exoskeleton,100,,,Locked
 3861465,20056,AR,★★★★★,M4 SOPMOD II Mod,120,30283300,-,-,x5,Mod3,565,565,55,54,49,79,10,0,0,0,10,10,VFL 6-24X56,Dinergate RO,APCR High-Velocity Ammo,100,,,Locked
 3875675,20057,AR,★★★★★,ST AR-15 Mod,120,30283300,-,-,x5,Mod3,540,540,58,64,60,78,10,0,0,0,10,10,VFL 6-24X56,Lightweight Rail Kit,.300BLK High-Velocity Ammo,200,Oathed,2020-01-12 01:14,Locked
-8604019,20103,SMG,★★★★★,UMP45 Mod,115,10083300,-,-,x5,Mod2,970,970,31,15,80,83,12,0,0,0,8,1,IOP T4 Exoskeleton,ILM Hollow-Point Ammo,AC3 Suppressor,100,,,Locked
-119172408,20032,SMG,★★★★,Micro Uzi Mod,115,10083300,-,-,x5,Mod2,880,880,27,14,87,104,12,0,0,0,10,10,IOP X4 Exoskeleton,ILM Hollow-Point Ammo,EOT 518,100,,,Locked
-145406034,203,SMG,★★★★,Honey Badger,100,3263300,-,-,x5,,990,990,35,14,63,82,12,0,0,0,4,0,IOP T4 Exoskeleton,ILM Hollow-Point Ammo,AC4 Suppressor,100,,,Locked
+8604019,20103,SMG,★★★★★,UMP45 Mod,115,10083300,-,-,x5,Mod2,970,866,31,15,80,83,12,0,0,0,8,1,IOP T4 Exoskeleton,ILM Hollow-Point Ammo,AC3 Suppressor,100,,,Locked
+119172408,20032,SMG,★★★★,Micro Uzi Mod,115,10083300,-,-,x5,Mod2,880,860,27,14,87,104,12,0,0,0,10,10,IOP X4 Exoskeleton,ILM Hollow-Point Ammo,EOT 518,100,,,Locked
+145406034,203,SMG,★★★★,Honey Badger,100,3263300,-,-,x5,,990,751,35,14,63,82,12,0,0,0,4,0,IOP T4 Exoskeleton,ILM Hollow-Point Ammo,AC4 Suppressor,100,,,Locked
 13510492,122,AR,★★★★★,Gr G11,100,3263300,-,-,x5,,605,605,46,47,44,95,10,0,0,0,10,0,VFL 6-24X56,APCR High-Velocity Ammo,IOP X4 Exoskeleton,100,,,Locked
 116381670,172,AR,★★★★★,Am RFB,100,3263300,-,-,x5,,525,525,73,72,52,54,10,0,0,0,10,0,Am RFB Quad Rail,APCR High-Velocity Ammo,IOP X4 Exoskeleton,100,,,Locked
 138028669,1025,SG,★★★★★,Triela,100,3263300,-,-,x5,,1265,1265,39,13,13,26,6,21,0,0,10,0,Type 3 Armor Plate,Bayonet,ITI MARS,100,,,Locked
