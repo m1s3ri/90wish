@@ -1,32 +1,32 @@
 ﻿Item ID,Item Name,Item Number
 -1,reg_time,2018-05-10 20:01:10
-item-10,Dummy Core,2190
+item-10,Dummy Core,1975
 item-31,Basic Training Data,10523
 item-32,Intermediate Training Data,9948
-item-33,Advanced Training Data,8808
+item-33,Advanced Training Data,8514
 -1,kalina_level,27
--1,kalina_favor,74986
-item-1,T-Doll Contract,2464
-item-2,Equipment Contract,2294
-item-3,Quick Production Contract,1712
-item-4,Quick Repair Contract,4036
+-1,kalina_favor,75139
+item-1,T-Doll Contract,2480
+item-2,Equipment Contract,1392
+item-3,Quick Production Contract,1281
+item-4,Quick Repair Contract,4042
 item-5,Daily Pause Permit,1
 item-7,Oath Certificate,4
 item-8,Quick Training Contract,103
 item-9,Enhancement Capsule,2386
 item-11,Key Card,0
 item-12,Points,0
-item-14,Original Sample,533
-item-15,Pure Sample,149
-item-16,Quick Analysis Contract,711
+item-14,Original Sample,543
+item-15,Pure Sample,159
+item-16,Quick Analysis Contract,712
 item-17,Data Patch,115
-item-41,Token,5504
+item-41,Token,5509
 item-43,Black Card,3
-item-44,Calibration Ticket,8296
+item-44,Calibration Ticket,8236
 item-45,Memory Fragment,7830
 item-46,Special Combat Report,5949
 item-47,Theater Material,4
-item-50,Universal Parts,10516
+item-50,Universal Parts,10520
 item-51,New Type Fire-Control Component,30
 item-100,Elite Griffin Combat Medal,4
 item-101,Combat Ranking Medal,59
@@ -34,9 +34,9 @@ item-103,Challenger Medal,19
 item-104,Elite Adventurer Medal,3
 item-304,Central Data: M2,0
 item-306,Core Data: QLZ-04,20
-item-506,Battery,8922
+item-506,Battery,8612
 item-507,Surplus EXP,2814
-item-508,Friendship Points,71960
+item-508,Friendship Points,71980
 item-509,Fairy Command,200
 item-519,HOC General Data,16
 item-520,Frag Grenade,28
