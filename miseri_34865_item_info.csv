@@ -1,23 +1,23 @@
 ﻿Item ID,Item Name,Item Number
 -1,reg_time,2018-05-10 20:01:10
-item-10,Dummy Core,1817
+item-10,Dummy Core,1767
 item-31,Basic Training Data,10643
 item-32,Intermediate Training Data,10108
 item-33,Advanced Training Data,8547
 -1,kalina_level,27
--1,kalina_favor,75139
+-1,kalina_favor,75444
 item-1,T-Doll Contract,2487
-item-2,Equipment Contract,1291
-item-3,Quick Production Contract,1035
-item-4,Quick Repair Contract,4035
+item-2,Equipment Contract,1266
+item-3,Quick Production Contract,965
+item-4,Quick Repair Contract,4026
 item-5,Daily Pause Permit,1
 item-7,Oath Certificate,4
 item-8,Quick Training Contract,103
 item-9,Enhancement Capsule,2412
 item-11,Key Card,0
 item-12,Points,0
-item-14,Original Sample,383
-item-15,Pure Sample,124
+item-14,Original Sample,413
+item-15,Pure Sample,133
 item-16,Quick Analysis Contract,712
 item-17,Data Patch,116
 item-41,Token,5509
@@ -35,9 +35,9 @@ item-104,Elite Adventurer Medal,3
 item-304,Central Data: M2,0
 item-306,Core Data: QLZ-04,20
 item-506,Battery,8835
-item-507,Surplus EXP,205810
+item-507,Surplus EXP,240000
 item-508,Friendship Points,72080
-item-509,Fairy Command,182
+item-509,Fairy Command,168
 item-519,HOC General Data,16
 item-520,Frag Grenade,28
 item-521,Stun Grenade,40
