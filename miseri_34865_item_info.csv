@@ -1,29 +1,29 @@
 ﻿Item ID,Item Name,Item Number
 -1,reg_time,2018-05-10 20:01:10
-item-10,Dummy Core,1705
+item-10,Dummy Core,1696
 item-31,Basic Training Data,9523
-item-32,Intermediate Training Data,10148
-item-33,Advanced Training Data,8793
+item-32,Intermediate Training Data,10448
+item-33,Advanced Training Data,8993
 -1,kalina_level,27
--1,kalina_favor,75444
-item-1,T-Doll Contract,2491
-item-2,Equipment Contract,1241
+-1,kalina_favor,75597
+item-1,T-Doll Contract,2487
+item-2,Equipment Contract,1245
 item-3,Quick Production Contract,897
-item-4,Quick Repair Contract,3896
+item-4,Quick Repair Contract,3864
 item-5,Daily Pause Permit,1
 item-7,Oath Certificate,4
 item-8,Quick Training Contract,103
 item-9,Enhancement Capsule,2423
 item-11,Key Card,0
 item-12,Points,0
-item-14,Original Sample,663
-item-15,Pure Sample,172
+item-14,Original Sample,723
+item-15,Pure Sample,196
 item-16,Quick Analysis Contract,717
-item-17,Data Patch,116
+item-17,Data Patch,119
 item-41,Token,5513
 item-43,Black Card,3
 item-44,Calibration Ticket,8056
-item-45,Memory Fragment,7970
+item-45,Memory Fragment,8110
 item-46,Special Combat Report,5949
 item-47,Theater Material,4
 item-50,Universal Parts,10540
@@ -34,10 +34,10 @@ item-103,Challenger Medal,19
 item-104,Elite Adventurer Medal,3
 item-304,Central Data: M2,0
 item-306,Core Data: QLZ-04,20
-item-506,Battery,8408
-item-507,Surplus EXP,51448
-item-508,Friendship Points,72240
-item-509,Fairy Command,142
+item-506,Battery,8713
+item-507,Surplus EXP,775
+item-508,Friendship Points,72350
+item-509,Fairy Command,172
 item-519,HOC General Data,16
 item-520,Frag Grenade,28
 item-521,Stun Grenade,40
@@ -173,7 +173,7 @@ item-6013,Icy Theater,17
 item-8001,Intel Points,2610
 item-8003,Intel Points,0
 item-9003,Supply Box,0
-item-9004,Supply Box,0
+item-9004,Supply Box,60
 item-9006,item-10009006,1
 item-9007,item-10009007,1
 item-100009,Crown of Respect,20
@@ -236,7 +236,7 @@ gift-100002,Ice Cream Cone,72
 gift-100003,Strawberry Custard Cheesecake,871
 gift-100006,Magic of Happiness,25
 gift-100007,Whiskey,60
-gift-200001,Combat Report,46732
+gift-200001,Combat Report,45670
 gift-200004,Paper Target,25
 gift-200005,Kandel Formulation,60
 furniture-10107,Multifunctional Workbench,7
