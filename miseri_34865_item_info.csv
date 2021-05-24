@@ -1,32 +1,32 @@
 ﻿Item ID,Item Name,Item Number
 -1,reg_time,2018-05-10 20:01:10
-item-10,Dummy Core,1591
-item-31,Basic Training Data,10618
+item-10,Dummy Core,1596
+item-31,Basic Training Data,10638
 item-32,Intermediate Training Data,9783
-item-33,Advanced Training Data,8709
+item-33,Advanced Training Data,8921
 -1,kalina_level,27
 -1,kalina_favor,75953
-item-1,T-Doll Contract,2537
-item-2,Equipment Contract,1445
-item-3,Quick Production Contract,1002
-item-4,Quick Repair Contract,3893
+item-1,T-Doll Contract,2552
+item-2,Equipment Contract,1464
+item-3,Quick Production Contract,991
+item-4,Quick Repair Contract,3899
 item-5,Daily Pause Permit,1
 item-7,Oath Certificate,4
 item-8,Quick Training Contract,105
-item-9,Enhancement Capsule,2565
+item-9,Enhancement Capsule,2551
 item-11,Key Card,0
 item-12,Points,0
-item-14,Original Sample,643
-item-15,Pure Sample,136
-item-16,Quick Analysis Contract,723
+item-14,Original Sample,633
+item-15,Pure Sample,195
+item-16,Quick Analysis Contract,727
 item-17,Data Patch,126
-item-41,Token,5567
+item-41,Token,5572
 item-43,Black Card,3
-item-44,Calibration Ticket,8301
+item-44,Calibration Ticket,8451
 item-45,Memory Fragment,6840
 item-46,Special Combat Report,6174
 item-47,Theater Material,4
-item-50,Universal Parts,9910
+item-50,Universal Parts,9914
 item-51,New Type Fire-Control Component,30
 item-100,Elite Griffin Combat Medal,4
 item-101,Combat Ranking Medal,67
@@ -34,11 +34,11 @@ item-103,Challenger Medal,19
 item-104,Elite Adventurer Medal,3
 item-304,Central Data: M2,0
 item-306,Core Data: QLZ-04,50
-item-506,Battery,7298
-item-507,Surplus EXP,1645
-item-508,Friendship Points,57950
-item-509,Fairy Command,135
-item-519,HOC General Data,18
+item-506,Battery,7157
+item-507,Surplus EXP,2510
+item-508,Friendship Points,58080
+item-509,Fairy Command,175
+item-519,HOC General Data,19
 item-520,Frag Grenade,28
 item-521,Stun Grenade,40
 item-522,Turret,15
@@ -164,7 +164,7 @@ item-6002,Bundle of Meat Buns,24
 item-6003,Trove of Meat Buns,27
 item-6004,Commonfolk Standard,3
 item-6005,Comfort Bucket for One,27
-item-6006,Full Meal for Two,30
+item-6006,Full Meal for Two,28
 item-6007,Strawberry Cheesecake Slice,0
 item-6008,One Week's Cake Selection,12
 item-6009,Sweet Explosives,41
@@ -185,8 +185,8 @@ item-100020,True Core Mask·3rd Anniversary,0
 item-100021,Crate,0
 item-100023,White Knight Armor Fragments,78
 item-100025,True Core Mask - Shattered Connexion,0
-item-100030,Nova Medal,24
-item-100031,Platinum Medal,38
+item-100030,Nova Medal,27
+item-100031,Platinum Medal,39
 item-100032,item-10100032,0
 item-100033,Nova Medal,3
 item-100034,Platinum Medal,1
@@ -239,7 +239,7 @@ gift-100002,Ice Cream Cone,72
 gift-100003,Strawberry Custard Cheesecake,871
 gift-100006,Magic of Happiness,25
 gift-100007,Whiskey,60
-gift-200001,Combat Report,46745
+gift-200001,Combat Report,46775
 gift-200004,Paper Target,25
 gift-200005,Kandel Formulation,60
 furniture-10107,Multifunctional Workbench,7
