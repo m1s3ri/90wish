@@ -1,32 +1,32 @@
 ﻿Item ID,Item Name,Item Number
 -1,reg_time,2018-05-10 20:01:10
-item-10,Dummy Core,1596
-item-31,Basic Training Data,10638
-item-32,Intermediate Training Data,9783
-item-33,Advanced Training Data,8921
+item-10,Dummy Core,1597
+item-31,Basic Training Data,10748
+item-32,Intermediate Training Data,9653
+item-33,Advanced Training Data,8404
 -1,kalina_level,27
 -1,kalina_favor,75953
-item-1,T-Doll Contract,2552
-item-2,Equipment Contract,1464
-item-3,Quick Production Contract,991
-item-4,Quick Repair Contract,3899
+item-1,T-Doll Contract,2565
+item-2,Equipment Contract,1487
+item-3,Quick Production Contract,1011
+item-4,Quick Repair Contract,3909
 item-5,Daily Pause Permit,1
 item-7,Oath Certificate,4
 item-8,Quick Training Contract,105
-item-9,Enhancement Capsule,2551
+item-9,Enhancement Capsule,2535
 item-11,Key Card,0
 item-12,Points,0
-item-14,Original Sample,633
-item-15,Pure Sample,195
-item-16,Quick Analysis Contract,727
+item-14,Original Sample,893
+item-15,Pure Sample,154
+item-16,Quick Analysis Contract,728
 item-17,Data Patch,126
-item-41,Token,5572
+item-41,Token,5587
 item-43,Black Card,3
-item-44,Calibration Ticket,8451
-item-45,Memory Fragment,6840
+item-44,Calibration Ticket,8521
+item-45,Memory Fragment,7010
 item-46,Special Combat Report,6174
 item-47,Theater Material,4
-item-50,Universal Parts,9914
+item-50,Universal Parts,9956
 item-51,New Type Fire-Control Component,30
 item-100,Elite Griffin Combat Medal,4
 item-101,Combat Ranking Medal,67
@@ -34,11 +34,11 @@ item-103,Challenger Medal,19
 item-104,Elite Adventurer Medal,3
 item-304,Central Data: M2,0
 item-306,Core Data: QLZ-04,50
-item-506,Battery,7157
-item-507,Surplus EXP,2510
-item-508,Friendship Points,58080
-item-509,Fairy Command,175
-item-519,HOC General Data,19
+item-506,Battery,7214
+item-507,Surplus EXP,0
+item-508,Friendship Points,58210
+item-509,Fairy Command,200
+item-519,HOC General Data,21
 item-520,Frag Grenade,28
 item-521,Stun Grenade,40
 item-522,Turret,15
@@ -222,7 +222,7 @@ item-110013,Event Points,2500
 item-110014,Event Points,2470
 item-110015,Event Points,2440
 item-110016,Event Points,2440
-item-110017,Event Points,1790
+item-110017,Event Points,2370
 item-900030,Nova Medal,1
 item-900031,Platinum Medal,2
 item-900032,Nova Medal,4
@@ -239,7 +239,7 @@ gift-100002,Ice Cream Cone,72
 gift-100003,Strawberry Custard Cheesecake,871
 gift-100006,Magic of Happiness,25
 gift-100007,Whiskey,60
-gift-200001,Combat Report,46775
+gift-200001,Combat Report,46917
 gift-200004,Paper Target,25
 gift-200005,Kandel Formulation,60
 furniture-10107,Multifunctional Workbench,7
