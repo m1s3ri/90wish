@@ -1,32 +1,32 @@
 ﻿Item ID,Item Name,Item Number
 -1,reg_time,2018-05-10 20:01:10
-item-10,Dummy Core,1126
+item-10,Dummy Core,1027
 item-31,Basic Training Data,11148
-item-32,Intermediate Training Data,8921
-item-33,Advanced Training Data,7690
+item-32,Intermediate Training Data,8529
+item-33,Advanced Training Data,7090
 -1,kalina_level,27
--1,kalina_favor,76221
-item-1,T-Doll Contract,2657
-item-2,Equipment Contract,1660
-item-3,Quick Production Contract,1177
-item-4,Quick Repair Contract,3957
+-1,kalina_favor,76507
+item-1,T-Doll Contract,2675
+item-2,Equipment Contract,1729
+item-3,Quick Production Contract,1216
+item-4,Quick Repair Contract,3965
 item-5,Daily Pause Permit,1
 item-7,Oath Certificate,4
 item-8,Quick Training Contract,108
-item-9,Enhancement Capsule,2362
+item-9,Enhancement Capsule,2318
 item-11,Key Card,0
 item-12,Points,0
-item-14,Original Sample,1023
-item-15,Pure Sample,75
-item-16,Quick Analysis Contract,739
-item-17,Data Patch,135
-item-41,Token,5722
+item-14,Original Sample,743
+item-15,Pure Sample,11
+item-16,Quick Analysis Contract,741
+item-17,Data Patch,140
+item-41,Token,5732
 item-43,Black Card,3
-item-44,Calibration Ticket,8873
-item-45,Memory Fragment,8090
+item-44,Calibration Ticket,8163
+item-45,Memory Fragment,8380
 item-46,Special Combat Report,6174
 item-47,Theater Material,4
-item-50,Universal Parts,9256
+item-50,Universal Parts,8485
 item-51,New Type Fire-Control Component,30
 item-100,Elite Griffin Combat Medal,4
 item-101,Combat Ranking Medal,67
@@ -34,10 +34,10 @@ item-103,Challenger Medal,20
 item-104,Elite Adventurer Medal,3
 item-304,Central Data: M2,0
 item-306,Core Data: QLZ-04,50
-item-506,Battery,7226
-item-507,Surplus EXP,240000
-item-508,Friendship Points,59490
-item-509,Fairy Command,31
+item-506,Battery,6926
+item-507,Surplus EXP,10728
+item-508,Friendship Points,59710
+item-509,Fairy Command,56
 item-519,HOC General Data,25
 item-520,Frag Grenade,28
 item-521,Stun Grenade,40
@@ -240,7 +240,7 @@ gift-100002,Ice Cream Cone,82
 gift-100003,Strawberry Custard Cheesecake,881
 gift-100006,Magic of Happiness,25
 gift-100007,Whiskey,60
-gift-200001,Combat Report,47707
+gift-200001,Combat Report,48171
 gift-200004,Paper Target,25
 gift-200005,Kandel Formulation,60
 furniture-10107,Multifunctional Workbench,7
