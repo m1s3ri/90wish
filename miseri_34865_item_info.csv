@@ -1,32 +1,32 @@
 ﻿Item ID,Item Name,Item Number
 -1,reg_time,2018-05-10 20:01:10
-item-10,Dummy Core,1241
-item-31,Basic Training Data,10028
+item-10,Dummy Core,1400
+item-31,Basic Training Data,10268
 item-32,Intermediate Training Data,8537
-item-33,Advanced Training Data,8255
+item-33,Advanced Training Data,8267
 -1,kalina_level,27
--1,kalina_favor,78366
-item-1,T-Doll Contract,2801
-item-2,Equipment Contract,2000
-item-3,Quick Production Contract,1436
-item-4,Quick Repair Contract,4058
+-1,kalina_favor,78509
+item-1,T-Doll Contract,2682
+item-2,Equipment Contract,2021
+item-3,Quick Production Contract,1332
+item-4,Quick Repair Contract,4076
 item-5,Daily Pause Permit,1
 item-7,Oath Certificate,4
 item-8,Quick Training Contract,108
-item-9,Enhancement Capsule,2253
-item-11,Key Card,0
+item-9,Enhancement Capsule,2226
+item-11,Key Card,9
 item-12,Points,0
-item-14,Original Sample,1063
-item-15,Pure Sample,514
-item-16,Quick Analysis Contract,764
-item-17,Data Patch,151
-item-41,Token,5826
+item-14,Original Sample,1253
+item-15,Pure Sample,233
+item-16,Quick Analysis Contract,766
+item-17,Data Patch,158
+item-41,Token,5838
 item-43,Black Card,3
-item-44,Calibration Ticket,11140
-item-45,Memory Fragment,7660
+item-44,Calibration Ticket,11350
+item-45,Memory Fragment,7740
 item-46,Special Combat Report,6774
 item-47,Theater Material,4
-item-50,Universal Parts,8045
+item-50,Universal Parts,8055
 item-51,New Type Fire-Control Component,32
 item-100,Elite Griffin Combat Medal,4
 item-101,Combat Ranking Medal,67
@@ -34,11 +34,11 @@ item-103,Challenger Medal,20
 item-104,Elite Adventurer Medal,3
 item-304,Central Data: M2,0
 item-306,Core Data: QLZ-04,50
-item-506,Battery,7657
+item-506,Battery,8295
 item-507,Surplus EXP,240000
-item-508,Friendship Points,61560
-item-509,Fairy Command,132
-item-519,HOC General Data,32
+item-508,Friendship Points,61820
+item-509,Fairy Command,87
+item-519,HOC General Data,34
 item-520,Frag Grenade,28
 item-521,Stun Grenade,40
 item-522,Turret,15
@@ -101,6 +101,7 @@ item-1331,Base Background:Fireworks of Summer,1
 item-1332,Icon: Reservoir Dog,1
 item-1333,ID Card: Final Flight,1
 item-1344,M4 SOPMOD II Neural Upgrade Icon,1
+item-1345,UMP45 Neural Upgrade Icon,1
 item-1388,Background: Winter is Coming,1
 item-1405,ID Card: Sangvis Presence,1
 item-1406,Icon: Fatal Freedom,1
@@ -156,22 +157,22 @@ item-1774,ID: Work Checklist,1
 item-1776,ID: Girls by the Hearth,1
 item-1844,ID: Springtime Celebration,1
 item-1860,ID: Fragments of Precious Treasures,1
-item-4001,City's Gift,10301
-item-4002,Snowfield's Gift,7667
-item-4003,Forest's Gift,7179
-item-4004,Wasteland's Gift,7914
+item-4001,City's Gift,10741
+item-4002,Snowfield's Gift,8315
+item-4003,Forest's Gift,7595
+item-4004,Wasteland's Gift,8570
 item-6001,Ordinary Meat Bun,18
 item-6002,Bundle of Meat Buns,29
 item-6003,Trove of Meat Buns,30
 item-6004,Commonfolk Standard,7
 item-6005,Comfort Bucket for One,27
 item-6006,Full Meal for Two,29
-item-6007,Strawberry Cheesecake Slice,7
-item-6008,One Week's Cake Selection,15
+item-6007,Strawberry Cheesecake Slice,8
+item-6008,One Week's Cake Selection,16
 item-6009,Sweet Explosives,47
 item-6010,"Baby  B-A-B-Y.",38
 item-6011,Streetside Oden,13
-item-6012,Wild Honeycomb,34
+item-6012,Wild Honeycomb,35
 item-6013,Icy Theater,18
 item-8001,Intel Points,2610
 item-8003,Intel Points,0
@@ -233,7 +234,6 @@ item-900034,Nova Medal·Shattered Connexion,3
 item-900035,Platinum Medal·Shattered Connexion,4
 item-1100005,Bon appétit !,1
 item-1100006,Bon appétit !,1
-item-1345,UMP45 Neural Upgrade Icon,1
 gift-11,Witch from Afar,1
 gift-530,A Girl's Hot Air Balloon Adventure,2
 gift-4908,Roly-Poly Ninja Cat,1
@@ -242,7 +242,7 @@ gift-100002,Ice Cream Cone,82
 gift-100003,Strawberry Custard Cheesecake,881
 gift-100006,Magic of Happiness,25
 gift-100007,Whiskey,60
-gift-200001,Combat Report,53927
+gift-200001,Combat Report,54087
 gift-200004,Paper Target,25
 gift-200005,Kandel Formulation,60
 furniture-10107,Multifunctional Workbench,7
