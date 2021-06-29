@@ -1,51 +1,51 @@
 ﻿Item ID,Item Name,Item Number
 -1,reg_time,2018-05-10 20:01:10
-item-10,Dummy Core,1617
-item-31,Basic Training Data,10638
-item-32,Intermediate Training Data,8433
-item-33,Advanced Training Data,8338
--1,kalina_level,27
--1,kalina_favor,79648
-item-1,T-Doll Contract,2679
-item-2,Equipment Contract,2348
-item-3,Quick Production Contract,1452
-item-4,Quick Repair Contract,4135
+item-10,Dummy Core,1577
+item-31,Basic Training Data,11438
+item-32,Intermediate Training Data,9063
+item-33,Advanced Training Data,8184
+-1,kalina_level,28
+-1,kalina_favor,86076
+item-1,T-Doll Contract,2709
+item-2,Equipment Contract,2405
+item-3,Quick Production Contract,1481
+item-4,Quick Repair Contract,4167
 item-5,Daily Pause Permit,1
 item-7,Oath Certificate,4
-item-8,Quick Training Contract,108
-item-9,Enhancement Capsule,2126
-item-11,Key Card,81
-item-12,Points,0
-item-14,Original Sample,553
-item-15,Pure Sample,289
-item-16,Quick Analysis Contract,774
-item-17,Data Patch,169
-item-41,Token,5905
+item-8,Quick Training Contract,112
+item-9,Enhancement Capsule,2111
+item-11,Key Card,0
+item-12,Points,90
+item-14,Original Sample,813
+item-15,Pure Sample,124
+item-16,Quick Analysis Contract,776
+item-17,Data Patch,170
+item-41,Token,6075
 item-43,Black Card,3
-item-44,Calibration Ticket,12935
-item-45,Memory Fragment,8780
+item-44,Calibration Ticket,13125
+item-45,Memory Fragment,9240
 item-46,Special Combat Report,6774
 item-47,Theater Material,4
-item-50,Universal Parts,8091
+item-50,Universal Parts,8101
 item-51,New Type Fire-Control Component,32
 item-100,Elite Griffin Combat Medal,4
 item-101,Combat Ranking Medal,67
-item-103,Challenger Medal,20
+item-103,Challenger Medal,21
 item-104,Elite Adventurer Medal,3
 item-304,Central Data: M2,0
 item-306,Core Data: QLZ-04,50
-item-506,Battery,8500
-item-507,Surplus EXP,0
-item-508,Friendship Points,63020
-item-509,Fairy Command,140
+item-506,Battery,8551
+item-507,Surplus EXP,732
+item-508,Friendship Points,63290
+item-509,Fairy Command,134
 item-519,HOC General Data,38
 item-520,Frag Grenade,28
 item-521,Stun Grenade,40
 item-522,Turret,15
 item-601,Infinite Surprise Dye,37
 item-602,Colorful Specified Dye,1
-item-603,Potential Energy,6
-item-604,Electronic Impulse,9
+item-603,Potential Energy,0
+item-604,Electronic Impulse,2
 item-1001,AAT-52 Icon,1
 item-1002,G43 Icon,1
 item-1003,IDW Icon,1
@@ -157,19 +157,19 @@ item-1774,ID: Work Checklist,1
 item-1776,ID: Girls by the Hearth,1
 item-1844,ID: Springtime Celebration,1
 item-1860,ID: Fragments of Precious Treasures,1
-item-4001,City's Gift,11514
-item-4002,Snowfield's Gift,11185
-item-4003,Forest's Gift,8360
-item-4004,Wasteland's Gift,10527
+item-4001,City's Gift,12273
+item-4002,Snowfield's Gift,11781
+item-4003,Forest's Gift,8416
+item-4004,Wasteland's Gift,10596
 item-6001,Ordinary Meat Bun,21
 item-6002,Bundle of Meat Buns,30
 item-6003,Trove of Meat Buns,31
-item-6004,Commonfolk Standard,9
-item-6005,Comfort Bucket for One,28
+item-6004,Commonfolk Standard,10
+item-6005,Comfort Bucket for One,29
 item-6006,Full Meal for Two,30
 item-6007,Strawberry Cheesecake Slice,8
 item-6008,One Week's Cake Selection,17
-item-6009,Sweet Explosives,48
+item-6009,Sweet Explosives,49
 item-6010,"Baby  B-A-B-Y.",38
 item-6011,Streetside Oden,13
 item-6012,Wild Honeycomb,36
@@ -234,17 +234,23 @@ item-900034,Nova Medal·Shattered Connexion,3
 item-900035,Platinum Medal·Shattered Connexion,4
 item-1100005,Bon appétit !,1
 item-1100006,Bon appétit !,1
+item-514,Petri Dish,484
+item-10603,Extra Potential Energy,8
+item-606,Transfer Catalyst,10
+item-10604,item-10010604,2
+item-605,Aid Commission,2
 gift-11,Witch from Afar,1
 gift-530,A Girl's Hot Air Balloon Adventure,2
 gift-4908,Roly-Poly Ninja Cat,1
 gift-100001,Lollipop,62
 gift-100002,Ice Cream Cone,85
-gift-100003,Strawberry Custard Cheesecake,881
+gift-100003,Strawberry Custard Cheesecake,889
 gift-100006,Magic of Happiness,25
 gift-100007,Whiskey,60
-gift-200001,Combat Report,55488
+gift-200001,Combat Report,55687
 gift-200004,Paper Target,25
 gift-200005,Kandel Formulation,60
+gift-400001,Rapid Growth Disk,150
 furniture-10107,Multifunctional Workbench,7
 furniture-10206,Isolated Cat Tree,6
 furniture-10307,Automated Doghouse,7
@@ -287,6 +293,6 @@ furniture-80007,Real Time Relay Terminal,0
 furniture-80011,Black Market Shop,0
 furniture-80109,Automated Gate Console,9
 furniture-80306,Advanced Loot Rack,6
-furniture-90100,Impulse Reactor,0
+furniture-90103,Impulse Reactor,3
 furniture-90200,Tactical Chip Research Station,0
 furniture-90400,Symmetric Infusion Drive,0
