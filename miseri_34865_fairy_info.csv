@@ -17,7 +17,7 @@
 307637,1004,★★★,200,40,Suee,0.0,0.0,29.4,7.8,12.6,Charge,10,Locked
 356618,21,★★★,200,1,Zodiac Fairy,3.2,0.0,2.8,2.8,3.2,Chinese New Year,1,Locked
 380835,11,★,0,100,Parachute Fairy,14.4,0.0,12.8,3.2,16.0,Aim,10,Locked
-381773,23,★,0,47,Combo Fairy,9.2,26.0,0.0,0.0,4.4,Damage I,10,Locked
+381773,23,★,0,48,Combo Fairy,9.2,26.0,0.0,0.0,4.8,Damage I,10,Locked
 381969,14,★★,400,40,Construction Fairy,6.0,19.0,15.5,4.0,8.0,Armor I,10,Locked
 382839,23,★,0,1,Combo Fairy,6.4,18.8,0.0,0.0,3.2,Keen,1,
 382840,12,★★,300,20,Landmine Fairy,8.5,14.5,28.0,0.0,0.0,Accuracy I,6,Locked
@@ -110,9 +110,13 @@
 575479,9,★,0,1,Airstrike Fairy,4.8,8.0,6.4,1.6,0.0,Evasion II,1,
 575615,25,★,0,1,Twin Fairies,3.2,11.2,8.8,2.4,0.0,Aim,1,
 575616,4,★,0,1,Shield Fairy,4.0,12.0,16.0,0.0,0.0,Assault,1,
+576263,6,★,0,1,Taunt Fairy,3.2,10.0,4.8,1.6,4.4,Evasion I,1,
+576264,7,★,0,1,Sniper Fairy,0.0,17.6,5.6,3.2,7.2,Evasion I,1,
+576543,24,★,0,1,Barrier Fairy,0.0,14.8,6.4,4.4,0.0,Sturdy,1,
+576544,25,★,0,1,Twin Fairies,3.2,11.2,8.8,2.4,0.0,Accuracy I,1,
 249680,16,★★★★★,3000,100,Rescue Fairy,32.0,80.0,64.0,0.0,0.0,Fervor,10,Locked
 221400,11,★★★★★,3000,100,Parachute Fairy,36.0,0.0,32.0,8.0,40.0,Fervor,10,Locked
 240144,8,★★★★★,3000,100,Artillery Fairy,55.0,0.0,56.0,6.0,0.0,Fervor,2,Locked
 199337,11,★★★★★,3000,100,Parachute Fairy,36.0,0.0,32.0,8.0,40.0,Damage II,10,Locked
 261663,11,★,75,100,Parachute Fairy,14.4,0.0,12.8,3.2,16.0,Fervor,10,Locked
-458621,7,★★★,1300,86,Sniper Fairy,0.0,49.2,16.2,8.4,20.4,Fervor,1,Locked
+458621,7,★★★,1300,87,Sniper Fairy,0.0,49.2,16.2,9.0,20.4,Fervor,1,Locked
