@@ -1,29 +1,29 @@
 ﻿Item ID,Item Name,Item Number
 -1,reg_time,2018-05-10 20:01:10
-item-10,Dummy Core,1583
+item-10,Dummy Core,1595
 item-31,Basic Training Data,10858
 item-32,Intermediate Training Data,9083
 item-33,Advanced Training Data,8628
 -1,kalina_level,28
 -1,kalina_favor,89436
-item-1,T-Doll Contract,2746
+item-1,T-Doll Contract,2748
 item-2,Equipment Contract,2502
-item-3,Quick Production Contract,1533
+item-3,Quick Production Contract,1540
 item-4,Quick Repair Contract,4221
 item-5,Daily Pause Permit,1
 item-7,Oath Certificate,4
 item-8,Quick Training Contract,112
 item-9,Enhancement Capsule,2095
-item-11,Key Card,29
+item-11,Key Card,36
 item-12,Points,90
-item-14,Original Sample,903
-item-15,Pure Sample,179
+item-14,Original Sample,773
+item-15,Pure Sample,199
 item-16,Quick Analysis Contract,781
-item-17,Data Patch,181
+item-17,Data Patch,182
 item-41,Token,6100
 item-43,Black Card,3
 item-44,Calibration Ticket,13150
-item-45,Memory Fragment,7770
+item-45,Memory Fragment,7890
 item-46,Special Combat Report,7374
 item-47,Theater Material,4
 item-50,Universal Parts,8923
@@ -34,21 +34,21 @@ item-103,Challenger Medal,21
 item-104,Elite Adventurer Medal,3
 item-304,Central Data: M2,0
 item-306,Core Data: QLZ-04,50
-item-506,Battery,5066
+item-506,Battery,4261
 item-507,Surplus EXP,240000
-item-508,Friendship Points,63750
-item-509,Fairy Command,167
+item-508,Friendship Points,63850
+item-509,Fairy Command,129
 item-514,Petri Dish,638
-item-515,Basic Training Keycode,4167
-item-516,Advanced Training Keycode,280
+item-515,Basic Training Keycode,4419
+item-516,Advanced Training Keycode,532
 item-519,HOC General Data,40
 item-520,Frag Grenade,28
 item-521,Stun Grenade,40
 item-522,Turret,15
 item-601,Infinite Surprise Dye,37
 item-602,Colorful Specified Dye,1
-item-603,Potential Energy,2
-item-604,Electronic Impulse,4
+item-603,Potential Energy,0
+item-604,Electronic Impulse,5
 item-605,Aid Commission,33
 item-606,Transfer Catalyst,10
 item-1001,AAT-52 Icon,1
@@ -172,7 +172,7 @@ item-6002,Bundle of Meat Buns,30
 item-6003,Trove of Meat Buns,31
 item-6004,Commonfolk Standard,10
 item-6005,Comfort Bucket for One,30
-item-6006,Full Meal for Two,29
+item-6006,Full Meal for Two,27
 item-6007,Strawberry Cheesecake Slice,8
 item-6008,One Week's Cake Selection,19
 item-6009,Sweet Explosives,44
@@ -246,11 +246,11 @@ gift-11,Witch from Afar,1
 gift-530,A Girl's Hot Air Balloon Adventure,2
 gift-4908,Roly-Poly Ninja Cat,1
 gift-100001,Lollipop,62
-gift-100002,Ice Cream Cone,86
+gift-100002,Ice Cream Cone,87
 gift-100003,Strawberry Custard Cheesecake,894
 gift-100006,Magic of Happiness,25
 gift-100007,Whiskey,60
-gift-200001,Combat Report,59323
+gift-200001,Combat Report,59313
 gift-200004,Paper Target,25
 gift-200005,Kandel Formulation,60
 gift-400001,Rapid Growth Disk,494
@@ -297,5 +297,5 @@ furniture-80011,Black Market Shop,0
 furniture-80109,Automated Gate Console,9
 furniture-80306,Advanced Loot Rack,6
 furniture-90110,Impulse Reactor,10
-furniture-90202,Tactical Chip Research Station,2
+furniture-90205,Tactical Chip Research Station,5
 furniture-90400,Symmetric Infusion Drive,0
