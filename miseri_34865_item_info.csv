@@ -1,32 +1,32 @@
 ﻿Item ID,Item Name,Item Number
 -1,reg_time,2018-05-10 20:01:10
-item-10,Dummy Core,1550
+item-10,Dummy Core,1600
 item-31,Basic Training Data,10608
-item-32,Intermediate Training Data,9103
+item-32,Intermediate Training Data,8863
 item-33,Advanced Training Data,8860
 -1,kalina_level,28
 -1,kalina_favor,89436
-item-1,T-Doll Contract,2763
-item-2,Equipment Contract,2525
-item-3,Quick Production Contract,1570
-item-4,Quick Repair Contract,4245
+item-1,T-Doll Contract,2774
+item-2,Equipment Contract,2553
+item-3,Quick Production Contract,1587
+item-4,Quick Repair Contract,4264
 item-5,Daily Pause Permit,1
 item-7,Oath Certificate,4
 item-8,Quick Training Contract,112
 item-9,Enhancement Capsule,2071
-item-11,Key Card,44
+item-11,Key Card,53
 item-12,Points,90
-item-14,Original Sample,703
-item-15,Pure Sample,154
-item-16,Quick Analysis Contract,787
+item-14,Original Sample,713
+item-15,Pure Sample,236
+item-16,Quick Analysis Contract,788
 item-17,Data Patch,183
-item-41,Token,6111
+item-41,Token,6116
 item-43,Black Card,3
-item-44,Calibration Ticket,13075
-item-45,Memory Fragment,8010
+item-44,Calibration Ticket,13095
+item-45,Memory Fragment,8170
 item-46,Special Combat Report,7374
 item-47,Theater Material,4
-item-50,Universal Parts,8935
+item-50,Universal Parts,8939
 item-51,New Type Fire-Control Component,34
 item-100,Elite Griffin Combat Medal,4
 item-101,Combat Ranking Medal,67
@@ -34,22 +34,22 @@ item-103,Challenger Medal,21
 item-104,Elite Adventurer Medal,3
 item-304,Central Data: M2,0
 item-306,Core Data: QLZ-04,50
-item-506,Battery,2771
+item-506,Battery,2213
 item-507,Surplus EXP,240000
-item-508,Friendship Points,64040
-item-509,Fairy Command,158
-item-514,Petri Dish,668
+item-508,Friendship Points,64180
+item-509,Fairy Command,147
+item-514,Petri Dish,728
 item-515,Basic Training Keycode,5927
 item-516,Advanced Training Keycode,1015
-item-519,HOC General Data,41
+item-519,HOC General Data,42
 item-520,Frag Grenade,28
 item-521,Stun Grenade,40
 item-522,Turret,15
 item-601,Infinite Surprise Dye,37
 item-602,Colorful Specified Dye,1
-item-603,Potential Energy,3
-item-604,Electronic Impulse,0
-item-605,Aid Commission,33
+item-603,Potential Energy,0
+item-604,Electronic Impulse,2
+item-605,Aid Commission,34
 item-606,Transfer Catalyst,10
 item-1001,AAT-52 Icon,1
 item-1002,G43 Icon,1
@@ -170,9 +170,9 @@ item-4004,Wasteland's Gift,8211
 item-6001,Ordinary Meat Bun,22
 item-6002,Bundle of Meat Buns,30
 item-6003,Trove of Meat Buns,31
-item-6004,Commonfolk Standard,10
+item-6004,Commonfolk Standard,9
 item-6005,Comfort Bucket for One,30
-item-6006,Full Meal for Two,25
+item-6006,Full Meal for Two,24
 item-6007,Strawberry Cheesecake Slice,8
 item-6008,One Week's Cake Selection,19
 item-6009,Sweet Explosives,44
@@ -245,7 +245,7 @@ item-1100006,Bon appétit !,1
 gift-11,Witch from Afar,1
 gift-530,A Girl's Hot Air Balloon Adventure,2
 gift-4908,Roly-Poly Ninja Cat,1
-gift-100001,Lollipop,62
+gift-100001,Lollipop,63
 gift-100002,Ice Cream Cone,87
 gift-100003,Strawberry Custard Cheesecake,894
 gift-100006,Magic of Happiness,25
@@ -253,7 +253,7 @@ gift-100007,Whiskey,60
 gift-200001,Combat Report,59093
 gift-200004,Paper Target,25
 gift-200005,Kandel Formulation,60
-gift-400001,Rapid Growth Disk,494
+gift-400001,Rapid Growth Disk,635
 furniture-10107,Multifunctional Workbench,7
 furniture-10206,Isolated Cat Tree,6
 furniture-10307,Automated Doghouse,7
