@@ -1,32 +1,32 @@
 ﻿Item ID,Item Name,Item Number
 -1,reg_time,2018-05-10 20:01:10
-item-10,Dummy Core,1600
+item-10,Dummy Core,1578
 item-31,Basic Training Data,10608
-item-32,Intermediate Training Data,8863
-item-33,Advanced Training Data,8860
+item-32,Intermediate Training Data,8463
+item-33,Advanced Training Data,9072
 -1,kalina_level,28
--1,kalina_favor,89436
-item-1,T-Doll Contract,2774
-item-2,Equipment Contract,2553
-item-3,Quick Production Contract,1587
-item-4,Quick Repair Contract,4264
+-1,kalina_favor,89461
+item-1,T-Doll Contract,2783
+item-2,Equipment Contract,2569
+item-3,Quick Production Contract,1595
+item-4,Quick Repair Contract,4267
 item-5,Daily Pause Permit,1
 item-7,Oath Certificate,4
 item-8,Quick Training Contract,112
-item-9,Enhancement Capsule,2071
-item-11,Key Card,53
+item-9,Enhancement Capsule,2028
+item-11,Key Card,60
 item-12,Points,90
-item-14,Original Sample,713
-item-15,Pure Sample,236
-item-16,Quick Analysis Contract,788
-item-17,Data Patch,183
-item-41,Token,6116
+item-14,Original Sample,783
+item-15,Pure Sample,157
+item-16,Quick Analysis Contract,789
+item-17,Data Patch,184
+item-41,Token,6134
 item-43,Black Card,3
 item-44,Calibration Ticket,13095
 item-45,Memory Fragment,8170
 item-46,Special Combat Report,7374
 item-47,Theater Material,4
-item-50,Universal Parts,8939
+item-50,Universal Parts,8943
 item-51,New Type Fire-Control Component,34
 item-100,Elite Griffin Combat Medal,4
 item-101,Combat Ranking Medal,67
@@ -34,21 +34,21 @@ item-103,Challenger Medal,21
 item-104,Elite Adventurer Medal,3
 item-304,Central Data: M2,0
 item-306,Core Data: QLZ-04,50
-item-506,Battery,2213
+item-506,Battery,613
 item-507,Surplus EXP,240000
-item-508,Friendship Points,64180
-item-509,Fairy Command,147
-item-514,Petri Dish,728
-item-515,Basic Training Keycode,5927
-item-516,Advanced Training Keycode,1015
-item-519,HOC General Data,42
+item-508,Friendship Points,64340
+item-509,Fairy Command,164
+item-514,Petri Dish,783
+item-515,Basic Training Keycode,6410
+item-516,Advanced Training Keycode,2019
+item-519,HOC General Data,43
 item-520,Frag Grenade,28
 item-521,Stun Grenade,40
 item-522,Turret,15
 item-601,Infinite Surprise Dye,37
 item-602,Colorful Specified Dye,1
 item-603,Potential Energy,0
-item-604,Electronic Impulse,2
+item-604,Electronic Impulse,3
 item-605,Aid Commission,34
 item-606,Transfer Catalyst,10
 item-1001,AAT-52 Icon,1
@@ -170,12 +170,12 @@ item-4004,Wasteland's Gift,8211
 item-6001,Ordinary Meat Bun,22
 item-6002,Bundle of Meat Buns,30
 item-6003,Trove of Meat Buns,31
-item-6004,Commonfolk Standard,9
+item-6004,Commonfolk Standard,6
 item-6005,Comfort Bucket for One,30
 item-6006,Full Meal for Two,24
 item-6007,Strawberry Cheesecake Slice,8
 item-6008,One Week's Cake Selection,19
-item-6009,Sweet Explosives,44
+item-6009,Sweet Explosives,45
 item-6010,"Baby  B-A-B-Y.",38
 item-6011,Streetside Oden,13
 item-6012,Wild Honeycomb,36
@@ -187,7 +187,7 @@ item-9004,Supply Box,0
 item-9006,item-10009006,1
 item-9007,item-10009007,1
 item-10603,Extra Potential Energy,18
-item-10604,item-10010604,5
+item-10604,item-10010604,10
 item-100009,Crown of Respect,20
 item-100013,Kitsune Mask,112
 item-100015,Dinergate Lantern,10
@@ -242,6 +242,9 @@ item-900034,Nova Medal·Shattered Connexion,3
 item-900035,Platinum Medal·Shattered Connexion,4
 item-1100005,Bon appétit !,1
 item-1100006,Bon appétit !,1
+item-100092,item-10100092,9
+item-100094,item-10100094,60
+item-100093,item-10100093,5
 gift-11,Witch from Afar,1
 gift-530,A Girl's Hot Air Balloon Adventure,2
 gift-4908,Roly-Poly Ninja Cat,1
