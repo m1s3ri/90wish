@@ -1,32 +1,32 @@
 ﻿Item ID,Item Name,Item Number
 -1,reg_time,2018-05-10 20:01:10
-item-10,Dummy Core,1456
+item-10,Dummy Core,1472
 item-31,Basic Training Data,9448
-item-32,Intermediate Training Data,9355
-item-33,Advanced Training Data,9549
+item-32,Intermediate Training Data,8955
+item-33,Advanced Training Data,9708
 -1,kalina_level,28
--1,kalina_favor,89561
-item-1,T-Doll Contract,2846
-item-2,Equipment Contract,2746
-item-3,Quick Production Contract,1660
-item-4,Quick Repair Contract,4297
+-1,kalina_favor,89586
+item-1,T-Doll Contract,2852
+item-2,Equipment Contract,2780
+item-3,Quick Production Contract,1666
+item-4,Quick Repair Contract,4302
 item-5,Daily Pause Permit,1
 item-7,Oath Certificate,4
 item-8,Quick Training Contract,112
 item-9,Enhancement Capsule,1921
 item-11,Key Card,0
 item-12,Points,0
-item-14,Original Sample,993
-item-15,Pure Sample,213
-item-16,Quick Analysis Contract,796
+item-14,Original Sample,853
+item-15,Pure Sample,232
+item-16,Quick Analysis Contract,797
 item-17,Data Patch,189
-item-41,Token,6182
+item-41,Token,6187
 item-43,Black Card,3
 item-44,Calibration Ticket,13325
 item-45,Memory Fragment,7650
 item-46,Special Combat Report,7374
 item-47,Theater Material,4
-item-50,Universal Parts,8891
+item-50,Universal Parts,8895
 item-51,New Type Fire-Control Component,34
 item-100,Elite Griffin Combat Medal,4
 item-101,Combat Ranking Medal,67
@@ -34,11 +34,11 @@ item-103,Challenger Medal,21
 item-104,Elite Adventurer Medal,3
 item-304,Central Data: M2,0
 item-306,Core Data: QLZ-04,50
-item-506,Battery,226
-item-507,Surplus EXP,360
-item-508,Friendship Points,65110
-item-509,Fairy Command,107
-item-514,Petri Dish,887
+item-506,Battery,444
+item-507,Surplus EXP,136464
+item-508,Friendship Points,65250
+item-509,Fairy Command,100
+item-514,Petri Dish,951
 item-515,Basic Training Keycode,10800
 item-516,Advanced Training Keycode,3027
 item-519,HOC General Data,50
@@ -47,7 +47,7 @@ item-521,Stun Grenade,40
 item-522,Turret,15
 item-601,Infinite Surprise Dye,37
 item-602,Colorful Specified Dye,1
-item-603,Potential Energy,0
+item-603,Potential Energy,1
 item-604,Electronic Impulse,4
 item-605,Aid Commission,35
 item-606,Transfer Catalyst,10
@@ -170,12 +170,12 @@ item-4004,Wasteland's Gift,8716
 item-6001,Ordinary Meat Bun,22
 item-6002,Bundle of Meat Buns,31
 item-6003,Trove of Meat Buns,31
-item-6004,Commonfolk Standard,4
+item-6004,Commonfolk Standard,2
 item-6005,Comfort Bucket for One,30
 item-6006,Full Meal for Two,24
 item-6007,Strawberry Cheesecake Slice,8
 item-6008,One Week's Cake Selection,20
-item-6009,Sweet Explosives,46
+item-6009,Sweet Explosives,47
 item-6010,"Baby  B-A-B-Y.",38
 item-6011,Streetside Oden,13
 item-6012,Wild Honeycomb,36
@@ -187,7 +187,7 @@ item-9004,Supply Box,0
 item-9006,item-10009006,1
 item-9007,item-10009007,1
 item-10603,Extra Potential Energy,18
-item-10604,item-10010604,13
+item-10604,Extra Impulse,13
 item-100009,Crown of Respect,20
 item-100013,Kitsune Mask,112
 item-100015,Dinergate Lantern,10
@@ -220,9 +220,9 @@ item-100081,Nova Medal - The Photo Studio Mystery,2
 item-100082,Platinum Medal - The Photo Studio Mystery,3
 item-100083,Tangerine Coin,0
 item-100085,Platinum Medal,2
-item-100092,item-10100092,12
-item-100093,item-10100093,58
-item-100094,item-10100094,150
+item-100092,Nova Medal - Far Side of the Sea,12
+item-100093,Platinum Medal - Far Side of the Sea,58
+item-100094,Azure Conch,150
 item-110001,Carnival Event Points,2500
 item-110002,Carnival Event Points,2600
 item-110003,Carnival Event Points,2400
@@ -254,7 +254,7 @@ gift-100002,Ice Cream Cone,87
 gift-100003,Strawberry Custard Cheesecake,894
 gift-100006,Magic of Happiness,25
 gift-100007,Whiskey,60
-gift-200001,Combat Report,59989
+gift-200001,Combat Report,60117
 gift-200004,Paper Target,25
 gift-200005,Kandel Formulation,60
 gift-400001,Rapid Growth Disk,825
