@@ -1,32 +1,32 @@
 ﻿Item ID,Item Name,Item Number
 -1,reg_time,2018-05-10 20:01:10
-item-10,Dummy Core,1422
-item-31,Basic Training Data,9188
+item-10,Dummy Core,1442
+item-31,Basic Training Data,8588
 item-32,Intermediate Training Data,8751
-item-33,Advanced Training Data,9848
+item-33,Advanced Training Data,9943
 -1,kalina_level,28
 -1,kalina_favor,89686
-item-1,T-Doll Contract,2892
-item-2,Equipment Contract,2905
-item-3,Quick Production Contract,1749
-item-4,Quick Repair Contract,4333
+item-1,T-Doll Contract,2903
+item-2,Equipment Contract,2946
+item-3,Quick Production Contract,1767
+item-4,Quick Repair Contract,4353
 item-5,Daily Pause Permit,1
 item-7,Oath Certificate,4
 item-8,Quick Training Contract,112
 item-9,Enhancement Capsule,1911
 item-11,Key Card,0
 item-12,Points,0
-item-14,Original Sample,853
-item-15,Pure Sample,164
-item-16,Quick Analysis Contract,803
+item-14,Original Sample,923
+item-15,Pure Sample,195
+item-16,Quick Analysis Contract,804
 item-17,Data Patch,198
-item-41,Token,6269
+item-41,Token,6275
 item-43,Black Card,3
-item-44,Calibration Ticket,13285
-item-45,Memory Fragment,6780
+item-44,Calibration Ticket,13305
+item-45,Memory Fragment,6960
 item-46,Special Combat Report,7374
 item-47,Theater Material,4
-item-50,Universal Parts,8921
+item-50,Universal Parts,8925
 item-51,New Type Fire-Control Component,34
 item-100,Elite Griffin Combat Medal,4
 item-101,Combat Ranking Medal,67
@@ -34,10 +34,10 @@ item-103,Challenger Medal,21
 item-104,Elite Adventurer Medal,3
 item-304,Central Data: M2,0
 item-306,Core Data: QLZ-04,50
-item-506,Battery,341
-item-507,Surplus EXP,156096
-item-508,Friendship Points,65900
-item-509,Fairy Command,40
+item-506,Battery,401
+item-507,Surplus EXP,199896
+item-508,Friendship Points,66040
+item-509,Fairy Command,100
 item-514,Petri Dish,1037
 item-515,Basic Training Keycode,13173
 item-516,Advanced Training Keycode,4234
@@ -47,9 +47,9 @@ item-521,Stun Grenade,40
 item-522,Turret,15
 item-601,Infinite Surprise Dye,37
 item-602,Colorful Specified Dye,1
-item-603,Potential Energy,1
+item-603,Potential Energy,0
 item-604,Electronic Impulse,4
-item-605,Aid Commission,35
+item-605,Aid Commission,36
 item-606,Transfer Catalyst,10
 item-1001,AAT-52 Icon,1
 item-1002,G43 Icon,1
@@ -254,10 +254,10 @@ gift-100002,Ice Cream Cone,87
 gift-100003,Strawberry Custard Cheesecake,907
 gift-100006,Magic of Happiness,25
 gift-100007,Whiskey,60
-gift-200001,Combat Report,60824
+gift-200001,Combat Report,60937
 gift-200004,Paper Target,25
 gift-200005,Kandel Formulation,60
-gift-400001,Rapid Growth Disk,1069
+gift-400001,Rapid Growth Disk,1213
 furniture-10107,Multifunctional Workbench,7
 furniture-10206,Isolated Cat Tree,6
 furniture-10307,Automated Doghouse,7
