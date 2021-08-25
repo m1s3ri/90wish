@@ -2,13 +2,13 @@
 -1,reg_time,2018-05-10 20:01:10
 item-10,Dummy Core,1774
 item-31,Basic Training Data,6066
-item-32,Intermediate Training Data,8743
+item-32,Intermediate Training Data,8939
 item-33,Advanced Training Data,11178
 -1,kalina_level,28
 -1,kalina_favor,89981
 item-1,T-Doll Contract,3260
-item-2,Equipment Contract,4308
-item-3,Quick Production Contract,2375
+item-2,Equipment Contract,4312
+item-3,Quick Production Contract,2378
 item-4,Quick Repair Contract,4646
 item-5,Daily Pause Permit,1
 item-7,Oath Certificate,4
@@ -25,7 +25,7 @@ item-43,Black Card,3
 item-44,Calibration Ticket,12410
 item-45,Memory Fragment,6100
 item-46,Special Combat Report,7974
-item-47,Theater Material,0
+item-47,Theater Material,462
 item-50,Universal Parts,8061
 item-51,New Type Fire-Control Component,36
 item-100,Elite Griffin Combat Medal,4
@@ -35,13 +35,13 @@ item-104,Elite Adventurer Medal,3
 item-304,Central Data: M2,0
 item-306,Core Data: QLZ-04,0
 item-506,Battery,860
-item-507,Surplus EXP,1848
+item-507,Surplus EXP,194568
 item-508,Friendship Points,70550
 item-509,Fairy Command,200
 item-512,Supernova Kernel,10
 item-513,Dark Star Kernel,4400
 item-514,Petri Dish,2374
-item-515,Basic Training Keycode,17238
+item-515,Basic Training Keycode,17469
 item-516,Advanced Training Keycode,10434
 item-519,HOC General Data,62
 item-520,Frag Grenade,28
@@ -49,7 +49,7 @@ item-521,Stun Grenade,40
 item-522,Turret,15
 item-601,Infinite Surprise Dye,37
 item-602,Colorful Specified Dye,1
-item-603,Potential Energy,2
+item-603,Potential Energy,5
 item-604,Electronic Impulse,0
 item-605,Aid Commission,21
 item-606,Transfer Catalyst,75
