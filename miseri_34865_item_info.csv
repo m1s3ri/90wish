@@ -1,57 +1,57 @@
 ﻿Item ID,Item Name,Item Number
 -1,reg_time,2018-05-10 20:01:10
-item-10,Dummy Core,1774
+item-10,Dummy Core,1807
 item-31,Basic Training Data,6066
-item-32,Intermediate Training Data,8939
+item-32,Intermediate Training Data,9009
 item-33,Advanced Training Data,11178
 -1,kalina_level,28
 -1,kalina_favor,89981
-item-1,T-Doll Contract,3260
-item-2,Equipment Contract,4312
-item-3,Quick Production Contract,2378
-item-4,Quick Repair Contract,4646
+item-1,T-Doll Contract,3261
+item-2,Equipment Contract,4363
+item-3,Quick Production Contract,2436
+item-4,Quick Repair Contract,4664
 item-5,Daily Pause Permit,1
 item-7,Oath Certificate,4
 item-8,Quick Training Contract,119
-item-9,Enhancement Capsule,1799
+item-9,Enhancement Capsule,1772
 item-11,Key Card,0
 item-12,Points,0
-item-14,Original Sample,1233
-item-15,Pure Sample,148
-item-16,Quick Analysis Contract,838
-item-17,Data Patch,290
-item-41,Token,6509
+item-14,Original Sample,1043
+item-15,Pure Sample,128
+item-16,Quick Analysis Contract,841
+item-17,Data Patch,295
+item-41,Token,6532
 item-43,Black Card,3
-item-44,Calibration Ticket,12410
-item-45,Memory Fragment,6100
+item-44,Calibration Ticket,12610
+item-45,Memory Fragment,6120
 item-46,Special Combat Report,7974
-item-47,Theater Material,462
-item-50,Universal Parts,8061
+item-47,Theater Material,2803
+item-50,Universal Parts,8073
 item-51,New Type Fire-Control Component,36
 item-100,Elite Griffin Combat Medal,4
 item-101,Combat Ranking Medal,67
 item-103,Challenger Medal,21
 item-104,Elite Adventurer Medal,3
 item-304,Central Data: M2,0
-item-306,Core Data: QLZ-04,0
-item-506,Battery,860
-item-507,Surplus EXP,194568
-item-508,Friendship Points,70550
+item-306,Core Data: QLZ-04,1
+item-506,Battery,1042
+item-507,Surplus EXP,1800
+item-508,Friendship Points,70950
 item-509,Fairy Command,200
 item-512,Supernova Kernel,10
 item-513,Dark Star Kernel,4400
-item-514,Petri Dish,2374
-item-515,Basic Training Keycode,17469
-item-516,Advanced Training Keycode,10434
+item-514,Petri Dish,2416
+item-515,Basic Training Keycode,18393
+item-516,Advanced Training Keycode,11358
 item-519,HOC General Data,62
 item-520,Frag Grenade,28
 item-521,Stun Grenade,40
 item-522,Turret,15
 item-601,Infinite Surprise Dye,37
 item-602,Colorful Specified Dye,1
-item-603,Potential Energy,5
-item-604,Electronic Impulse,0
-item-605,Aid Commission,21
+item-603,Potential Energy,1
+item-604,Electronic Impulse,1
+item-605,Aid Commission,23
 item-606,Transfer Catalyst,75
 item-1001,AAT-52 Icon,1
 item-1002,G43 Icon,1
@@ -167,10 +167,10 @@ item-1774,ID: Work Checklist,1
 item-1776,ID: Girls by the Hearth,1
 item-1844,ID: Springtime Celebration,1
 item-1860,ID: Fragments of Precious Treasures,1
-item-4001,City's Gift,12538
+item-4001,City's Gift,12569
 item-4002,Snowfield's Gift,10930
-item-4003,Forest's Gift,11629
-item-4004,Wasteland's Gift,13790
+item-4003,Forest's Gift,11660
+item-4004,Wasteland's Gift,14102
 item-6001,Ordinary Meat Bun,23
 item-6002,Bundle of Meat Buns,36
 item-6003,Trove of Meat Buns,61
@@ -191,7 +191,7 @@ item-9004,Supply Box,0
 item-9006,item-10009006,1
 item-9007,item-10009007,1
 item-10603,Extra Potential Energy,19
-item-10604,Extra Impulse,0
+item-10604,Extra Impulse,1
 item-100009,Crown of Respect,20
 item-100013,Kitsune Mask,112
 item-100015,Dinergate Lantern,10
@@ -261,10 +261,10 @@ gift-100002,Ice Cream Cone,87
 gift-100003,Strawberry Custard Cheesecake,907
 gift-100006,Magic of Happiness,25
 gift-100007,Whiskey,60
-gift-200001,Combat Report,69122
+gift-200001,Combat Report,69236
 gift-200004,Paper Target,25
 gift-200005,Kandel Formulation,60
-gift-400001,Rapid Growth Disk,3024
+gift-400001,Rapid Growth Disk,3160
 furniture-10107,Multifunctional Workbench,7
 furniture-10207,Isolated Cat Tree,7
 furniture-10307,Automated Doghouse,7
