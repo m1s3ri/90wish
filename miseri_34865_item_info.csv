@@ -1,58 +1,58 @@
 ﻿Item ID,Item Name,Item Number
 -1,reg_time,2018-05-10 20:01:10
-item-10,Dummy Core,2000
-item-31,Basic Training Data,6466
-item-32,Intermediate Training Data,9157
-item-33,Advanced Training Data,9057
+item-10,Dummy Core,2019
+item-31,Basic Training Data,5266
+item-32,Intermediate Training Data,8637
+item-33,Advanced Training Data,9825
 -1,kalina_level,28
--1,kalina_favor,90776
-item-1,T-Doll Contract,1810
-item-2,Equipment Contract,4794
-item-3,Quick Production Contract,2590
-item-4,Quick Repair Contract,4835
+-1,kalina_favor,92159
+item-1,T-Doll Contract,1865
+item-2,Equipment Contract,4791
+item-3,Quick Production Contract,2666
+item-4,Quick Repair Contract,4866
 item-5,Daily Pause Permit,1
 item-7,Oath Certificate,4
-item-8,Quick Training Contract,129
-item-9,Enhancement Capsule,1823
+item-8,Quick Training Contract,130
+item-9,Enhancement Capsule,1750
 item-11,Key Card,0
 item-12,Points,0
-item-14,Original Sample,563
-item-15,Pure Sample,96
-item-16,Quick Analysis Contract,875
-item-17,Data Patch,321
-item-41,Token,6528
+item-14,Original Sample,793
+item-15,Pure Sample,46
+item-16,Quick Analysis Contract,878
+item-17,Data Patch,324
+item-41,Token,6613
 item-43,Black Card,3
-item-44,Calibration Ticket,12035
-item-45,Memory Fragment,7760
+item-44,Calibration Ticket,12045
+item-45,Memory Fragment,8180
 item-46,Special Combat Report,10174
 item-47,Theater Material,9
-item-50,Universal Parts,7588
+item-50,Universal Parts,7604
 item-51,New Type Fire-Control Component,38
 item-100,Elite Griffin Combat Medal,4
 item-101,Combat Ranking Medal,77
-item-103,Challenger Medal,21
+item-103,Challenger Medal,22
 item-104,Elite Adventurer Medal,3
 item-304,Central Data: M2,0
 item-306,Core Data: QLZ-04,0
 item-307,Central Data: Mk 153,20
-item-506,Battery,1293
-item-507,Surplus EXP,480
-item-508,Friendship Points,74040
-item-509,Fairy Command,149
+item-506,Battery,2039
+item-507,Surplus EXP,840
+item-508,Friendship Points,74670
+item-509,Fairy Command,200
 item-512,Supernova Kernel,30
 item-513,Dark Star Kernel,6900
-item-514,Petri Dish,3614
-item-515,Basic Training Keycode,23690
-item-516,Advanced Training Keycode,14135
-item-519,HOC General Data,45
+item-514,Petri Dish,3828
+item-515,Basic Training Keycode,21718
+item-516,Advanced Training Keycode,14891
+item-519,HOC General Data,47
 item-520,Frag Grenade,28
 item-521,Stun Grenade,40
 item-522,Turret,15
-item-601,Infinite Surprise Dye,37
+item-601,Infinite Surprise Dye,39
 item-602,Colorful Specified Dye,1
-item-603,Potential Energy,3
-item-604,Electronic Impulse,3
-item-605,Aid Commission,27
+item-603,Potential Energy,0
+item-604,Electronic Impulse,0
+item-605,Aid Commission,38
 item-606,Transfer Catalyst,130
 item-1001,AAT-52 Icon,1
 item-1002,G43 Icon,1
@@ -169,17 +169,17 @@ item-1774,ID: Work Checklist,1
 item-1776,ID: Girls by the Hearth,1
 item-1844,ID: Spring Carnival,1
 item-1860,ID: Fragments of Precious Treasures,1
-item-4001,City's Gift,12581
-item-4002,Snowfield's Gift,8125
-item-4003,Forest's Gift,12004
-item-4004,Wasteland's Gift,10670
+item-4001,City's Gift,12977
+item-4002,Snowfield's Gift,9278
+item-4003,Forest's Gift,12948
+item-4004,Wasteland's Gift,11228
 item-6001,Ordinary Meat Bun,23
 item-6002,Bundle of Meat Buns,38
-item-6003,Trove of Meat Buns,62
+item-6003,Trove of Meat Buns,65
 item-6004,Commonfolk Standard,7
 item-6005,Comfort Bucket for One,17
 item-6006,Full Meal for Two,101
-item-6007,Strawberry Cheesecake Slice,12
+item-6007,Strawberry Cheesecake Slice,13
 item-6008,One Week's Cake Selection,31
 item-6009,Sweet Explosives,49
 item-6010,"Baby  B-A-B-Y.",39
@@ -192,8 +192,8 @@ item-9003,Supply Box,0
 item-9004,Supply Box,0
 item-9006,item-10009006,1
 item-9007,item-10009007,1
-item-10603,Extra Potential Energy,28
-item-10604,Extra Impulse,37
+item-10603,Extra Potential Energy,37
+item-10604,Extra Impulse,38
 item-100009,Crown of Respect,20
 item-100013,Kitsune Mask,112
 item-100015,Dinergate Lantern,10
@@ -243,6 +243,7 @@ item-110014,Event Points,2470
 item-110015,Event Points,2440
 item-110016,Event Points,2440
 item-110017,Event Points,2570
+item-110018,Event Points,2440
 item-900030,Nova Medal,1
 item-900031,Platinum Medal,2
 item-900032,Nova Medal,4
@@ -260,10 +261,10 @@ gift-4708,Astra's Pool Adventures,1
 gift-4908,Roly-Poly Ninja Cat,1
 gift-100001,Lollipop,14
 gift-100002,Ice Cream Cone,87
-gift-100003,Strawberry Custard Cheesecake,907
+gift-100003,Strawberry Custard Cheesecake,917
 gift-100006,Magic of Happiness,25
 gift-100007,Whiskey,60
-gift-200001,Combat Report,74069
+gift-200001,Combat Report,74201
 gift-200004,Paper Target,25
 gift-200005,Kandel Formulation,60
 gift-400001,Rapid Growth Disk,3948
