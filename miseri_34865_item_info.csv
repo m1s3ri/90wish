@@ -1,32 +1,32 @@
 ﻿Item ID,Item Name,Item Number
 -1,reg_time,2018-05-10 20:01:10
-item-10,Dummy Core,2019
-item-31,Basic Training Data,5266
-item-32,Intermediate Training Data,8637
+item-10,Dummy Core,1984
+item-31,Basic Training Data,4086
+item-32,Intermediate Training Data,9521
 item-33,Advanced Training Data,9825
 -1,kalina_level,28
 -1,kalina_favor,92159
-item-1,T-Doll Contract,1865
-item-2,Equipment Contract,4791
-item-3,Quick Production Contract,2666
-item-4,Quick Repair Contract,4866
+item-1,T-Doll Contract,1889
+item-2,Equipment Contract,4811
+item-3,Quick Production Contract,2727
+item-4,Quick Repair Contract,4886
 item-5,Daily Pause Permit,1
 item-7,Oath Certificate,4
 item-8,Quick Training Contract,130
-item-9,Enhancement Capsule,1750
+item-9,Enhancement Capsule,1752
 item-11,Key Card,0
 item-12,Points,0
-item-14,Original Sample,793
-item-15,Pure Sample,46
-item-16,Quick Analysis Contract,878
-item-17,Data Patch,324
-item-41,Token,6613
+item-14,Original Sample,1033
+item-15,Pure Sample,56
+item-16,Quick Analysis Contract,881
+item-17,Data Patch,328
+item-41,Token,6648
 item-43,Black Card,3
-item-44,Calibration Ticket,12045
-item-45,Memory Fragment,8180
-item-46,Special Combat Report,10174
+item-44,Calibration Ticket,12000
+item-45,Memory Fragment,8240
+item-46,Special Combat Report,9814
 item-47,Theater Material,9
-item-50,Universal Parts,7604
+item-50,Universal Parts,7622
 item-51,New Type Fire-Control Component,38
 item-100,Elite Griffin Combat Medal,4
 item-101,Combat Ranking Medal,77
@@ -34,25 +34,25 @@ item-103,Challenger Medal,22
 item-104,Elite Adventurer Medal,3
 item-304,Central Data: M2,0
 item-306,Core Data: QLZ-04,0
-item-307,Central Data: Mk 153,20
-item-506,Battery,2039
-item-507,Surplus EXP,840
-item-508,Friendship Points,74670
+item-307,Central Data: Mk 153,15
+item-506,Battery,1767
+item-507,Surplus EXP,0
+item-508,Friendship Points,74830
 item-509,Fairy Command,200
 item-512,Supernova Kernel,30
 item-513,Dark Star Kernel,6900
-item-514,Petri Dish,3828
-item-515,Basic Training Keycode,21718
-item-516,Advanced Training Keycode,14891
-item-519,HOC General Data,47
+item-514,Petri Dish,3872
+item-515,Basic Training Keycode,22934
+item-516,Advanced Training Keycode,15575
+item-519,HOC General Data,49
 item-520,Frag Grenade,28
 item-521,Stun Grenade,40
 item-522,Turret,15
 item-601,Infinite Surprise Dye,39
 item-602,Colorful Specified Dye,1
 item-603,Potential Energy,0
-item-604,Electronic Impulse,0
-item-605,Aid Commission,38
+item-604,Electronic Impulse,1
+item-605,Aid Commission,40
 item-606,Transfer Catalyst,130
 item-1001,AAT-52 Icon,1
 item-1002,G43 Icon,1
@@ -169,19 +169,19 @@ item-1774,ID: Work Checklist,1
 item-1776,ID: Girls by the Hearth,1
 item-1844,ID: Spring Carnival,1
 item-1860,ID: Fragments of Precious Treasures,1
-item-4001,City's Gift,12977
-item-4002,Snowfield's Gift,9278
-item-4003,Forest's Gift,12948
-item-4004,Wasteland's Gift,11228
+item-4001,City's Gift,13572
+item-4002,Snowfield's Gift,11236
+item-4003,Forest's Gift,13616
+item-4004,Wasteland's Gift,12307
 item-6001,Ordinary Meat Bun,23
 item-6002,Bundle of Meat Buns,38
 item-6003,Trove of Meat Buns,65
-item-6004,Commonfolk Standard,7
+item-6004,Commonfolk Standard,8
 item-6005,Comfort Bucket for One,17
-item-6006,Full Meal for Two,101
+item-6006,Full Meal for Two,99
 item-6007,Strawberry Cheesecake Slice,13
-item-6008,One Week's Cake Selection,31
-item-6009,Sweet Explosives,49
+item-6008,One Week's Cake Selection,32
+item-6009,Sweet Explosives,46
 item-6010,"Baby  B-A-B-Y.",39
 item-6011,Streetside Oden,22
 item-6012,Wild Honeycomb,39
@@ -243,7 +243,7 @@ item-110014,Event Points,2470
 item-110015,Event Points,2440
 item-110016,Event Points,2440
 item-110017,Event Points,2570
-item-110018,Event Points,2440
+item-110018,Event Points,2490
 item-900030,Nova Medal,1
 item-900031,Platinum Medal,2
 item-900032,Nova Medal,4
@@ -264,7 +264,7 @@ gift-100002,Ice Cream Cone,87
 gift-100003,Strawberry Custard Cheesecake,917
 gift-100006,Magic of Happiness,25
 gift-100007,Whiskey,60
-gift-200001,Combat Report,74201
+gift-200001,Combat Report,74506
 gift-200004,Paper Target,25
 gift-200005,Kandel Formulation,60
 gift-400001,Rapid Growth Disk,3948
