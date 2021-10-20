@@ -1,32 +1,32 @@
 ﻿Item ID,Item Name,Item Number
 -1,reg_time,2018-05-10 20:01:10
-item-10,Dummy Core,2134
+item-10,Dummy Core,2149
 item-31,Basic Training Data,9311
-item-32,Intermediate Training Data,8186
-item-33,Advanced Training Data,8292
+item-32,Intermediate Training Data,8774
+item-33,Advanced Training Data,7892
 -1,kalina_level,28
--1,kalina_favor,94828
-item-1,T-Doll Contract,2027
-item-2,Equipment Contract,5134
-item-3,Quick Production Contract,3129
-item-4,Quick Repair Contract,5020
+-1,kalina_favor,95993
+item-1,T-Doll Contract,2028
+item-2,Equipment Contract,5158
+item-3,Quick Production Contract,3143
+item-4,Quick Repair Contract,5040
 item-5,Daily Pause Permit,1
 item-7,Oath Certificate,4
 item-8,Quick Training Contract,130
 item-9,Enhancement Capsule,1507
 item-11,Key Card,0
 item-12,Points,0
-item-14,Original Sample,573
-item-15,Pure Sample,255
-item-16,Quick Analysis Contract,908
+item-14,Original Sample,793
+item-15,Pure Sample,144
+item-16,Quick Analysis Contract,909
 item-17,Data Patch,353
-item-41,Token,5130
+item-41,Token,5146
 item-43,Black Card,5
 item-44,Calibration Ticket,12005
 item-45,Memory Fragment,8970
-item-46,Special Combat Report,9919
+item-46,Special Combat Report,9559
 item-47,Theater Material,9
-item-50,Universal Parts,8922
+item-50,Universal Parts,8926
 item-51,New Type Fire-Control Component,40
 item-100,Elite Griffin Combat Medal,4
 item-101,Combat Ranking Medal,82
@@ -35,15 +35,15 @@ item-104,Elite Adventurer Medal,3
 item-304,Central Data: M2,0
 item-306,Core Data: QLZ-04,0
 item-307,Central Data: Mk 153,45
-item-506,Battery,3821
-item-507,Surplus EXP,0
-item-508,Friendship Points,77670
+item-506,Battery,3106
+item-507,Surplus EXP,1692
+item-508,Friendship Points,77820
 item-509,Fairy Command,200
 item-512,Supernova Kernel,30
-item-513,Dark Star Kernel,10300
+item-513,Dark Star Kernel,11500
 item-514,Petri Dish,4073
-item-515,Basic Training Keycode,28110
-item-516,Advanced Training Keycode,12574
+item-515,Basic Training Keycode,29614
+item-516,Advanced Training Keycode,13078
 item-519,HOC General Data,56
 item-520,Frag Grenade,28
 item-521,Stun Grenade,40
@@ -51,8 +51,8 @@ item-522,Turret,15
 item-601,Infinite Surprise Dye,39
 item-602,Colorful Specified Dye,1
 item-603,Potential Energy,0
-item-604,Electronic Impulse,4
-item-605,Aid Commission,24
+item-604,Electronic Impulse,0
+item-605,Aid Commission,34
 item-606,Transfer Catalyst,170
 item-1001,AAT-52 Icon,1
 item-1002,G43 Icon,1
@@ -186,7 +186,7 @@ item-6005,Comfort Bucket for One,2
 item-6006,Full Meal for Two,78
 item-6007,Strawberry Cheesecake Slice,16
 item-6008,One Week's Cake Selection,33
-item-6009,Sweet Explosives,52
+item-6009,Sweet Explosives,53
 item-6010,"Baby  B-A-B-Y.",39
 item-6011,Streetside Oden,22
 item-6012,Wild Honeycomb,39
@@ -197,7 +197,7 @@ item-9003,Supply Box,0
 item-9004,Supply Box,0
 item-9006,item-10009006,1
 item-9007,item-10009007,1
-item-10603,Extra Potential Energy,94
+item-10603,Extra Potential Energy,97
 item-10604,Extra Impulse,31
 item-100009,Crown of Respect,20
 item-100013,Kitsune Mask,112
@@ -220,9 +220,9 @@ item-100062,Jade Coffer,0
 item-100063,Strange Soap,4
 item-100064,Nova Medal,0
 item-100065,Platinum Medal,1
-item-100066,Butterfly Mirage,420
+item-100066,Butterfly Mirage,480
 item-100067,Nova Medal - Butterfly in a Cocoon,6
-item-100068,Platinum Medal - Butterfly in a Cocoon,181
+item-100068,Platinum Medal - Butterfly in a Cocoon,205
 item-100069,Commander Headwear: Monster Overlord,1
 item-100070,Phoenix Token,20
 item-100071,Nova Medal - Bounty Feast,0
@@ -276,10 +276,10 @@ gift-100002,Ice Cream Cone,88
 gift-100003,Strawberry Custard Cheesecake,941
 gift-100006,Magic of Happiness,25
 gift-100007,Whiskey,60
-gift-200001,Combat Report,75159
+gift-200001,Combat Report,75377
 gift-200004,Paper Target,25
 gift-200005,Kandel Formulation,60
-gift-400001,Rapid Growth Disk,4465
+gift-400001,Rapid Growth Disk,4511
 furniture-10107,Multifunctional Workbench,7
 furniture-10207,Isolated Cat Tree,7
 furniture-10307,Automated Doghouse,7
@@ -303,7 +303,7 @@ furniture-40027,Projector,0
 furniture-40028,Comic Stand,0
 furniture-50110,Data Detection Hub,10
 furniture-50210,Holographic Mission Center,10
-furniture-50307,Advanced Disk Drive Storage,7
+furniture-50308,Advanced Disk Drive Storage,8
 furniture-50410,Futuristic Analysis Terminal,10
 furniture-60109,Storeroom,9
 furniture-60201,Small Maintenance Machinery,1
