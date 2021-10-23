@@ -33,7 +33,7 @@
 455692,13,★,0,5,Rocket Fairy,0.0,10.4,0.0,5.6,8.4,Fervor,1,Locked
 456222,11,★,75,70,Parachute Fairy,11.6,0.0,10.4,2.8,13.2,Damage II,10,Locked
 457206,11,★,0,5,Parachute Fairy,6.0,0.0,5.6,1.6,6.8,Damage I,10,Locked
-457207,11,★,0,5,Parachute Fairy,6.0,0.0,5.6,1.6,6.8,Armor II,9,Locked
+457207,11,★,0,5,Parachute Fairy,6.0,0.0,5.6,1.6,6.8,Armor II,10,Locked
 458621,7,★★★,1300,100,Sniper Fairy,0.0,52.8,16.8,9.0,21.6,Fervor,1,Locked
 475930,24,★,0,1,Barrier Fairy,0.0,14.8,6.4,4.4,0.0,Charge,1,
 476306,24,★,0,1,Barrier Fairy,0.0,14.8,6.4,4.4,0.0,Charge,1,
@@ -150,6 +150,7 @@
 630943,16,★,0,1,Rescue Fairy,7.6,20.0,16.0,0.0,0.0,Assault,1,
 630944,6,★,0,1,Taunt Fairy,3.2,10.0,4.8,1.6,4.4,Damage I,1,
 630945,9,★,0,1,Airstrike Fairy,4.8,8.0,6.4,1.6,0.0,Armor I,1,
+631653,7,★,0,1,Sniper Fairy,0.0,17.6,5.6,3.2,7.2,Assault,1,
 268107,1006,★★★★★,550,95,Preiya & Camilia,17.6,39.2,8.0,8.0,17.6,Fervor,1,Locked
 261449,24,★★★,1350,84,Barrier Fairy,0.0,39.6,17.4,12.0,0.0,Evasion I,1,Locked
 199337,11,★★★★★,3000,100,Parachute Fairy,36.0,0.0,32.0,8.0,40.0,Damage II,10,Locked
