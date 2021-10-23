@@ -298,12 +298,12 @@
 3088013,20101,SMG,★★★★★,UMP9 Mod,116,15097567,2814267,185733,x5,Mod3,900,900,31,18,88,87,12,0,0,5,10,10,IOP T4 Exoskeleton,ILM Hollow-Point Ammo,AMP COMPSP,100,,,Locked
 119172408,20032,SMG,★★★★,Micro Uzi Mod,115,11001288,917988,1282012,x5,Mod3,880,880,27,14,87,104,12,0,0,5,10,10,IOP T4 Exoskeleton,ILM Hollow-Point Ammo,EOT 518,100,,,Locked
 168017583,280,SMG,★★★★,MAT-49,95,2579400,6000,124400,x3,,543,543,30,15,74,79,12,0,0,5,1,0,IOP T4 Exoskeleton,ILM Hollow-Point Ammo,AC4 Suppressor,100,,,Locked
-169041237,63,AR,★★,Gr G3,87,1794000,64300,15200,x4,,412,412,50,41,34,58,10,0,0,20,1,0,VFL 6-24X56,APCR High-Velocity Ammo,,75,,,Locked
+169041237,63,AR,★★,Gr G3,87,1794000,64300,15200,x4,,412,412,50,41,34,58,10,0,0,20,1,0,VFL 6-24X56,APCR High-Velocity Ammo,,76,,,Locked
 694706,20095,RF,★★★★,Type88 Mod,120,30283300,-,-,x5,Mod3,520,520,136,80,45,37,7,0,0,40,10,8,Mk211 High-Explosive Armor-Piercing Ammo,Acceleration Coil,Thermoptic Camouflage Cape,200,Oathed,2020-12-25 20:03,Locked
 5143189,20053,RF,★★★★★★,NTW-20 Mod,120,30283300,-,-,x5,Mod3,475,475,179,87,33,32,7,0,0,40,10,10,20mm HEI,VFL 6-24X56,Thermoptic Camouflage Cape,100,,,Locked
 100380880,20097,HG,★★★★★★,M950A Mod,119,25846556,1563256,4436744,x5,Mod3,400,400,35,60,81,72,15,0,0,20,10,10,WML & Tactical Handguard,ILM Hollow-Point Ammo,IOP T4 Exoskeleton,100,,,Locked
 157399330,299,SG,★★★,HSM10,89,1959000,67900,16400,x4,,932,932,34,13,12,27,6,19,4,40,1,0,Type 3 Armor Plate,#000 Buckshot,,100,,,Locked
-169041252,111,MG,★★,AAT-52,83,1464000,29100,41200,x4,,664,664,71,21,19,113,4,0,10,5,1,0,Mk211 High-Explosive Armor-Piercing Ammo,EOT 518,,69,,,Locked
+169041252,111,MG,★★,AAT-52,83,1464000,29100,41200,x4,,664,664,71,21,19,113,4,0,10,5,1,0,Mk211 High-Explosive Armor-Piercing Ammo,EOT 518,,70,,,Locked
 124107334,260,HG,★★★★★,PA-15,100,3263300,-,-,x5,,350,350,37,69,80,64,15,0,0,20,10,0,AC4 Suppressor,ILM Hollow-Point Ammo,IOP X4 Exoskeleton,100,,,Locked
 150471266,1029,AR,★★★★★,Agent 416,100,3263300,-,-,x5,,605,605,54,49,47,76,10,0,0,20,10,0,ACOG (4X),556 High-Velocity Ammo (Explosive),416's Go-Bag,100,,,Locked
 101161896,233,HG,★★★★★,Px4 Storm,100,3263300,-,-,x5,,340,340,37,73,98,57,15,0,0,20,10,0,AC4 Suppressor,ILM Hollow-Point Ammo,IOP T4 Exoskeleton,100,,,Locked
@@ -314,7 +314,7 @@
 116395176,205,AR,★★★★★,AN-94,100,3263300,-,-,x5,,580,580,58,71,51,76,10,0,0,20,10,0,VFL 6-24X56,APCR High-Velocity Ammo,IOP X4 Exoskeleton,100,,,Locked
 125465274,242,HG,★★★★★,P22,100,3263300,-,-,x5,,350,350,30,70,116,62,15,0,0,20,10,0,AC4 Suppressor,ILM Hollow-Point Ammo,IOP T4 Exoskeleton,100,,,Locked
 137770008,1024,RF,★★★★★,Rico,100,3263300,-,-,x5,,400,400,137,84,35,37,7,0,0,40,10,0,Mk211 High-Explosive Armor-Piercing Ammo,VFL 6-24X56,Duelling Cards,100,,,Locked
-165054102,1009,HG,★★★★★,El Clear,1,0,0,100,x1,,33,33,11,8,11,39,15,0,0,20,1,0,,,,99,,,Locked
+165054102,1009,HG,★★★★★,El Clear,1,0,0,100,x1,,33,33,11,8,11,39,15,0,0,20,1,0,,,,100,,,Locked
 126509214,242,HG,★★★★★,P22,1,0,0,100,x1,,35,35,11,9,14,41,15,0,0,20,1,0,,,,96,,,Locked
 113360136,236,AR,★★★★★,K11,100,3263300,-,-,x5,,675,675,56,57,39,76,10,0,0,20,10,0,EOT 518,APCR High-Velocity Ammo,,100,,,Locked
 95693769,213,SMG,★★★★★,C-MS,100,3263300,-,-,x5,,925,925,34,16,79,87,12,0,0,5,10,0,IOP T4 Exoskeleton,ILM Hollow-Point Ammo,AC4 Suppressor,100,,,Locked

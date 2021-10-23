@@ -1,15 +1,15 @@
 ﻿Item ID,Item Name,Item Number
 -1,reg_time,2018-05-10 20:01:10
-item-10,Dummy Core,2184
+item-10,Dummy Core,2178
 item-31,Basic Training Data,9311
-item-32,Intermediate Training Data,9248
-item-33,Advanced Training Data,7650
+item-32,Intermediate Training Data,9428
+item-33,Advanced Training Data,7756
 -1,kalina_level,28
--1,kalina_favor,98043
+-1,kalina_favor,98108
 item-1,T-Doll Contract,2035
-item-2,Equipment Contract,5198
-item-3,Quick Production Contract,3174
-item-4,Quick Repair Contract,5051
+item-2,Equipment Contract,5209
+item-3,Quick Production Contract,3177
+item-4,Quick Repair Contract,5052
 item-5,Daily Pause Permit,1
 item-7,Oath Certificate,4
 item-8,Quick Training Contract,130
@@ -35,23 +35,23 @@ item-104,Elite Adventurer Medal,3
 item-304,Central Data: M2,0
 item-306,Core Data: QLZ-04,0
 item-307,Central Data: Mk 153,45
-item-506,Battery,1152
+item-506,Battery,1259
 item-507,Surplus EXP,2358
-item-508,Friendship Points,78100
+item-508,Friendship Points,78220
 item-509,Fairy Command,200
 item-512,Supernova Kernel,30
 item-513,Dark Star Kernel,11500
 item-514,Petri Dish,4073
-item-515,Basic Training Keycode,28526
-item-516,Advanced Training Keycode,13582
+item-515,Basic Training Keycode,29030
+item-516,Advanced Training Keycode,13182
 item-519,HOC General Data,58
 item-520,Frag Grenade,28
 item-521,Stun Grenade,40
 item-522,Turret,15
 item-601,Infinite Surprise Dye,39
 item-602,Colorful Specified Dye,1
-item-603,Potential Energy,0
-item-604,Electronic Impulse,0
+item-603,Potential Energy,2
+item-604,Electronic Impulse,1
 item-605,Aid Commission,35
 item-606,Transfer Catalyst,170
 item-1001,AAT-52 Icon,1
@@ -197,7 +197,7 @@ item-9003,Supply Box,0
 item-9004,Supply Box,0
 item-9006,item-10009006,1
 item-9007,item-10009007,1
-item-10603,Extra Potential Energy,103
+item-10603,Extra Potential Energy,106
 item-10604,Extra Impulse,32
 item-100009,Crown of Respect,20
 item-100013,Kitsune Mask,112
@@ -305,7 +305,7 @@ furniture-50110,Data Detection Hub,10
 furniture-50210,Holographic Mission Center,10
 furniture-50308,Advanced Disk Drive Storage,8
 furniture-50410,Futuristic Analysis Terminal,10
-furniture-60109,Storeroom,9
+furniture-60110,Storeroom,10
 furniture-60201,Small Maintenance Machinery,1
 furniture-60310,Integrated Indoor Training Range,10
 furniture-60400,Elevator - To the camp,0
