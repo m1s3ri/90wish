@@ -1,32 +1,32 @@
 ﻿Item ID,Item Name,Item Number
 -1,reg_time,2018-05-10 20:01:10
-item-10,Dummy Core,2908
-item-31,Basic Training Data,9311
-item-32,Intermediate Training Data,9428
-item-33,Advanced Training Data,7915
+item-10,Dummy Core,2943
+item-31,Basic Training Data,8711
+item-32,Intermediate Training Data,8506
+item-33,Advanced Training Data,8286
 -1,kalina_level,28
--1,kalina_favor,98108
-item-1,T-Doll Contract,1557
-item-2,Equipment Contract,5248
-item-3,Quick Production Contract,2710
-item-4,Quick Repair Contract,5063
+-1,kalina_favor,98238
+item-1,T-Doll Contract,1561
+item-2,Equipment Contract,5329
+item-3,Quick Production Contract,2753
+item-4,Quick Repair Contract,5078
 item-5,Daily Pause Permit,1
 item-7,Oath Certificate,4
 item-8,Quick Training Contract,130
-item-9,Enhancement Capsule,1511
+item-9,Enhancement Capsule,1510
 item-11,Key Card,0
 item-12,Points,0
-item-14,Original Sample,773
-item-15,Pure Sample,281
-item-16,Quick Analysis Contract,912
-item-17,Data Patch,357
-item-41,Token,5165
+item-14,Original Sample,623
+item-15,Pure Sample,110
+item-16,Quick Analysis Contract,914
+item-17,Data Patch,361
+item-41,Token,5274
 item-43,Black Card,5
 item-44,Calibration Ticket,12015
 item-45,Memory Fragment,9030
-item-46,Special Combat Report,8839
+item-46,Special Combat Report,8479
 item-47,Theater Material,9
-item-50,Universal Parts,8942
+item-50,Universal Parts,8950
 item-51,New Type Fire-Control Component,40
 item-100,Elite Griffin Combat Medal,4
 item-101,Combat Ranking Medal,82
@@ -35,23 +35,23 @@ item-104,Elite Adventurer Medal,3
 item-304,Central Data: M2,0
 item-306,Core Data: QLZ-04,0
 item-307,Central Data: Mk 153,45
-item-506,Battery,1615
-item-507,Surplus EXP,29388
-item-508,Friendship Points,78250
+item-506,Battery,2219
+item-507,Surplus EXP,2478
+item-508,Friendship Points,78520
 item-509,Fairy Command,200
 item-512,Supernova Kernel,30
 item-513,Dark Star Kernel,11500
 item-514,Petri Dish,4073
-item-515,Basic Training Keycode,29534
-item-516,Advanced Training Keycode,13614
-item-519,HOC General Data,58
+item-515,Basic Training Keycode,30794
+item-516,Advanced Training Keycode,13770
+item-519,HOC General Data,59
 item-520,Frag Grenade,28
 item-521,Stun Grenade,40
 item-522,Turret,15
 item-601,Infinite Surprise Dye,39
 item-602,Colorful Specified Dye,1
-item-603,Potential Energy,3
-item-604,Electronic Impulse,0
+item-603,Potential Energy,0
+item-604,Electronic Impulse,4
 item-605,Aid Commission,35
 item-606,Transfer Catalyst,170
 item-1001,AAT-52 Icon,1
@@ -197,7 +197,7 @@ item-9003,Supply Box,0
 item-9004,Supply Box,0
 item-9006,item-10009006,1
 item-9007,item-10009007,1
-item-10603,Extra Potential Energy,106
+item-10603,Extra Potential Energy,112
 item-10604,Extra Impulse,32
 item-100009,Crown of Respect,20
 item-100013,Kitsune Mask,112
@@ -220,9 +220,9 @@ item-100062,Jade Coffer,0
 item-100063,Strange Soap,4
 item-100064,Nova Medal,0
 item-100065,Platinum Medal,1
-item-100066,Butterfly Mirage,680
+item-100066,Butterfly Mirage,0
 item-100067,Nova Medal - Butterfly in a Cocoon,6
-item-100068,Platinum Medal - Butterfly in a Cocoon,285
+item-100068,Platinum Medal - Butterfly in a Cocoon,309
 item-100069,Commander Headwear: Monster Overlord,1
 item-100070,Phoenix Token,20
 item-100071,Nova Medal - Bounty Feast,0
@@ -266,6 +266,9 @@ item-900037,Nova Medal·DJMAX,45
 item-900038,Platinum Medal·DJMAX,17
 item-1100005,Bon appétit !,1
 item-1100006,Bon appétit !,1
+item-1743,ID: Curtain Call,1
+item-1741,Icon: Silent Farewell,1
+item-1742,Icon: Life of Deception,1
 gift-11,Witch from Afar,1
 gift-3805,Darkside Moonwalk,1
 gift-4908,Roly-Poly Ninja Cat,1
@@ -276,10 +279,11 @@ gift-100002,Ice Cream Cone,88
 gift-100003,Strawberry Custard Cheesecake,941
 gift-100006,Magic of Happiness,25
 gift-100007,Whiskey,60
-gift-200001,Combat Report,73855
+gift-200001,Combat Report,72716
 gift-200004,Paper Target,25
 gift-200005,Kandel Formulation,60
 gift-400001,Rapid Growth Disk,4511
+gift-5106,Thief of Sweetness,1
 furniture-10107,Multifunctional Workbench,7
 furniture-10207,Isolated Cat Tree,7
 furniture-10307,Automated Doghouse,7
