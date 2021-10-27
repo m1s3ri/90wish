@@ -1,30 +1,30 @@
 ﻿Item ID,Item Name,Item Number
 -1,reg_time,2018-05-10 20:01:10
 item-10,Dummy Core,2945
-item-31,Basic Training Data,8111
-item-32,Intermediate Training Data,8860
-item-33,Advanced Training Data,8139
+item-31,Basic Training Data,8511
+item-32,Intermediate Training Data,8556
+item-33,Advanced Training Data,7945
 -1,kalina_level,28
 -1,kalina_favor,98298
-item-1,T-Doll Contract,1567
-item-2,Equipment Contract,5362
-item-3,Quick Production Contract,2767
-item-4,Quick Repair Contract,5085
+item-1,T-Doll Contract,1563
+item-2,Equipment Contract,5382
+item-3,Quick Production Contract,2780
+item-4,Quick Repair Contract,5086
 item-5,Daily Pause Permit,1
 item-7,Oath Certificate,4
 item-8,Quick Training Contract,130
-item-9,Enhancement Capsule,1508
+item-9,Enhancement Capsule,1506
 item-11,Key Card,0
 item-12,Points,0
-item-14,Original Sample,733
-item-15,Pure Sample,240
+item-14,Original Sample,683
+item-15,Pure Sample,100
 item-16,Quick Analysis Contract,915
-item-17,Data Patch,362
-item-41,Token,5279
+item-17,Data Patch,364
+item-41,Token,5289
 item-43,Black Card,5
 item-44,Calibration Ticket,11975
 item-45,Memory Fragment,9030
-item-46,Special Combat Report,8479
+item-46,Special Combat Report,8119
 item-47,Theater Material,9
 item-50,Universal Parts,8954
 item-51,New Type Fire-Control Component,40
@@ -35,16 +35,16 @@ item-104,Elite Adventurer Medal,3
 item-304,Central Data: M2,0
 item-306,Core Data: QLZ-04,0
 item-307,Central Data: Mk 153,45
-item-506,Battery,2344
+item-506,Battery,2330
 item-507,Surplus EXP,2478
-item-508,Friendship Points,78650
+item-508,Friendship Points,78780
 item-509,Fairy Command,200
 item-512,Supernova Kernel,30
 item-513,Dark Star Kernel,11500
-item-514,Petri Dish,4073
+item-514,Petri Dish,4135
 item-515,Basic Training Keycode,31550
 item-516,Advanced Training Keycode,13770
-item-519,HOC General Data,59
+item-519,HOC General Data,61
 item-520,Frag Grenade,28
 item-521,Stun Grenade,40
 item-522,Turret,15
@@ -179,7 +179,7 @@ item-1844,ID: Spring Carnival,1
 item-1860,ID: Fragments of Precious Treasures,1
 item-4001,City's Gift,14554
 item-4002,Snowfield's Gift,10929
-item-4003,Forest's Gift,13183
+item-4003,Forest's Gift,9183
 item-4004,Wasteland's Gift,12429
 item-6001,Ordinary Meat Bun,24
 item-6002,Bundle of Meat Buns,44
@@ -240,9 +240,9 @@ item-100085,Platinum Medal,2
 item-100092,Nova Medal - Far Side of the Sea,2
 item-100093,Platinum Medal - Far Side of the Sea,3
 item-100094,Azure Conch,0
-item-100108,item-10100108,0
-item-100109,item-10100109,4
-item-100110,item-10100110,1
+item-100108,Strange Soap,0
+item-100109,Nova Medal - Freaky Pandemic,4
+item-100110,Platinum Medal - Freaky Pandemic,1
 item-110001,Carnival Event Points,2500
 item-110002,Carnival Event Points,2600
 item-110003,Carnival Event Points,2400
