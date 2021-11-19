@@ -1,32 +1,32 @@
 ﻿Item ID,Item Name,Item Number
 -1,reg_time,2018-05-10 20:01:10
-item-10,Dummy Core,2090
-item-31,Basic Training Data,7641
-item-32,Intermediate Training Data,8436
-item-33,Advanced Training Data,9757
+item-10,Dummy Core,2117
+item-31,Basic Training Data,7441
+item-32,Intermediate Training Data,8036
+item-33,Advanced Training Data,9595
 -1,kalina_level,28
--1,kalina_favor,101383
-item-1,T-Doll Contract,1707
-item-2,Equipment Contract,4742
-item-3,Quick Production Contract,1673
-item-4,Quick Repair Contract,5255
+-1,kalina_favor,101473
+item-1,T-Doll Contract,1724
+item-2,Equipment Contract,4764
+item-3,Quick Production Contract,1698
+item-4,Quick Repair Contract,5282
 item-5,Daily Pause Permit,1
 item-7,Oath Certificate,4
 item-8,Quick Training Contract,131
-item-9,Enhancement Capsule,1226
+item-9,Enhancement Capsule,1221
 item-11,Key Card,0
 item-12,Points,0
-item-14,Original Sample,413
-item-15,Pure Sample,150
-item-16,Quick Analysis Contract,936
-item-17,Data Patch,404
-item-41,Token,5486
+item-14,Original Sample,573
+item-15,Pure Sample,109
+item-16,Quick Analysis Contract,938
+item-17,Data Patch,409
+item-41,Token,5497
 item-43,Black Card,5
-item-44,Calibration Ticket,10450
-item-45,Memory Fragment,9180
+item-44,Calibration Ticket,10470
+item-45,Memory Fragment,9220
 item-46,Special Combat Report,6699
-item-47,Theater Material,16840
-item-50,Universal Parts,9048
+item-47,Theater Material,27024
+item-50,Universal Parts,9056
 item-51,New Type Fire-Control Component,42
 item-100,Elite Griffin Combat Medal,4
 item-101,Combat Ranking Medal,82
@@ -35,16 +35,16 @@ item-104,Elite Adventurer Medal,4
 item-304,Central Data: M2,0
 item-306,Core Data: QLZ-04,0
 item-307,Central Data: Mk 153,45
-item-506,Battery,1375
-item-507,Surplus EXP,2092
-item-508,Friendship Points,81650
-item-509,Fairy Command,169
+item-506,Battery,1445
+item-507,Surplus EXP,2448
+item-508,Friendship Points,81910
+item-509,Fairy Command,103
 item-512,Supernova Kernel,30
 item-513,Dark Star Kernel,11500
 item-514,Petri Dish,2924
-item-515,Basic Training Keycode,26709
-item-516,Advanced Training Keycode,11973
-item-519,HOC General Data,66
+item-515,Basic Training Keycode,27717
+item-516,Advanced Training Keycode,12477
+item-519,HOC General Data,67
 item-520,Frag Grenade,28
 item-521,Stun Grenade,40
 item-522,Turret,15
@@ -178,14 +178,14 @@ item-1774,ID: Work Checklist,1
 item-1776,ID: Girls by the Hearth,1
 item-1844,ID: Spring Carnival,1
 item-1860,ID: Fragments of Precious Treasures,1
-item-1909,item-10001909,1
-item-1910,item-10001910,1
-item-1912,item-10001912,1
-item-1913,item-10001913,1
-item-4001,City's Gift,12988
-item-4002,Snowfield's Gift,6674
-item-4003,Forest's Gift,13600
-item-4004,Wasteland's Gift,10182
+item-1909,Icon: Sigh of Nostalgia,1
+item-1910,Icon: Toil for Tomorrow,1
+item-1912,Icon: Mourning ★ Tears,1
+item-1913,Icon: Demon Overlord ☆ Mind's Eye,1
+item-4001,City's Gift,13468
+item-4002,Snowfield's Gift,7094
+item-4003,Forest's Gift,13969
+item-4004,Wasteland's Gift,10658
 item-6001,Ordinary Meat Bun,26
 item-6002,Bundle of Meat Buns,45
 item-6003,Trove of Meat Buns,66
@@ -194,7 +194,7 @@ item-6005,Comfort Bucket for One,2
 item-6006,Full Meal for Two,79
 item-6007,Strawberry Cheesecake Slice,18
 item-6008,One Week's Cake Selection,33
-item-6009,Sweet Explosives,42
+item-6009,Sweet Explosives,43
 item-6010,"Baby  B-A-B-Y.",39
 item-6011,Streetside Oden,24
 item-6012,Wild Honeycomb,32
@@ -205,8 +205,8 @@ item-9003,Supply Box,0
 item-9004,Supply Box,0
 item-9006,item-10009006,1
 item-9007,item-10009007,1
-item-10603,Extra Potential Energy,178
-item-10604,Extra Impulse,44
+item-10603,Extra Potential Energy,184
+item-10604,Extra Impulse,45
 item-100009,Crown of Respect,20
 item-100013,Kitsune Mask,112
 item-100015,Dinergate Lantern,10
@@ -245,9 +245,9 @@ item-100085,Platinum Medal,2
 item-100092,Nova Medal - Far Side of the Sea,2
 item-100093,Platinum Medal - Far Side of the Sea,3
 item-100094,Azure Conch,0
-item-100098,item-10100098,4
-item-100099,item-10100099,171
-item-100100,item-10100100,120
+item-100098,Nova Medal – My Devil's Frontline,4
+item-100099,Platinum Medal – My Devil's Frontline,171
+item-100100,Token of Life,0
 item-100108,Strange Soap,0
 item-100109,Nova Medal - Freaky Pandemic,4
 item-100110,Platinum Medal - Freaky Pandemic,1
@@ -288,7 +288,7 @@ gift-100002,Ice Cream Cone,88
 gift-100003,Strawberry Custard Cheesecake,949
 gift-100006,Magic of Happiness,25
 gift-100007,Whiskey,60
-gift-200001,Combat Report,79201
+gift-200001,Combat Report,78766
 gift-200004,Paper Target,25
 gift-200005,Kandel Formulation,60
 gift-400001,Rapid Growth Disk,3256
