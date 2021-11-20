@@ -1,32 +1,32 @@
 ﻿Item ID,Item Name,Item Number
 -1,reg_time,2018-05-10 20:01:10
-item-10,Dummy Core,2117
+item-10,Dummy Core,2106
 item-31,Basic Training Data,6441
-item-32,Intermediate Training Data,8036
-item-33,Advanced Training Data,9648
+item-32,Intermediate Training Data,6796
+item-33,Advanced Training Data,9807
 -1,kalina_level,28
 -1,kalina_favor,101473
-item-1,T-Doll Contract,1726
-item-2,Equipment Contract,4769
-item-3,Quick Production Contract,1700
-item-4,Quick Repair Contract,5280
+item-1,T-Doll Contract,1737
+item-2,Equipment Contract,4786
+item-3,Quick Production Contract,1718
+item-4,Quick Repair Contract,5293
 item-5,Daily Pause Permit,1
 item-7,Oath Certificate,4
 item-8,Quick Training Contract,131
 item-9,Enhancement Capsule,1221
 item-11,Key Card,0
 item-12,Points,0
-item-14,Original Sample,373
-item-15,Pure Sample,109
-item-16,Quick Analysis Contract,938
+item-14,Original Sample,383
+item-15,Pure Sample,119
+item-16,Quick Analysis Contract,939
 item-17,Data Patch,410
-item-41,Token,5497
+item-41,Token,5502
 item-43,Black Card,5
 item-44,Calibration Ticket,10220
 item-45,Memory Fragment,9220
 item-46,Special Combat Report,6699
-item-47,Theater Material,27024
-item-50,Universal Parts,9056
+item-47,Theater Material,30673
+item-50,Universal Parts,9060
 item-51,New Type Fire-Control Component,42
 item-100,Elite Griffin Combat Medal,4
 item-101,Combat Ranking Medal,82
@@ -35,14 +35,14 @@ item-104,Elite Adventurer Medal,4
 item-304,Central Data: M2,0
 item-306,Core Data: QLZ-04,0
 item-307,Central Data: Mk 153,45
-item-506,Battery,1445
-item-507,Surplus EXP,71568
-item-508,Friendship Points,81910
-item-509,Fairy Command,78
+item-506,Battery,1585
+item-507,Surplus EXP,108120
+item-508,Friendship Points,82040
+item-509,Fairy Command,123
 item-512,Supernova Kernel,30
 item-513,Dark Star Kernel,11500
-item-514,Petri Dish,2924
-item-515,Basic Training Keycode,27717
+item-514,Petri Dish,2979
+item-515,Basic Training Keycode,28473
 item-516,Advanced Training Keycode,12729
 item-519,HOC General Data,67
 item-520,Frag Grenade,28
@@ -51,8 +51,8 @@ item-522,Turret,15
 item-601,Infinite Surprise Dye,39
 item-602,Colorful Specified Dye,1
 item-603,Potential Energy,0
-item-604,Electronic Impulse,6
-item-605,Aid Commission,43
+item-604,Electronic Impulse,7
+item-605,Aid Commission,44
 item-606,Transfer Catalyst,200
 item-1001,AAT-52 Icon,1
 item-1002,G43 Icon,1
@@ -247,7 +247,7 @@ item-100093,Platinum Medal - Far Side of the Sea,3
 item-100094,Azure Conch,0
 item-100098,Nova Medal – My Devil's Frontline,4
 item-100099,Platinum Medal – My Devil's Frontline,171
-item-100100,Token of Life,0
+item-100100,Token of Life,60
 item-100108,Strange Soap,0
 item-100109,Nova Medal - Freaky Pandemic,4
 item-100110,Platinum Medal - Freaky Pandemic,1
@@ -288,7 +288,7 @@ gift-100002,Ice Cream Cone,88
 gift-100003,Strawberry Custard Cheesecake,949
 gift-100006,Magic of Happiness,25
 gift-100007,Whiskey,60
-gift-200001,Combat Report,78801
+gift-200001,Combat Report,78896
 gift-200004,Paper Target,25
 gift-200005,Kandel Formulation,60
 gift-400001,Rapid Growth Disk,3376
