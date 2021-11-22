@@ -1,32 +1,32 @@
 ﻿Item ID,Item Name,Item Number
 -1,reg_time,2018-05-10 20:01:10
-item-10,Dummy Core,2146
+item-10,Dummy Core,2164
 item-31,Basic Training Data,6441
-item-32,Intermediate Training Data,6290
-item-33,Advanced Training Data,9913
+item-32,Intermediate Training Data,6878
+item-33,Advanced Training Data,8913
 -1,kalina_level,28
--1,kalina_favor,101518
-item-1,T-Doll Contract,1745
-item-2,Equipment Contract,4804
-item-3,Quick Production Contract,1734
-item-4,Quick Repair Contract,5303
+-1,kalina_favor,101563
+item-1,T-Doll Contract,1752
+item-2,Equipment Contract,4825
+item-3,Quick Production Contract,1748
+item-4,Quick Repair Contract,5313
 item-5,Daily Pause Permit,1
 item-7,Oath Certificate,4
 item-8,Quick Training Contract,131
-item-9,Enhancement Capsule,1221
+item-9,Enhancement Capsule,1223
 item-11,Key Card,0
 item-12,Points,0
-item-14,Original Sample,573
-item-15,Pure Sample,198
-item-16,Quick Analysis Contract,955
-item-17,Data Patch,415
-item-41,Token,5507
+item-14,Original Sample,383
+item-15,Pure Sample,87
+item-16,Quick Analysis Contract,956
+item-17,Data Patch,417
+item-41,Token,5513
 item-43,Black Card,5
-item-44,Calibration Ticket,10220
-item-45,Memory Fragment,9220
+item-44,Calibration Ticket,10230
+item-45,Memory Fragment,9280
 item-46,Special Combat Report,6699
-item-47,Theater Material,31081
-item-50,Universal Parts,9064
+item-47,Theater Material,31707
+item-50,Universal Parts,9068
 item-51,New Type Fire-Control Component,42
 item-100,Elite Griffin Combat Medal,4
 item-101,Combat Ranking Medal,82
@@ -35,15 +35,15 @@ item-104,Elite Adventurer Medal,4
 item-304,Central Data: M2,0
 item-306,Core Data: QLZ-04,0
 item-307,Central Data: Mk 153,45
-item-506,Battery,1270
-item-507,Surplus EXP,110088
-item-508,Friendship Points,82180
-item-509,Fairy Command,111
+item-506,Battery,1479
+item-507,Surplus EXP,109368
+item-508,Friendship Points,82300
+item-509,Fairy Command,131
 item-512,Supernova Kernel,30
 item-513,Dark Star Kernel,11500
 item-514,Petri Dish,2979
-item-515,Basic Training Keycode,29481
-item-516,Advanced Training Keycode,12729
+item-515,Basic Training Keycode,30237
+item-516,Advanced Training Keycode,12981
 item-519,HOC General Data,67
 item-520,Frag Grenade,28
 item-521,Stun Grenade,40
@@ -182,21 +182,21 @@ item-1909,Icon: Sigh of Nostalgia,1
 item-1910,Icon: Toil for Tomorrow,1
 item-1912,Icon: Mourning ★ Tears,1
 item-1913,Icon: Demon Overlord ☆ Mind's Eye,1
-item-4001,City's Gift,13468
-item-4002,Snowfield's Gift,7094
-item-4003,Forest's Gift,13969
-item-4004,Wasteland's Gift,10658
-item-6001,Ordinary Meat Bun,26
-item-6002,Bundle of Meat Buns,45
+item-4001,City's Gift,13723
+item-4002,Snowfield's Gift,8116
+item-4003,Forest's Gift,14224
+item-4004,Wasteland's Gift,12152
+item-6001,Ordinary Meat Bun,27
+item-6002,Bundle of Meat Buns,46
 item-6003,Trove of Meat Buns,66
-item-6004,Commonfolk Standard,12
+item-6004,Commonfolk Standard,14
 item-6005,Comfort Bucket for One,2
 item-6006,Full Meal for Two,79
 item-6007,Strawberry Cheesecake Slice,18
 item-6008,One Week's Cake Selection,33
 item-6009,Sweet Explosives,43
 item-6010,"Baby  B-A-B-Y.",39
-item-6011,Streetside Oden,24
+item-6011,Streetside Oden,25
 item-6012,Wild Honeycomb,32
 item-6013,Icy Theater,24
 item-8001,Intel Points,2610
@@ -205,7 +205,7 @@ item-9003,Supply Box,0
 item-9004,Supply Box,0
 item-9006,item-10009006,1
 item-9007,item-10009007,1
-item-10603,Extra Potential Energy,187
+item-10603,Extra Potential Energy,190
 item-10604,Extra Impulse,45
 item-100009,Crown of Respect,20
 item-100013,Kitsune Mask,112
@@ -247,7 +247,7 @@ item-100093,Platinum Medal - Far Side of the Sea,3
 item-100094,Azure Conch,0
 item-100098,Nova Medal – My Devil's Frontline,4
 item-100099,Platinum Medal – My Devil's Frontline,171
-item-100100,Token of Life,60
+item-100100,Token of Life,120
 item-100108,Strange Soap,0
 item-100109,Nova Medal - Freaky Pandemic,4
 item-100110,Platinum Medal - Freaky Pandemic,1
@@ -288,10 +288,10 @@ gift-100002,Ice Cream Cone,88
 gift-100003,Strawberry Custard Cheesecake,949
 gift-100006,Magic of Happiness,25
 gift-100007,Whiskey,60
-gift-200001,Combat Report,79044
+gift-200001,Combat Report,78960
 gift-200004,Paper Target,25
 gift-200005,Kandel Formulation,60
-gift-400001,Rapid Growth Disk,3376
+gift-400001,Rapid Growth Disk,3476
 furniture-10107,Multifunctional Workbench,7
 furniture-10207,Isolated Cat Tree,7
 furniture-10307,Automated Doghouse,7
