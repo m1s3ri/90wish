@@ -152,7 +152,16 @@
 650619,6,★,0,1,Taunt Fairy,3.2,10.0,4.8,1.6,4.4,Charge,1,
 651218,2,★,0,1,Fury Fairy,2.8,0.0,8.0,2.0,8.0,Critical I,1,
 651219,15,★,0,1,Command Fairy,8.0,0.0,7.6,2.0,8.4,Suppression,1,
-456222,11,★★,105,84,Parachute Fairy,16.0,0.0,14.5,3.5,18.0,Damage II,10,Locked
+652476,1008,★,0,1,Kouji,3.2,5.2,12.0,3.2,0.0,Damage I,1,
+652477,1008,★,0,1,Kouji,3.2,5.2,12.0,3.2,0.0,Accuracy II,1,
+652748,9,★,0,1,Airstrike Fairy,4.8,8.0,6.4,1.6,0.0,Armor I,1,
+652749,7,★,0,1,Sniper Fairy,0.0,17.6,5.6,3.2,7.2,Suppression,1,
+652750,16,★,0,1,Rescue Fairy,7.6,20.0,16.0,0.0,0.0,Damage I,1,
+652751,1,★,0,1,Warrior Fairy,4.8,16.0,8.0,2.0,0.0,Aim,1,
+652752,24,★,0,1,Barrier Fairy,0.0,14.8,6.4,4.4,0.0,Keen,1,
+652753,6,★,0,1,Taunt Fairy,3.2,10.0,4.8,1.6,4.4,Suppression,1,
+652754,25,★,0,1,Twin Fairies,3.2,11.2,8.8,2.4,0.0,Evasion I,1,
+456222,11,★★,105,85,Parachute Fairy,16.5,0.0,14.5,3.5,18.0,Damage II,10,Locked
 261449,24,★★★★★,3000,99,Barrier Fairy,0.0,57.6,25.6,17.6,0.0,Damage II,1,Locked
 249680,16,★★★★★,3000,100,Rescue Fairy,32.0,80.0,64.0,0.0,0.0,Fervor,10,Locked
 186660,4,★★★★★,3000,100,Shield Fairy,20.0,60.0,80.0,0.0,0.0,Fervor,10,Locked
