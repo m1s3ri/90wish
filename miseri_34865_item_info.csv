@@ -1,32 +1,32 @@
 ﻿Item ID,Item Name,Item Number
 -1,reg_time,2018-05-10 20:01:10
-item-10,Dummy Core,2405
+item-10,Dummy Core,2408
 item-31,Basic Training Data,7001
-item-32,Intermediate Training Data,7030
+item-32,Intermediate Training Data,7226
 item-33,Advanced Training Data,8328
 -1,kalina_level,28
 -1,kalina_favor,103223
-item-1,T-Doll Contract,1863
-item-2,Equipment Contract,5124
-item-3,Quick Production Contract,1957
-item-4,Quick Repair Contract,5428
+item-1,T-Doll Contract,1871
+item-2,Equipment Contract,5163
+item-3,Quick Production Contract,1969
+item-4,Quick Repair Contract,5436
 item-5,Daily Pause Permit,1
 item-7,Oath Certificate,4
 item-8,Quick Training Contract,136
 item-9,Enhancement Capsule,1482
 item-11,Key Card,0
 item-12,Points,0
-item-14,Original Sample,493
-item-15,Pure Sample,128
-item-16,Quick Analysis Contract,971
+item-14,Original Sample,303
+item-15,Pure Sample,138
+item-16,Quick Analysis Contract,972
 item-17,Data Patch,431
-item-41,Token,5669
+item-41,Token,5674
 item-43,Black Card,5
 item-44,Calibration Ticket,10047
-item-45,Memory Fragment,9620
+item-45,Memory Fragment,9750
 item-46,Special Combat Report,8099
 item-47,Theater Material,1
-item-50,Universal Parts,8293
+item-50,Universal Parts,8001
 item-51,New Type Fire-Control Component,44
 item-100,Elite Griffin Combat Medal,4
 item-101,Combat Ranking Medal,92
@@ -35,15 +35,15 @@ item-104,Elite Adventurer Medal,4
 item-304,Central Data: M2,0
 item-306,Core Data: QLZ-04,0
 item-307,Central Data: Mk 153,65
-item-506,Battery,2183
-item-507,Surplus EXP,2964
-item-508,Friendship Points,83920
-item-509,Fairy Command,43
+item-506,Battery,2115
+item-507,Surplus EXP,1800
+item-508,Friendship Points,83940
+item-509,Fairy Command,103
 item-512,Supernova Kernel,60
-item-513,Dark Star Kernel,14900
+item-513,Dark Star Kernel,9900
 item-514,Petri Dish,3382
-item-515,Basic Training Keycode,33450
-item-516,Advanced Training Keycode,11463
+item-515,Basic Training Keycode,33681
+item-516,Advanced Training Keycode,12156
 item-519,HOC General Data,69
 item-520,Frag Grenade,28
 item-521,Stun Grenade,40
@@ -195,7 +195,7 @@ item-6005,Comfort Bucket for One,3
 item-6006,Full Meal for Two,80
 item-6007,Strawberry Cheesecake Slice,20
 item-6008,One Week's Cake Selection,34
-item-6009,Sweet Explosives,43
+item-6009,Sweet Explosives,41
 item-6010,"Baby  B-A-B-Y.",42
 item-6011,Streetside Oden,30
 item-6012,Wild Honeycomb,35
@@ -289,7 +289,7 @@ gift-100002,Ice Cream Cone,88
 gift-100003,Strawberry Custard Cheesecake,959
 gift-100006,Magic of Happiness,25
 gift-100007,Whiskey,60
-gift-200001,Combat Report,84334
+gift-200001,Combat Report,84414
 gift-200004,Paper Target,25
 gift-200005,Kandel Formulation,60
 gift-400001,Rapid Growth Disk,4034
