@@ -192,7 +192,7 @@
 22391633,20,Armor-piercing,★★★★★,Mk211 High-Explosive Armor-Piercing Ammo,-,-,0,0,0,0,0,0%,0%,180,0,0,0%,0%,0%,0,10000,10,5,Locked
 22391668,44,Armor Plate,★★★★★,Type 3 Armor Plate,-,-,0,0,-2,0,0,0%,0%,0,7,0,0%,0%,0%,0,0,0,0,Locked
 22391788,20,Armor-piercing,★★★★★,Mk211 High-Explosive Armor-Piercing Ammo,-,-,0,0,0,0,0,0%,0%,180,0,0,0%,0%,0%,0,10000,10,16,Locked
-22392045,72,Hollow-point,★★★★★,ILM Hollow-Point Ammo,169334490,M3,15,0,0,0,0,0%,0%,-10,0,0,0%,0%,0%,0,10000,10,2,Locked
+22392045,72,Hollow-point,★★★★★,ILM Hollow-Point Ammo,-,-,15,0,0,0,0,0%,0%,-10,0,0,0%,0%,0%,0,10000,10,2,Locked
 22392346,20,Armor-piercing,★★★★★,Mk211 High-Explosive Armor-Piercing Ammo,-,-,0,0,0,0,0,0%,0%,180,0,0,0%,0%,0%,0,10000,10,6,Locked
 22466549,43,Armor Plate,★★★★,Type 2 Armor Plate,-,-,0,0,-1,0,0,0%,0%,0,4,0,0%,0%,0%,0,0,0,0,Locked
 22527414,66,Suppressor,★★★★★,AC4 Suppressor,-,-,0,0,8,0,0,0%,19%,0,0,0,0%,0%,0%,0,10000,10,0,Locked
@@ -276,7 +276,7 @@
 26368784,72,Hollow-point,★★★★★,ILM Hollow-Point Ammo,103272103,Python,15,0,0,0,0,0%,0%,-10,0,0,0%,0%,0%,0,10000,10,1,Locked
 26370808,20,Armor-piercing,★★★★★,Mk211 High-Explosive Armor-Piercing Ammo,111534237,QBU-88,0,0,0,0,0,0%,0%,180,0,0,0%,0%,0%,0,10000,10,15,Locked
 26376394,16,Night Equipment,★★★★★,PEQ-16A,-,-,0,0,0,0,0,0%,0%,0,0,0,0%,0%,91%,0,0,0,0,Locked
-26390381,66,Suppressor,★★★★★,AC4 Suppressor,169334490,M3,0,0,6,0,0,0%,13%,0,0,0,0%,0%,0%,0,0,0,0,Locked
+26390381,66,Suppressor,★★★★★,AC4 Suppressor,-,-,0,0,6,0,0,0%,13%,0,0,0,0%,0%,0%,0,0,0,0,Locked
 26390382,72,Hollow-point,★★★★★,ILM Hollow-Point Ammo,118012554,PP-19 Mod,15,0,0,0,0,0%,0%,-8,0,0,0%,0%,0%,0,10000,10,1,Locked
 26392000,16,Night Equipment,★★★★★,PEQ-16A,-,-,0,0,0,0,0,0%,0%,0,0,0,0%,0%,93%,0,0,0,0,Locked
 26393401,44,Armor Plate,★★★★★,Type 3 Armor Plate,-,-,0,0,-3,0,0,0%,0%,0,11,0,0%,0%,0%,0,10000,10,1,Locked
@@ -317,7 +317,7 @@
 27522320,58,X-Exo,★★★★★,IOP X4 Exoskeleton,-,-,0,0,9,0,0,0%,0%,0,0,0,0%,0%,0%,0,0,0,0,Locked
 27522321,58,X-Exo,★★★★★,IOP X4 Exoskeleton,-,-,0,0,10,0,0,0%,0%,0,0,0,0%,0%,0%,0,0,0,0,Locked
 27625706,16,Night Equipment,★★★★★,PEQ-16A,-,-,0,0,0,0,0,0%,0%,0,0,0,0%,0%,95%,0,0,0,0,Locked
-27650107,40,T-Exo,★★★★★,IOP T4 Exoskeleton,169334490,M3,-7,0,32,0,0,0%,0%,0,0,0,0%,0%,0%,0,10000,10,5,Locked
+27650107,40,T-Exo,★★★★★,IOP T4 Exoskeleton,-,-,-7,0,32,0,0,0%,0%,0,0,0,0%,0%,0%,0,10000,10,5,Locked
 27687296,106,Exclusive,★★★★★,EOT XPS3,2232272,416 Mod,8,12,0,0,0,0%,25%,0,0,0,0%,0%,0%,0,30000,10,9,Locked
 27726678,110,High-velocity,★★★★★,16Lab High-Velocity Ammo,2232272,416 Mod,20,0,0,0,0,0%,0%,0,0,0,0%,0%,0%,0,10000,10,0,Locked
 27726681,95,Hollow-point,★★★★★,16Lab Hollow-Point,-,-,15,0,0,0,0,0%,0%,-7,0,0,0%,0%,0%,0,10000,10,0,Locked
@@ -375,7 +375,7 @@
 29987834,66,Suppressor,★★★★★,AC4 Suppressor,103272103,Python,0,0,10,0,0,0%,20%,0,0,0,0%,0%,0%,0,10000,10,16,Locked
 30146849,58,X-Exo,★★★★★,IOP X4 Exoskeleton,-,-,0,0,8,0,0,0%,0%,0,0,0,0%,0%,0%,0,0,0,0,Locked
 30164320,122,Exclusive,★★★★★,SAA Long Barrel,-,-,1,0,6,0,0,0%,13%,0,0,0,0%,0%,0%,0,1,0,0,Locked
-30175358,40,T-Exo,★★★★★,IOP T4 Exoskeleton,-,-,-8,0,35,0,0,0%,0%,0,0,0,0%,0%,0%,0,10000,10,3,Locked
+30175358,40,T-Exo,★★★★★,IOP T4 Exoskeleton,95855411,PP-19-01,-8,0,35,0,0,0%,0%,0,0,0,0%,0%,0%,0,10000,10,3,Locked
 30208058,68,Ammunition Box,★★★★★,IOP Maximum Ammo Box,-,-,0,0,-3,0,0,0%,0%,0,0,0,0%,0%,0%,5,10000,10,1,Locked
 30255291,68,Ammunition Box,★★★★★,IOP Maximum Ammo Box,-,-,0,0,-2,0,0,0%,0%,0,0,0,0%,0%,0%,2,0,0,0,Locked
 30317191,68,Ammunition Box,★★★★★,IOP Maximum Ammo Box,-,-,0,0,-2,0,0,0%,0%,0,0,0,0%,0%,0%,2,0,0,0,Locked
