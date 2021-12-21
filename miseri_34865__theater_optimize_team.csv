@@ -286,7 +286,7 @@
 728,Intermediate8,Night,20152,SG,M1897 Mod,100,0,1,1,Armor Plate,Slug Shell,Optical,7016,701,34
 728,Intermediate8,Night,164,SG,FP-6,100,0,1,0,Armor Plate,Slug Shell,Holographic,5742,689,35
 728,Intermediate8,Night,153,SG,M37,100,0,4,0,Armor Plate,Slug Shell,Holographic,6748,674,36
-728,Intermediate8,Night,162,SG,SPAS-12,100,0,2,0,Armor Plate,Slug Shell,Holographic,5447,653,37
+728,Intermediate8,Night,162,SG,SPAS-12,100,0,5,0,Armor Plate,Slug Shell,Holographic,5519,662,37
 728,Intermediate8,Night,159,SG,RMB-93,100,0,1,0,Armor Plate,Slug Shell,Holographic,6516,651,38
 728,Intermediate8,Night,20065,AR,416 Mod,100,0,10,10,Exclusive,HV Round,Exclusive,7162,626,39
 728,Intermediate8,Night,54,AR,M16A1,100,0,10,0,HV Round,T-Exo,Exclusive,6557,573,40
@@ -534,7 +534,7 @@
 738,Advanced8,Night,153,SG,M37,100,0,4,0,Armor Plate,Slug Shell,Holographic,6748,843,31
 738,Advanced8,Night,183,HG,Contender,100,0,10,0,Silencer,AP Round,T-Exo,4756,832,32
 738,Advanced8,Night,213,SMG,C-MS,100,0,10,0,T-Exo,AP Round,Red Dot,7391,831,33
-738,Advanced8,Night,162,SG,SPAS-12,100,0,2,0,Armor Plate,Slug Shell,Holographic,5447,817,34
+738,Advanced8,Night,162,SG,SPAS-12,100,0,5,0,Armor Plate,Slug Shell,Holographic,5519,827,34
 738,Advanced8,Night,159,SG,RMB-93,100,0,1,0,Armor Plate,Slug Shell,Holographic,6516,814,35
 738,Advanced8,Night,20026,SMG,Gr MP5 Mod,100,0,10,10,Exclusive,HP Round,Exclusive,7121,801,36
 738,Advanced8,Night,138,AR,6P62,93.5448,0,1,0,Optical,AP Round,T-Exo,4170,781,37
