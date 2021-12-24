@@ -8,13 +8,13 @@ item-33,Advanced Training Data,9901
 -1,kalina_favor,104033
 item-1,T-Doll Contract,1939
 item-2,Equipment Contract,5411
-item-3,Quick Production Contract,2284
+item-3,Quick Production Contract,2285
 item-4,Quick Repair Contract,5588
 item-5,Daily Pause Permit,1
 item-7,Oath Certificate,4
 item-8,Quick Training Contract,137
 item-9,Enhancement Capsule,1451
-item-11,Key Card,1
+item-11,Key Card,3
 item-12,Points,60
 item-14,Original Sample,243
 item-15,Pure Sample,184
@@ -23,7 +23,7 @@ item-17,Data Patch,453
 item-41,Token,5867
 item-43,Black Card,5
 item-44,Calibration Ticket,10377
-item-45,Memory Fragment,7880
+item-45,Memory Fragment,7920
 item-46,Special Combat Report,8324
 item-47,Theater Material,1
 item-50,Universal Parts,7985
@@ -36,7 +36,7 @@ item-304,Central Data: M2,0
 item-306,Core Data: QLZ-04,0
 item-307,Central Data: Mk 153,95
 item-506,Battery,5042
-item-507,Surplus EXP,43608
+item-507,Surplus EXP,120168
 item-508,Friendship Points,86280
 item-509,Fairy Command,200
 item-512,Supernova Kernel,60
@@ -305,7 +305,7 @@ gift-200001,Combat Report,85757
 gift-200004,Paper Target,25
 gift-200005,Kandel Formulation,60
 gift-200006,Satan's Tears,10
-gift-400001,Rapid Growth Disk,4931
+gift-400001,Rapid Growth Disk,4964
 furniture-10107,Multifunctional Workbench,7
 furniture-10207,Isolated Cat Tree,7
 furniture-10307,Automated Doghouse,7
