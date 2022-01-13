@@ -1,29 +1,29 @@
 ﻿Item ID,Item Name,Item Number
 -1,reg_time,2018-05-10 20:01:10
-item-10,Dummy Core,2740
-item-31,Basic Training Data,7669
-item-32,Intermediate Training Data,5915
-item-33,Advanced Training Data,9818
+item-10,Dummy Core,2746
+item-31,Basic Training Data,8869
+item-32,Intermediate Training Data,7201
+item-33,Advanced Training Data,9518
 -1,kalina_level,29
--1,kalina_favor,106803
-item-1,T-Doll Contract,2005
-item-2,Equipment Contract,3761
-item-3,Quick Production Contract,943
-item-4,Quick Repair Contract,5726
+-1,kalina_favor,108229
+item-1,T-Doll Contract,2022
+item-2,Equipment Contract,3745
+item-3,Quick Production Contract,962
+item-4,Quick Repair Contract,5742
 item-5,Daily Pause Permit,1
 item-7,Oath Certificate,4
 item-8,Quick Training Contract,141
-item-9,Enhancement Capsule,1496
+item-9,Enhancement Capsule,1484
 item-11,Key Card,0
 item-12,Points,0
-item-14,Original Sample,733
-item-15,Pure Sample,42
+item-14,Original Sample,653
+item-15,Pure Sample,172
 item-16,Quick Analysis Contract,1007
-item-17,Data Patch,470
-item-41,Token,6255
+item-17,Data Patch,474
+item-41,Token,6265
 item-43,Black Card,5
-item-44,Calibration Ticket,10577
-item-45,Memory Fragment,9360
+item-44,Calibration Ticket,10647
+item-45,Memory Fragment,9380
 item-46,Special Combat Report,8324
 item-47,Theater Material,1
 item-50,Universal Parts,8053
@@ -35,26 +35,26 @@ item-104,Elite Adventurer Medal,4
 item-304,Central Data: M2,0
 item-306,Core Data: QLZ-04,0
 item-307,Central Data: Mk 153,95
-item-506,Battery,9905
-item-507,Surplus EXP,191869
-item-508,Friendship Points,88300
-item-509,Fairy Command,186
+item-506,Battery,9836
+item-507,Surplus EXP,2310
+item-508,Friendship Points,88430
+item-509,Fairy Command,200
 item-510,Combat Sim Extra Energy,20
 item-512,Supernova Kernel,110
 item-513,Dark Star Kernel,18800
-item-514,Petri Dish,4770
-item-515,Basic Training Keycode,46047
-item-516,Advanced Training Keycode,17490
+item-514,Petri Dish,4830
+item-515,Basic Training Keycode,47677
+item-516,Advanced Training Keycode,17910
 item-519,HOC General Data,77
 item-520,Frag Grenade,28
 item-521,Stun Grenade,40
 item-522,Turret,15
-item-525,Quick Auto-Battle Contract,111
+item-525,Quick Auto-Battle Contract,123
 item-601,Infinite Surprise Dye,39
 item-602,Colorful Specified Dye,1
 item-603,Potential Energy,0
-item-604,Electronic Impulse,1
-item-605,Aid Commission,23
+item-604,Electronic Impulse,4
+item-605,Aid Commission,33
 item-606,Transfer Catalyst,235
 item-1001,AAT-52 Icon,1
 item-1002,G43 Icon,1
@@ -191,19 +191,22 @@ item-1913,Icon: Demon Overlord ☆ Mind's Eye,1
 item-1914,ID: Cozy Tatami,1
 item-1915,Background: Birthplace of Dreams,1
 item-1916,Background: Promised Dream Hotel,1
+item-1990,Icon: Pink Eye of Enthrallment,1
+item-1991,Icon: Purple Night of Rapture,1
+item-1992,ID card: Maelstrom of Pink and Purple,1
 item-2013,Icon: Birth of Starlight,1
 item-2019,ID:  Screen Breakers,1
-item-4001,City's Gift,14942
-item-4002,Snowfield's Gift,3129
-item-4003,Forest's Gift,17962
+item-4001,City's Gift,15036
+item-4002,Snowfield's Gift,4048
+item-4003,Forest's Gift,18056
 item-4004,Wasteland's Gift,7239
 item-6001,Ordinary Meat Bun,27
 item-6002,Bundle of Meat Buns,49
 item-6003,Trove of Meat Buns,80
 item-6004,Commonfolk Standard,15
 item-6005,Comfort Bucket for One,3
-item-6006,Full Meal for Two,83
-item-6007,Strawberry Cheesecake Slice,21
+item-6006,Full Meal for Two,81
+item-6007,Strawberry Cheesecake Slice,22
 item-6008,One Week's Cake Selection,36
 item-6009,Sweet Explosives,47
 item-6010,"Baby  B-A-B-Y.",43
@@ -216,7 +219,7 @@ item-9003,Supply Box,0
 item-9004,Supply Box,0
 item-9006,item-10009006,1
 item-9007,item-10009007,1
-item-10603,Extra Potential Energy,321
+item-10603,Extra Potential Energy,324
 item-10604,Extra Impulse,41
 item-100009,Crown of Respect,20
 item-100013,Kitsune Mask,112
@@ -265,9 +268,9 @@ item-100110,Platinum Medal - Freaky Pandemic,1
 item-100117,Star Ornament,0
 item-100118,Nova Medal·A Snowy Night Capriccio,3
 item-100119,Platinum Medal·A Snowy Night Capriccio,4
-item-100123,Xmas Coin,520
+item-100123,Xmas Coin,220
 item-100124,Nova Medal - One Coin Short,72
-item-100125,Platinum Medal - One Coin Short,91
+item-100125,Platinum Medal - One Coin Short,133
 item-110001,Carnival Event Points,2500
 item-110002,Carnival Event Points,2600
 item-110003,Carnival Event Points,2400
@@ -303,13 +306,14 @@ gift-5106,Thief of Sweetness,1
 gift-5205,Mysterious Wayfarer SA,1
 gift-5206,Wiretap Mystery,1
 gift-5308,The Maids' Midnight Rally,1
+gift-6608,Raise the Christmas Elf,1
 gift-100001,Lollipop,59
 gift-100002,Ice Cream Cone,93
 gift-100003,Strawberry Custard Cheesecake,1023
 gift-100006,Magic of Happiness,25
 gift-100007,Whiskey,60
 gift-100008,Eden's Apple,10
-gift-200001,Combat Report,90498
+gift-200001,Combat Report,90762
 gift-200004,Paper Target,25
 gift-200005,Kandel Formulation,60
 gift-200006,Satan's Tears,10
