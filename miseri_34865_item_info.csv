@@ -3,12 +3,12 @@
 item-10,Dummy Core,2618
 item-31,Basic Training Data,10209
 item-32,Intermediate Training Data,8385
-item-33,Advanced Training Data,8073
+item-33,Advanced Training Data,7826
 -1,kalina_level,29
 -1,kalina_favor,109665
-item-1,T-Doll Contract,2166
-item-2,Equipment Contract,3763
-item-3,Quick Production Contract,1296
+item-1,T-Doll Contract,2171
+item-2,Equipment Contract,3766
+item-3,Quick Production Contract,1301
 item-4,Quick Repair Contract,5862
 item-5,Daily Pause Permit,1
 item-7,Oath Certificate,4
@@ -17,9 +17,9 @@ item-9,Enhancement Capsule,1634
 item-11,Key Card,0
 item-12,Points,0
 item-14,Original Sample,1233
-item-15,Pure Sample,280
+item-15,Pure Sample,360
 item-16,Quick Analysis Contract,1026
-item-17,Data Patch,494
+item-17,Data Patch,497
 item-41,Token,6687
 item-43,Black Card,5
 item-44,Calibration Ticket,10992
@@ -43,8 +43,8 @@ item-510,Combat Sim Extra Energy,20
 item-512,Supernova Kernel,110
 item-513,Dark Star Kernel,23000
 item-514,Petri Dish,5237
-item-515,Basic Training Keycode,52102
-item-516,Advanced Training Keycode,21327
+item-515,Basic Training Keycode,52354
+item-516,Advanced Training Keycode,20727
 item-519,HOC General Data,81
 item-520,Frag Grenade,28
 item-521,Stun Grenade,40
@@ -52,8 +52,8 @@ item-522,Turret,15
 item-525,Quick Auto-Battle Contract,249
 item-601,Infinite Surprise Dye,41
 item-602,Colorful Specified Dye,1
-item-603,Potential Energy,0
-item-604,Electronic Impulse,3
+item-603,Potential Energy,4
+item-604,Electronic Impulse,1
 item-605,Aid Commission,43
 item-606,Transfer Catalyst,245
 item-1001,AAT-52 Icon,1
@@ -203,6 +203,7 @@ item-1992,ID card: Maelstrom of Pink and Purple,1
 item-2013,Icon: Birth of Starlight,1
 item-2016,Icon: Best Partner,2
 item-2017,Icon:  Setting Sail,1
+item-2018,Icon:  Friend of Pure Loyalty,0
 item-2019,ID:  Screen Breakers,1
 item-4001,City's Gift,14663
 item-4002,Snowfield's Gift,13001
@@ -310,7 +311,6 @@ item-900038,Platinum Medal·DJMAX,17
 item-900039,Xmas Supply Box,0
 item-1100005,Bon appétit !,1
 item-1100006,Bon appétit !,1
-item-2018,Icon:  Friend of Pure Loyalty,0
 gift-11,Witch from Afar,1
 gift-2706,Astral Bond,1
 gift-3805,Darkside Moonwalk,1
@@ -330,9 +330,9 @@ gift-200001,Combat Report,87838
 gift-200004,Paper Target,25
 gift-200005,Kandel Formulation,60
 gift-200006,Satan's Tears,10
-gift-400001,Rapid Growth Disk,7473
+gift-400001,Rapid Growth Disk,7553
 furniture-10108,Multifunctional Workbench,8
-furniture-10207,Isolated Cat Tree,7
+furniture-10208,Isolated Cat Tree,8
 furniture-10308,Automated Doghouse,8
 furniture-10406,Compound Bird Cage,6
 furniture-10507,Multifunctional Temperature-Controlled Playpen,7
