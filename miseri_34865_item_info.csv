@@ -1,14 +1,14 @@
 ﻿Item ID,Item Name,Item Number
 -1,reg_time,2018-05-10 20:01:10
 item-10,Dummy Core,2637
-item-31,Basic Training Data,10539
-item-32,Intermediate Training Data,9009
-item-33,Advanced Training Data,8184
+item-31,Basic Training Data,10239
+item-32,Intermediate Training Data,8889
+item-33,Advanced Training Data,8290
 -1,kalina_level,29
--1,kalina_favor,109710
+-1,kalina_favor,109755
 item-1,T-Doll Contract,2181
-item-2,Equipment Contract,3800
-item-3,Quick Production Contract,1336
+item-2,Equipment Contract,3804
+item-3,Quick Production Contract,1341
 item-4,Quick Repair Contract,5885
 item-5,Daily Pause Permit,1
 item-7,Oath Certificate,4
@@ -42,8 +42,8 @@ item-509,Fairy Command,200
 item-510,Combat Sim Extra Energy,20
 item-512,Supernova Kernel,110
 item-513,Dark Star Kernel,23000
-item-514,Petri Dish,5314
-item-515,Basic Training Keycode,52106
+item-514,Petri Dish,5358
+item-515,Basic Training Keycode,51506
 item-516,Advanced Training Keycode,20979
 item-519,HOC General Data,82
 item-520,Frag Grenade,28
@@ -52,7 +52,7 @@ item-522,Turret,15
 item-525,Quick Auto-Battle Contract,273
 item-601,Infinite Surprise Dye,41
 item-602,Colorful Specified Dye,1
-item-603,Potential Energy,1
+item-603,Potential Energy,0
 item-604,Electronic Impulse,1
 item-605,Aid Commission,43
 item-606,Transfer Catalyst,245
@@ -163,10 +163,10 @@ item-1678,ID: Seed of All Wishes,1
 item-1679,ID: Fruit of Doubt,1
 item-1697,Icon: Concert Ticket,1
 item-1698,ID: Gilded Name Card,1
-item-1703,item-10001703,1
-item-1704,item-10001704,1
-item-1705,item-10001705,1
-item-1706,item-10001706,1
+item-1703,Icon: Constructive Pattern,1
+item-1704,Icon: Tipped Scales,1
+item-1705,ID: Rebels' Smoke Signal,1
+item-1706,Background: Chloris' Floral Path,1
 item-1707,Gr G11 Neural Upgrade Icon,1
 item-1709,RO635 Neural Upgrade Icon,1
 item-1741,Icon: Silent Farewell,1
@@ -226,10 +226,10 @@ item-8001,Intel Points,2610
 item-8003,Intel Points,0
 item-9003,Supply Box,0
 item-9004,Supply Box,0
-item-9005,item-10009005,0
+item-9005,Supply Box,0
 item-9006,item-10009006,1
 item-9007,item-10009007,1
-item-10603,Extra Potential Energy,365
+item-10603,Extra Potential Energy,368
 item-10604,Extra Impulse,61
 item-100009,Crown of Respect,20
 item-100013,Kitsune Mask,112
@@ -248,9 +248,9 @@ item-100049,Azure Conch,20
 item-100050,Nova Medal – Il Teatrino,7
 item-100051,Platinum Medal – Il Teatrino,1
 item-100052,Augustus,10
-item-100057,item-10100057,1
-item-100058,item-10100058,134
-item-100059,item-10100059,177
+item-100057,True Core Mask - Dual Randomness,1
+item-100058,Nova Medal - Dual Randomness,134
+item-100059,Platinum Medal - Dual Randomness,177
 item-100062,Jade Coffer,0
 item-100063,Strange Soap,4
 item-100064,Nova Medal,0
