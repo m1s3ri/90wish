@@ -3993,12 +3993,12 @@
 736,Advanced6,Day,105,AR,OTs-12,150,1,10,0,Night Equip,HV Round,Chip,5116,959,162
 736,Advanced6,Day,359,SMG,gun-10000359,150,1,10,0,T-Exo,HP Round,Night Equip,5904,959,163
 736,Advanced6,Day,27,SMG,Skorpion,100,0,10,0,T-Exo,HP Round,Night Equip,4923,959,164
-736,Advanced6,Day,70,AR,FF FNC,150,1,10,0,Night Equip,HV Round,Chip,5111,958,165
-736,Advanced6,Day,262,AR,EM-2,100,0,10,0,Night Equip,HV Round,Chip,5106,957,166
-736,Advanced6,Day,20021,SMG,gun-10020021 Mod,200,1,10,10,T-Exo,HP Round,Night Equip,5889,956,167
-736,Advanced6,Day,223,AR,Model L,150,1,10,0,Night Equip,HV Round,Chip,5102,956,168
-736,Advanced6,Day,120,AR,ARX-160,150,1,10,0,Night Equip,HV Round,Chip,5098,955,169
-736,Advanced6,Day,20136,SMG,PP-19 Mod,100,0,10,10,T-Exo,HP Round,Night Equip,5883,955,170
+736,Advanced6,Day,20136,SMG,PP-19 Mod,100,0,10,10,T-Exo,Signal Flare,Exclusive,5902,959,165
+736,Advanced6,Day,70,AR,FF FNC,150,1,10,0,Night Equip,HV Round,Chip,5111,958,166
+736,Advanced6,Day,262,AR,EM-2,100,0,10,0,Night Equip,HV Round,Chip,5106,957,167
+736,Advanced6,Day,20021,SMG,gun-10020021 Mod,200,1,10,10,T-Exo,HP Round,Night Equip,5889,956,168
+736,Advanced6,Day,223,AR,Model L,150,1,10,0,Night Equip,HV Round,Chip,5102,956,169
+736,Advanced6,Day,120,AR,ARX-160,150,1,10,0,Night Equip,HV Round,Chip,5098,955,170
 736,Advanced6,Day,314,AR,StG-940,150,1,10,0,Night Equip,HV Round,Chip,5092,954,171
 736,Advanced6,Day,20103,SMG,UMP45 Mod,100,0,10,10,T-Exo,HP Round,Night Equip,5859,952,172
 736,Advanced6,Day,245,SMG,P90,100,0,10,0,T-Exo,HP Round,Night Equip,5863,952,173
@@ -7062,10 +7062,10 @@
 748,Critical8,Day,20101,SMG,UMP9 Mod,100,0,10,10,T-Exo,HP Round,Night Equip,5908,1403,167
 748,Critical8,Day,359,SMG,gun-10000359,150,1,10,0,T-Exo,HP Round,Night Equip,5904,1402,168
 748,Critical8,Day,120,AR,ARX-160,150,1,10,0,Night Equip,HV Round,Chip,5098,1401,169
-748,Critical8,Day,335,AR,Fedorov Avtomat,100,0,10,0,Night Equip,HV Round,Chip,5097,1401,170
-748,Critical8,Day,314,AR,StG-940,150,1,10,0,Night Equip,HV Round,Chip,5092,1400,171
-748,Critical8,Day,20021,SMG,gun-10020021 Mod,200,1,10,10,T-Exo,HP Round,Night Equip,5889,1398,172
-748,Critical8,Day,20136,SMG,PP-19 Mod,100,0,10,10,T-Exo,HP Round,Night Equip,5883,1397,173
+748,Critical8,Day,20136,SMG,PP-19 Mod,100,0,10,10,T-Exo,Signal Flare,Exclusive,5902,1401,170
+748,Critical8,Day,335,AR,Fedorov Avtomat,100,0,10,0,Night Equip,HV Round,Chip,5097,1401,171
+748,Critical8,Day,314,AR,StG-940,150,1,10,0,Night Equip,HV Round,Chip,5092,1400,172
+748,Critical8,Day,20021,SMG,gun-10020021 Mod,200,1,10,10,T-Exo,HP Round,Night Equip,5889,1398,173
 748,Critical8,Day,66,AR,Type56-1,150,1,10,0,Night Equip,HV Round,Chip,5066,1393,174
 748,Critical8,Day,108,AR,CZ-805,150,1,10,0,Night Equip,HV Round,Chip,5069,1393,175
 748,Critical8,Day,245,SMG,P90,100,0,10,0,T-Exo,HP Round,Night Equip,5863,1392,176
