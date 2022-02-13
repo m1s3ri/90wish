@@ -101,7 +101,7 @@
 714,Elementary4,Night,238,MG,QJY-88,100,0,4,0,Special AP Round,Optical,Ammo Box,12137,303,100
 714,Elementary4,Night,20075,MG,M1918 Mod,100,0,8,10,Special AP Round,Optical,Ammo Box,12100,302,101
 714,Elementary4,Night,163,SG,AA-12,100,0,10,0,Armor Plate,Exclusive,Holographic,8020,300,102
-714,Elementary4,Night,323,SG,LTLX7000,93.5465,0,10,0,Armor Plate,Buckshot Shell,Holographic,7894,296,103
+714,Elementary4,Night,323,SG,LTLX7000,93.6841,0,10,0,Armor Plate,Buckshot Shell,Holographic,7894,296,103
 714,Elementary4,Night,188,SG,S.A.T.8,100,0,10,0,Armor Plate,Buckshot Shell,Holographic,7892,295,104
 714,Elementary4,Night,20081,MG,LWMMG Mod,100,0,8,10,Special AP Round,Optical,Ammo Box,11558,288,105
 714,Elementary4,Night,275,MG,M1895 CB,100,0,10,0,Special AP Round,Optical,Ammo Box,11519,287,106
@@ -190,7 +190,7 @@
 718,Elementary8,Night,20005,HG,M1895 Mod,100,0,10,10,Silencer,HP Round,T-Exo,3651,502,70
 718,Elementary8,Night,20091,HG,MP-446 Mod,100,0,10,10,Exclusive,HP Round,X-Exo,3653,502,71
 718,Elementary8,Night,163,SG,AA-12,100,0,10,0,Armor Plate,Exclusive,Holographic,8020,501,72
-718,Elementary8,Night,323,SG,LTLX7000,93.5465,0,10,0,Armor Plate,Buckshot Shell,Red Dot,8007,500,73
+718,Elementary8,Night,323,SG,LTLX7000,93.6841,0,10,0,Armor Plate,Buckshot Shell,Red Dot,8007,500,73
 718,Elementary8,Night,20032,SMG,Micro Uzi Mod,100,0,10,10,T-Exo,HP Round,Exclusive,6644,498,74
 718,Elementary8,Night,77,MG,M2HB,100,0,8,0,AP Round,Red Dot,Ammo Box,7951,496,75
 718,Elementary8,Night,85,MG,PK,100,0,8,0,AP Round,Red Dot,Ammo Box,7934,495,76
@@ -277,7 +277,7 @@
 724,Intermediate4,Night,127,SMG,Type79,100,0,4,0,T-Exo,Exclusive,Red Dot,6124,765,35
 724,Intermediate4,Night,28,SMG,Gr MP7,100,0,10,0,T-Exo,HP Round,Red Dot,6088,761,36
 724,Intermediate4,Night,234,SMG,JS 9,100,0,10,0,T-Exo,HP Round,Red Dot,6083,760,37
-724,Intermediate4,Night,311,SMG,Lusa,83.5059,0,10,0,T-Exo,HP Round,Red Dot,6054,756,38
+724,Intermediate4,Night,311,SMG,Lusa,83.6235,0,10,0,T-Exo,HP Round,Red Dot,6054,756,38
 724,Intermediate4,Night,104,SMG,Gr G36c,100,0,10,0,T-Exo,HP Round,Holographic,5944,743,39
 724,Intermediate4,Night,20,SMG,Vector,100,0,10,0,T-Exo,HP Round,Holographic,5916,739,40
 724,Intermediate4,Night,1028,SMG,Agent Vector,100,0,10,0,T-Exo,HP Round,Holographic,5916,739,41
@@ -340,7 +340,7 @@
 724,Intermediate4,Night,109,MG,Gr MG5,100,0,8,0,Special AP Round,Auxiliary Sights,Ammo Box,13072,490,98
 724,Intermediate4,Night,238,MG,QJY-88,100,0,4,0,Special AP Round,Auxiliary Sights,Ammo Box,12981,486,99
 724,Intermediate4,Night,20075,MG,M1918 Mod,100,0,8,10,Special AP Round,Auxiliary Sights,Ammo Box,12857,482,100
-724,Intermediate4,Night,323,SG,LTLX7000,93.5465,0,10,0,Armor Plate,Buckshot Shell,Optical,7716,482,101
+724,Intermediate4,Night,323,SG,LTLX7000,93.6841,0,10,0,Armor Plate,Buckshot Shell,Optical,7716,482,101
 724,Intermediate4,Night,275,MG,M1895 CB,100,0,10,0,Special AP Round,Auxiliary Sights,Ammo Box,12840,481,102
 724,Intermediate4,Night,20081,MG,LWMMG Mod,100,0,8,10,Special AP Round,Auxiliary Sights,Ammo Box,12782,479,103
 724,Intermediate4,Night,188,SG,S.A.T.8,100,0,10,0,Armor Plate,Buckshot Shell,Optical,7635,477,104
@@ -371,7 +371,7 @@
 728,Intermediate8,Night,20136,SMG,PP-19 Mod,100,0,10,10,Chip,HP Round,Red Dot,6468,808,12
 728,Intermediate8,Night,188,SG,S.A.T.8,100,0,10,0,Armor Plate,Buckshot Shell,Red Dot,8040,804,13
 728,Intermediate8,Night,163,SG,AA-12,100,0,10,0,Armor Plate,Exclusive,Holographic,8020,802,14
-728,Intermediate8,Night,323,SG,LTLX7000,93.5465,0,10,0,Armor Plate,Buckshot Shell,Red Dot,8007,800,15
+728,Intermediate8,Night,323,SG,LTLX7000,93.6841,0,10,0,Armor Plate,Buckshot Shell,Red Dot,8007,800,15
 728,Intermediate8,Night,20001,HG,SAA Mod,100,0,10,10,Exclusive,HP Round,T-Exo,3998,799,16
 728,Intermediate8,Night,259,SMG,PM-9,100,0,8,0,Chip,HP Round,Red Dot,6391,798,17
 728,Intermediate8,Night,20103,SMG,UMP45 Mod,100,0,10,10,Chip,HP Round,Red Dot,6378,797,18
@@ -397,7 +397,7 @@
 728,Intermediate8,Night,96,HG,Grizzly,100,0,10,0,Auxiliary Sights,HP Round,T-Exo,3771,754,38
 728,Intermediate8,Night,28,SMG,Gr MP7,100,0,10,0,T-Exo,HP Round,Holographic,6030,753,39
 728,Intermediate8,Night,4,HG,Python,100,0,10,0,Auxiliary Sights,HP Round,X-Exo,3762,752,40
-728,Intermediate8,Night,311,SMG,Lusa,83.5059,0,10,0,T-Exo,HP Round,Holographic,6004,750,41
+728,Intermediate8,Night,311,SMG,Lusa,83.6235,0,10,0,T-Exo,HP Round,Holographic,6004,750,41
 728,Intermediate8,Night,281,SG,CAWS,100,0,8,0,Armor Plate,Buckshot Shell,Holographic,7499,749,42
 728,Intermediate8,Night,20154,SG,M500 Mod,100,0,10,10,Armor Plate,Buckshot Shell,Holographic,7479,747,43
 728,Intermediate8,Night,157,SG,Am KSG,100,0,6,0,Armor Plate,Buckshot Shell,Holographic,7432,743,44
@@ -481,7 +481,7 @@
 733,Advanced3,Night,188,SG,S.A.T.8,100,0,10,0,Armor Plate,Buckshot Shell,Red Dot,8040,804,10
 733,Advanced3,Night,20095,RF,Type88 Mod,200,1,10,10,Exclusive,Exclusive,Camo Cloak,7146,803,11
 733,Advanced3,Night,163,SG,AA-12,100,0,10,0,Armor Plate,Exclusive,Holographic,8020,802,12
-733,Advanced3,Night,323,SG,LTLX7000,93.5465,0,10,0,Armor Plate,Buckshot Shell,Red Dot,8007,800,13
+733,Advanced3,Night,323,SG,LTLX7000,93.6841,0,10,0,Armor Plate,Buckshot Shell,Red Dot,8007,800,13
 733,Advanced3,Night,20001,HG,SAA Mod,100,0,10,10,Exclusive,HP Round,T-Exo,3998,799,14
 733,Advanced3,Night,20252,RF,KSVK Mod,100,0,10,10,Exclusive,Optical,Camo Cloak,7110,799,15
 733,Advanced3,Night,284,RF,Zas M76,100,0,10,0,AP Round,Optical,Camo Cloak,5845,789,16
@@ -630,7 +630,7 @@
 736,Advanced6,Day,27,SMG,Skorpion,100,0,8,0,T-Exo,HP Round,Silencer,4517,880,36
 736,Advanced6,Day,20032,SMG,Micro Uzi Mod,100,0,10,10,T-Exo,HP Round,Exclusive,5317,864,37
 736,Advanced6,Day,234,SMG,JS 9,100,0,10,0,T-Exo,HP Round,Silencer,5251,853,38
-736,Advanced6,Day,311,SMG,Lusa,83.5059,0,10,0,T-Exo,HP Round,Silencer,5200,845,39
+736,Advanced6,Day,311,SMG,Lusa,83.6235,0,10,0,T-Exo,HP Round,Silencer,5200,845,39
 736,Advanced6,Day,28,SMG,Gr MP7,100,0,10,0,T-Exo,HP Round,Silencer,5177,841,40
 736,Advanced6,Day,104,SMG,Gr G36c,100,0,10,0,T-Exo,HP Round,Silencer,5164,839,41
 736,Advanced6,Day,259,SMG,PM-9,100,0,8,0,T-Exo,HP Round,Silencer,5068,823,42
@@ -657,7 +657,7 @@
 736,Advanced6,Day,1029,AR,Agent 416,100,0,10,0,Red Dot,HV Round,Chip,3340,626,63
 736,Advanced6,Day,25,SMG,MP40,100,0,1,0,X-Exo,HP Round,Silencer,3825,621,64
 736,Advanced6,Day,130,AR,Type97,100,0,8,0,Red Dot,HV Round,Chip,3293,617,65
-736,Advanced6,Day,323,SG,LTLX7000,93.5465,0,10,0,Armor Plate,Buckshot Shell,Red Dot,7027,614,66
+736,Advanced6,Day,323,SG,LTLX7000,93.6841,0,10,0,Armor Plate,Buckshot Shell,Red Dot,7027,614,66
 736,Advanced6,Day,106,AR,FAL,100,0,8,0,Red Dot,HV Round,X-Exo,3272,613,67
 736,Advanced6,Day,196,AR,Zas M21,100,0,8,0,Red Dot,HV Round,Chip,3272,613,68
 736,Advanced6,Day,224,SMG,PM-06,100,0,8,0,X-Exo,HP Round,Silencer,3770,612,69
@@ -750,7 +750,7 @@
 738,Advanced8,Night,292,MG,RPK-16,100,0,10,0,Special AP Round,Auxiliary Sights,Ammo Box,13418,1006,35
 738,Advanced8,Night,188,SG,S.A.T.8,100,0,10,0,Armor Plate,Buckshot Shell,Red Dot,8040,1005,36
 738,Advanced8,Night,163,SG,AA-12,100,0,10,0,Armor Plate,Exclusive,Holographic,8020,1002,37
-738,Advanced8,Night,323,SG,LTLX7000,93.5465,0,10,0,Armor Plate,Buckshot Shell,Red Dot,8007,1000,38
+738,Advanced8,Night,323,SG,LTLX7000,93.6841,0,10,0,Armor Plate,Buckshot Shell,Red Dot,8007,1000,38
 738,Advanced8,Night,173,MG,PKP,100,0,10,0,Special AP Round,Auxiliary Sights,Ammo Box,13294,997,39
 738,Advanced8,Night,263,MG,Gr MG36,100,0,1,0,Special AP Round,Auxiliary Sights,Ammo Box,13136,985,40
 738,Advanced8,Night,109,MG,Gr MG5,100,0,8,0,Special AP Round,Auxiliary Sights,Ammo Box,13072,980,41
@@ -810,7 +810,7 @@
 738,Advanced8,Night,28,SMG,Gr MP7,100,0,10,0,T-Exo,HP Round,Silencer,5894,663,95
 738,Advanced8,Night,250,HG,HS2000,100,0,10,0,Silencer,HP Round,X-Exo,3783,662,96
 738,Advanced8,Night,303,HG,HP-35,100,0,10,0,Silencer,HP Round,T-Exo,3772,660,97
-738,Advanced8,Night,311,SMG,Lusa,83.5059,0,10,0,T-Exo,HP Round,Silencer,5861,659,98
+738,Advanced8,Night,311,SMG,Lusa,83.6235,0,10,0,T-Exo,HP Round,Silencer,5861,659,98
 738,Advanced8,Night,104,SMG,Gr G36c,100,0,10,0,T-Exo,HP Round,Silencer,5848,657,99
 738,Advanced8,Night,259,SMG,PM-9,100,0,8,0,T-Exo,HP Round,Silencer,5835,656,100
 738,Advanced8,Night,260,HG,PA-15,100,0,10,0,Silencer,HP Round,X-Exo,3745,655,101
@@ -875,14 +875,14 @@
 743,Critical3,Night,16,SMG,Thompson,100,0,8,0,T-Exo,HP Round,Red Dot,6250,703,39
 743,Critical3,Night,188,SG,S.A.T.8,100,0,10,0,Armor Plate,Buckshot Shell,Red Dot,8040,703,40
 743,Critical3,Night,163,SG,AA-12,100,0,10,0,Armor Plate,Exclusive,Holographic,8020,701,41
-743,Critical3,Night,323,SG,LTLX7000,93.5465,0,10,0,Armor Plate,Buckshot Shell,Red Dot,8007,700,42
+743,Critical3,Night,323,SG,LTLX7000,93.6841,0,10,0,Armor Plate,Buckshot Shell,Red Dot,8007,700,42
 743,Critical3,Night,125,MG,Gr MG4,100,0,8,0,Special AP Round,Exclusive,Ammo Box,13951,697,43
 743,Critical3,Night,127,SMG,Type79,100,0,4,0,T-Exo,Exclusive,Red Dot,6124,688,44
 743,Critical3,Night,253,MG,Lewis,100,0,10,0,Special AP Round,Auxiliary Sights,Ammo Box,13730,686,45
 743,Critical3,Night,234,SMG,JS 9,100,0,10,0,T-Exo,HP Round,Holographic,6061,681,46
 743,Critical3,Night,259,SMG,PM-9,100,0,8,0,T-Exo,HP Round,Holographic,6048,680,47
 743,Critical3,Night,28,SMG,Gr MP7,100,0,10,0,T-Exo,HP Round,Holographic,6030,678,48
-743,Critical3,Night,311,SMG,Lusa,83.5059,0,10,0,T-Exo,HP Round,Holographic,6004,675,49
+743,Critical3,Night,311,SMG,Lusa,83.6235,0,10,0,T-Exo,HP Round,Holographic,6004,675,49
 743,Critical3,Night,130,AR,Type97,100,0,8,0,Exclusive,HV Round,T-Exo,5368,671,50
 743,Critical3,Night,292,MG,RPK-16,100,0,10,0,Special AP Round,Auxiliary Sights,Ammo Box,13418,670,51
 743,Critical3,Night,104,SMG,Gr G36c,100,0,10,0,T-Exo,HP Round,Holographic,5944,668,52
@@ -962,7 +962,7 @@
 746,Critical6,Night,292,MG,RPK-16,100,0,10,0,Special AP Round,Auxiliary Sights,Ammo Box,13418,1006,5
 746,Critical6,Night,188,SG,S.A.T.8,100,0,10,0,Armor Plate,Buckshot Shell,Red Dot,8040,1005,6
 746,Critical6,Night,163,SG,AA-12,100,0,10,0,Armor Plate,Exclusive,Holographic,8020,1002,7
-746,Critical6,Night,323,SG,LTLX7000,93.5465,0,10,0,Armor Plate,Buckshot Shell,Red Dot,8007,1000,8
+746,Critical6,Night,323,SG,LTLX7000,93.6841,0,10,0,Armor Plate,Buckshot Shell,Red Dot,8007,1000,8
 746,Critical6,Night,173,MG,PKP,100,0,10,0,Special AP Round,Auxiliary Sights,Ammo Box,13294,997,9
 746,Critical6,Night,263,MG,Gr MG36,100,0,1,0,Special AP Round,Auxiliary Sights,Ammo Box,13136,985,10
 746,Critical6,Night,109,MG,Gr MG5,100,0,8,0,Special AP Round,Auxiliary Sights,Ammo Box,13072,980,11
@@ -1029,7 +1029,7 @@
 746,Critical6,Night,234,SMG,JS 9,100,0,10,0,T-Exo,HP Round,Holographic,6061,681,72
 746,Critical6,Night,259,SMG,PM-9,100,0,8,0,T-Exo,HP Round,Holographic,6048,680,73
 746,Critical6,Night,28,SMG,Gr MP7,100,0,10,0,T-Exo,HP Round,Holographic,6030,678,74
-746,Critical6,Night,311,SMG,Lusa,83.5059,0,10,0,T-Exo,HP Round,Holographic,6004,675,75
+746,Critical6,Night,311,SMG,Lusa,83.6235,0,10,0,T-Exo,HP Round,Holographic,6004,675,75
 746,Critical6,Night,48,RF,WA2000,100,0,10,0,AP Round,Optical,Camo Cloak,6735,673,76
 746,Critical6,Night,127,SMG,Type79,100,0,4,0,T-Exo,Exclusive,Holographic,5978,672,77
 746,Critical6,Night,130,AR,Type97,100,0,8,0,Exclusive,HV Round,T-Exo,5368,671,78
@@ -1114,7 +1114,7 @@
 748,Critical8,Day,245,SMG,P90,100,0,10,0,T-Exo,HP Round,Silencer,5429,1289,36
 748,Critical8,Day,20032,SMG,Micro Uzi Mod,100,0,10,10,T-Exo,HP Round,Exclusive,5317,1262,37
 748,Critical8,Day,234,SMG,JS 9,100,0,10,0,T-Exo,HP Round,Silencer,5251,1247,38
-748,Critical8,Day,311,SMG,Lusa,83.5059,0,10,0,T-Exo,HP Round,Silencer,5200,1235,39
+748,Critical8,Day,311,SMG,Lusa,83.6235,0,10,0,T-Exo,HP Round,Silencer,5200,1235,39
 748,Critical8,Day,28,SMG,Gr MP7,100,0,10,0,T-Exo,HP Round,Silencer,5177,1229,40
 748,Critical8,Day,104,SMG,Gr G36c,100,0,10,0,T-Exo,HP Round,Silencer,5164,1226,41
 748,Critical8,Day,259,SMG,PM-9,100,0,8,0,T-Exo,HP Round,Silencer,5068,1203,42
@@ -1146,7 +1146,7 @@
 748,Critical8,Day,92,SMG,Spectre M4,100,0,1,0,X-Exo,HP Round,Silencer,3753,891,68
 748,Critical8,Day,1010,HG,El Fail,100,0,10,0,Exclusive,HP Round,X-Exo,3377,886,69
 748,Critical8,Day,1009,HG,El Clear,100,0,10,0,Exclusive,HP Round,X-Exo,3377,886,70
-748,Critical8,Day,323,SG,LTLX7000,93.5465,0,10,0,Armor Plate,Buckshot Shell,Red Dot,7027,878,71
+748,Critical8,Day,323,SG,LTLX7000,93.6841,0,10,0,Armor Plate,Buckshot Shell,Red Dot,7027,878,71
 748,Critical8,Day,1034,SG,Minos,100,0,5,0,Armor Plate,Buckshot Shell,Exclusive,6936,867,72
 748,Critical8,Day,327,SMG,SUB-2000,100,0,10,0,X-Exo,HP Round,Silencer,3606,856,73
 748,Critical8,Day,188,SG,S.A.T.8,100,0,10,0,Armor Plate,Buckshot Shell,Red Dot,6837,854,74
