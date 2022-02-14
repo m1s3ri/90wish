@@ -1,32 +1,32 @@
 ﻿Item ID,Item Name,Item Number
 -1,reg_time,2018-05-10 20:01:10
-item-10,Dummy Core,2677
+item-10,Dummy Core,2680
 item-31,Basic Training Data,9329
-item-32,Intermediate Training Data,8067
-item-33,Advanced Training Data,8207
+item-32,Intermediate Training Data,8557
+item-33,Advanced Training Data,7860
 -1,kalina_level,29
 -1,kalina_favor,110005
-item-1,T-Doll Contract,2226
-item-2,Equipment Contract,4028
-item-3,Quick Production Contract,1571
-item-4,Quick Repair Contract,5967
+item-1,T-Doll Contract,2237
+item-2,Equipment Contract,4036
+item-3,Quick Production Contract,1575
+item-4,Quick Repair Contract,5972
 item-5,Daily Pause Permit,1
 item-7,Oath Certificate,4
 item-8,Quick Training Contract,149
-item-9,Enhancement Capsule,1863
+item-9,Enhancement Capsule,1857
 item-11,Key Card,0
 item-12,Points,0
-item-14,Original Sample,1513
-item-15,Pure Sample,163
-item-16,Quick Analysis Contract,1047
+item-14,Original Sample,1353
+item-15,Pure Sample,182
+item-16,Quick Analysis Contract,1048
 item-17,Data Patch,515
-item-41,Token,6847
+item-41,Token,6852
 item-43,Black Card,5
 item-44,Calibration Ticket,7987
 item-45,Memory Fragment,1930
 item-46,Special Combat Report,8724
 item-47,Theater Material,1
-item-50,Universal Parts,4991
+item-50,Universal Parts,4995
 item-51,New Type Fire-Control Component,38
 item-100,Elite Griffin Combat Medal,5
 item-101,Combat Ranking Medal,95
@@ -36,25 +36,25 @@ item-304,Central Data: M2,0
 item-306,Core Data: QLZ-04,0
 item-307,Central Data: Mk 153,95
 item-506,Battery,6949
-item-507,Surplus EXP,2315
+item-507,Surplus EXP,128401
 item-508,Friendship Points,92130
-item-509,Fairy Command,166
+item-509,Fairy Command,200
 item-510,Combat Sim Extra Energy,20
 item-512,Supernova Kernel,110
 item-513,Dark Star Kernel,23000
 item-514,Petri Dish,5638
-item-515,Basic Training Keycode,57562
-item-516,Advanced Training Keycode,20676
-item-519,HOC General Data,85
+item-515,Basic Training Keycode,58276
+item-516,Advanced Training Keycode,21107
+item-519,HOC General Data,86
 item-520,Frag Grenade,28
 item-521,Stun Grenade,40
 item-522,Turret,15
-item-525,Quick Auto-Battle Contract,318
+item-525,Quick Auto-Battle Contract,321
 item-601,Infinite Surprise Dye,43
 item-602,Colorful Specified Dye,1
 item-603,Potential Energy,0
 item-604,Electronic Impulse,10
-item-605,Aid Commission,44
+item-605,Aid Commission,45
 item-606,Transfer Catalyst,270
 item-1001,AAT-52 Icon,1
 item-1002,G43 Icon,1
@@ -229,11 +229,11 @@ item-8001,Intel Points,2610
 item-8003,Intel Points,0
 item-9003,Supply Box,0
 item-9004,Supply Box,0
-item-9005,Supply Box,0
+item-9005,Supply Box,75
 item-9006,item-10009006,1
 item-9007,item-10009007,1
 item-10603,Extra Potential Energy,382
-item-10604,Extra Impulse,63
+item-10604,Extra Impulse,65
 item-100009,Crown of Respect,20
 item-100013,Kitsune Mask,112
 item-100015,Dinergate Lantern,10
@@ -253,7 +253,7 @@ item-100051,Platinum Medal – Il Teatrino,1
 item-100052,Augustus,10
 item-100057,True Core Mask - Dual Randomness,1
 item-100058,Nova Medal - Dual Randomness,137
-item-100059,Platinum Medal - Dual Randomness,425
+item-100059,Platinum Medal - Dual Randomness,449
 item-100062,Jade Coffer,0
 item-100063,Strange Soap,4
 item-100064,Nova Medal,0
@@ -340,7 +340,7 @@ furniture-10110,State-of-the-Art Workbench,10
 furniture-10210,Large Cat Castle,10
 furniture-10310,Integrated Canine Care Station,10
 furniture-10406,Compound Bird Cage,6
-furniture-10508,Multifunctional Temperature-Controlled Playpen,8
+furniture-10509,Multifunctional Temperature-Controlled Playpen,9
 furniture-20110,Digital Era Desk,10
 furniture-20210,Advanced Drone Console,10
 furniture-20310,Advanced Automated Operating Station,10
