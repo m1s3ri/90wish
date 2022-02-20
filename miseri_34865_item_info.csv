@@ -2,31 +2,31 @@
 -1,reg_time,2018-05-10 20:01:10
 item-10,Dummy Core,2748
 item-31,Basic Training Data,9629
-item-32,Intermediate Training Data,7293
+item-32,Intermediate Training Data,7411
 item-33,Advanced Training Data,8115
 -1,kalina_level,29
 -1,kalina_favor,110075
 item-1,T-Doll Contract,2304
 item-2,Equipment Contract,4068
 item-3,Quick Production Contract,1614
-item-4,Quick Repair Contract,6026
+item-4,Quick Repair Contract,5996
 item-5,Daily Pause Permit,1
 item-7,Oath Certificate,4
 item-8,Quick Training Contract,149
 item-9,Enhancement Capsule,1861
 item-11,Key Card,0
 item-12,Points,0
-item-14,Original Sample,1763
-item-15,Pure Sample,198
+item-14,Original Sample,1813
+item-15,Pure Sample,218
 item-16,Quick Analysis Contract,1060
 item-17,Data Patch,519
 item-41,Token,6947
 item-43,Black Card,5
 item-44,Calibration Ticket,8152
-item-45,Memory Fragment,2740
+item-45,Memory Fragment,2760
 item-46,Special Combat Report,8724
 item-47,Theater Material,1
-item-50,Universal Parts,4636
+item-50,Universal Parts,3409
 item-51,New Type Fire-Control Component,38
 item-100,Elite Griffin Combat Medal,5
 item-101,Combat Ranking Medal,95
@@ -35,15 +35,15 @@ item-104,Elite Adventurer Medal,4
 item-304,Central Data: M2,0
 item-306,Core Data: QLZ-04,0
 item-307,Central Data: Mk 153,95
-item-506,Battery,9404
-item-507,Surplus EXP,18696
+item-506,Battery,9164
+item-507,Surplus EXP,0
 item-508,Friendship Points,92610
-item-509,Fairy Command,200
+item-509,Fairy Command,154
 item-510,Combat Sim Extra Energy,20
 item-512,Supernova Kernel,130
 item-513,Dark Star Kernel,24600
 item-514,Petri Dish,5814
-item-515,Basic Training Keycode,61128
+item-515,Basic Training Keycode,61380
 item-516,Advanced Training Keycode,22867
 item-519,HOC General Data,91
 item-520,Frag Grenade,28
@@ -52,7 +52,7 @@ item-522,Turret,15
 item-525,Quick Auto-Battle Contract,339
 item-601,Infinite Surprise Dye,43
 item-602,Colorful Specified Dye,1
-item-603,Potential Energy,1
+item-603,Potential Energy,0
 item-604,Electronic Impulse,7
 item-605,Aid Commission,46
 item-606,Transfer Catalyst,270
@@ -209,12 +209,12 @@ item-2016,Icon: Best Partner,2
 item-2017,Icon:  Setting Sail,1
 item-2018,Icon:  Friend of Pure Loyalty,1
 item-2019,ID:  Screen Breakers,1
-item-4001,City's Gift,17797
+item-4001,City's Gift,17824
 item-4002,Snowfield's Gift,11331
-item-4003,Forest's Gift,15213
-item-4004,Wasteland's Gift,7657
+item-4003,Forest's Gift,15240
+item-4004,Wasteland's Gift,7913
 item-6001,Ordinary Meat Bun,31
-item-6002,Bundle of Meat Buns,53
+item-6002,Bundle of Meat Buns,54
 item-6003,Trove of Meat Buns,84
 item-6004,Commonfolk Standard,18
 item-6005,Comfort Bucket for One,7
@@ -253,8 +253,8 @@ item-100050,Nova Medal – Il Teatrino,7
 item-100051,Platinum Medal – Il Teatrino,1
 item-100052,Augustus,10
 item-100057,True Core Mask - Dual Randomness,1
-item-100058,Nova Medal - Dual Randomness,167
-item-100059,Platinum Medal - Dual Randomness,601
+item-100058,Nova Medal - Dual Randomness,173
+item-100059,Platinum Medal - Dual Randomness,610
 item-100062,Jade Coffer,0
 item-100063,Strange Soap,4
 item-100064,Nova Medal,0
@@ -332,7 +332,7 @@ gift-100003,Strawberry Custard Cheesecake,1088
 gift-100006,Magic of Happiness,25
 gift-100007,Whiskey,60
 gift-100008,Eden's Apple,10
-gift-200001,Combat Report,91781
+gift-200001,Combat Report,91861
 gift-200004,Paper Target,25
 gift-200005,Kandel Formulation,60
 gift-200006,Satan's Tears,10
