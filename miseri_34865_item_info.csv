@@ -1,32 +1,32 @@
 ﻿Item ID,Item Name,Item Number
 -1,reg_time,2018-05-10 20:01:10
-item-10,Dummy Core,2748
+item-10,Dummy Core,2749
 item-31,Basic Training Data,9629
-item-32,Intermediate Training Data,7411
+item-32,Intermediate Training Data,7705
 item-33,Advanced Training Data,8115
 -1,kalina_level,29
 -1,kalina_favor,110075
-item-1,T-Doll Contract,2304
-item-2,Equipment Contract,4068
-item-3,Quick Production Contract,1614
-item-4,Quick Repair Contract,5996
+item-1,T-Doll Contract,2307
+item-2,Equipment Contract,4094
+item-3,Quick Production Contract,1632
+item-4,Quick Repair Contract,6006
 item-5,Daily Pause Permit,1
 item-7,Oath Certificate,4
 item-8,Quick Training Contract,149
 item-9,Enhancement Capsule,1861
 item-11,Key Card,0
 item-12,Points,0
-item-14,Original Sample,1813
-item-15,Pure Sample,218
-item-16,Quick Analysis Contract,1060
+item-14,Original Sample,1653
+item-15,Pure Sample,237
+item-16,Quick Analysis Contract,1061
 item-17,Data Patch,519
-item-41,Token,6947
+item-41,Token,6949
 item-43,Black Card,5
-item-44,Calibration Ticket,8152
+item-44,Calibration Ticket,8352
 item-45,Memory Fragment,2760
 item-46,Special Combat Report,8724
 item-47,Theater Material,1
-item-50,Universal Parts,3409
+item-50,Universal Parts,3413
 item-51,New Type Fire-Control Component,38
 item-100,Elite Griffin Combat Medal,5
 item-101,Combat Ranking Medal,95
@@ -38,13 +38,13 @@ item-307,Central Data: Mk 153,95
 item-506,Battery,9164
 item-507,Surplus EXP,0
 item-508,Friendship Points,92610
-item-509,Fairy Command,154
+item-509,Fairy Command,200
 item-510,Combat Sim Extra Energy,20
 item-512,Supernova Kernel,130
 item-513,Dark Star Kernel,24600
 item-514,Petri Dish,5814
-item-515,Basic Training Keycode,61380
-item-516,Advanced Training Keycode,22867
+item-515,Basic Training Keycode,61884
+item-516,Advanced Training Keycode,22947
 item-519,HOC General Data,91
 item-520,Frag Grenade,28
 item-521,Stun Grenade,40
@@ -52,8 +52,8 @@ item-522,Turret,15
 item-525,Quick Auto-Battle Contract,339
 item-601,Infinite Surprise Dye,43
 item-602,Colorful Specified Dye,1
-item-603,Potential Energy,0
-item-604,Electronic Impulse,7
+item-603,Potential Energy,4
+item-604,Electronic Impulse,6
 item-605,Aid Commission,46
 item-606,Transfer Catalyst,270
 item-1001,AAT-52 Icon,1
@@ -332,7 +332,7 @@ gift-100003,Strawberry Custard Cheesecake,1088
 gift-100006,Magic of Happiness,25
 gift-100007,Whiskey,60
 gift-100008,Eden's Apple,10
-gift-200001,Combat Report,91861
+gift-200001,Combat Report,91626
 gift-200004,Paper Target,25
 gift-200005,Kandel Formulation,60
 gift-200006,Satan's Tears,10
