@@ -6,10 +6,10 @@ item-32,Intermediate Training Data,7705
 item-33,Advanced Training Data,8115
 -1,kalina_level,29
 -1,kalina_favor,110075
-item-1,T-Doll Contract,2307
-item-2,Equipment Contract,4094
-item-3,Quick Production Contract,1632
-item-4,Quick Repair Contract,6006
+item-1,T-Doll Contract,2308
+item-2,Equipment Contract,4110
+item-3,Quick Production Contract,1644
+item-4,Quick Repair Contract,6011
 item-5,Daily Pause Permit,1
 item-7,Oath Certificate,4
 item-8,Quick Training Contract,149
@@ -20,10 +20,10 @@ item-14,Original Sample,1653
 item-15,Pure Sample,237
 item-16,Quick Analysis Contract,1061
 item-17,Data Patch,519
-item-41,Token,6949
+item-41,Token,6950
 item-43,Black Card,5
 item-44,Calibration Ticket,8352
-item-45,Memory Fragment,2760
+item-45,Memory Fragment,2930
 item-46,Special Combat Report,8724
 item-47,Theater Material,1
 item-50,Universal Parts,3413
@@ -35,7 +35,7 @@ item-104,Elite Adventurer Medal,4
 item-304,Central Data: M2,0
 item-306,Core Data: QLZ-04,0
 item-307,Central Data: Mk 153,95
-item-506,Battery,9164
+item-506,Battery,9986
 item-507,Surplus EXP,0
 item-508,Friendship Points,92610
 item-509,Fairy Command,200
@@ -52,7 +52,7 @@ item-522,Turret,15
 item-525,Quick Auto-Battle Contract,339
 item-601,Infinite Surprise Dye,43
 item-602,Colorful Specified Dye,1
-item-603,Potential Energy,4
+item-603,Potential Energy,0
 item-604,Electronic Impulse,6
 item-605,Aid Commission,46
 item-606,Transfer Catalyst,270
@@ -336,7 +336,7 @@ gift-200001,Combat Report,91626
 gift-200004,Paper Target,25
 gift-200005,Kandel Formulation,60
 gift-200006,Satan's Tears,10
-gift-400001,Rapid Growth Disk,8233
+gift-400001,Rapid Growth Disk,8362
 furniture-10110,State-of-the-Art Workbench,10
 furniture-10210,Large Cat Castle,10
 furniture-10310,Integrated Canine Care Station,10
