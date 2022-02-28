@@ -946,7 +946,7 @@
 743,Critical3,Night,25,SMG,MP40,100,0,1,0,X-Exo,Signal Flare,Silencer,4430,498,96
 743,Critical3,Night,224,SMG,PM-06,100,0,8,0,X-Exo,Signal Flare,Silencer,4346,488,97
 743,Critical3,Night,304,SMG,SAF,100,0,10,0,X-Exo,Signal Flare,Silencer,4091,460,98
-743,Critical3,Night,59,SMG,AK-74U,100,0,1,0,X-Exo,Signal Flare,Silencer,4095,460,99
+743,Critical3,Night,286,SMG,K-PDW,100,0,8,0,X-Exo,Signal Flare,Silencer,4095,460,99
 743,Critical3,Night,183,HG,Contender,100,0,10,0,Auxiliary Sights,AP Round,X-Exo,4860,425,100
 743,Critical3,Night,1026,MG,Claes,100,0,1,0,AP Round,Exclusive,Ammo Box,8162,408,101
 743,Critical3,Night,264,MG,Chauchat,100,0,1,0,AP Round,Optical,Ammo Box,7982,399,102
@@ -1090,7 +1090,7 @@
 746,Critical6,Night,25,SMG,MP40,100,0,1,0,X-Exo,Signal Flare,Silencer,4430,498,117
 746,Critical6,Night,224,SMG,PM-06,100,0,8,0,X-Exo,Signal Flare,Silencer,4346,488,118
 746,Critical6,Night,304,SMG,SAF,100,0,10,0,X-Exo,Signal Flare,Silencer,4091,460,119
-746,Critical6,Night,59,SMG,AK-74U,100,0,1,0,X-Exo,Signal Flare,Silencer,4095,460,120
+746,Critical6,Night,286,SMG,K-PDW,100,0,8,0,X-Exo,Signal Flare,Silencer,4095,460,120
 746,Critical6,Night,183,HG,Contender,100,0,10,0,Silencer,AP Round,X-Exo,4751,415,121
 746,Critical6,Night,20002,HG,M1911 Mod,100,0,10,10,Silencer,Exclusive,X-Exo,3662,320,122
 746,Critical6,Night,317,RF,Mondragon M1908,50,0,1,0,AP Round,Optical,Exclusive,943,94,123
