@@ -1,14 +1,14 @@
 ﻿Item ID,Item Name,Item Number
 -1,reg_time,2018-05-10 20:01:10
-item-10,Dummy Core,2774
-item-31,Basic Training Data,9869
+item-10,Dummy Core,2812
+item-31,Basic Training Data,9569
 item-32,Intermediate Training Data,8219
-item-33,Advanced Training Data,7710
+item-33,Advanced Training Data,7869
 -1,kalina_level,29
 -1,kalina_favor,110145
 item-1,T-Doll Contract,2238
-item-2,Equipment Contract,4214
-item-3,Quick Production Contract,1688
+item-2,Equipment Contract,4242
+item-3,Quick Production Contract,1698
 item-4,Quick Repair Contract,6047
 item-5,Daily Pause Permit,1
 item-7,Oath Certificate,4
@@ -16,11 +16,11 @@ item-8,Quick Training Contract,149
 item-9,Enhancement Capsule,1845
 item-11,Key Card,0
 item-12,Points,0
-item-14,Original Sample,1583
+item-14,Original Sample,1383
 item-15,Pure Sample,207
 item-16,Quick Analysis Contract,1065
 item-17,Data Patch,524
-item-41,Token,6976
+item-41,Token,6986
 item-43,Black Card,5
 item-44,Calibration Ticket,8347
 item-45,Memory Fragment,3660
@@ -36,13 +36,13 @@ item-304,Central Data: M2,0
 item-306,Core Data: QLZ-04,0
 item-307,Central Data: Mk 153,95
 item-506,Battery,9268
-item-507,Surplus EXP,0
-item-508,Friendship Points,92700
+item-507,Surplus EXP,151536
+item-508,Friendship Points,92710
 item-509,Fairy Command,200
 item-510,Combat Sim Extra Energy,20
 item-512,Supernova Kernel,130
 item-513,Dark Star Kernel,24600
-item-514,Petri Dish,5990
+item-514,Petri Dish,6054
 item-515,Basic Training Keycode,64350
 item-516,Advanced Training Keycode,23955
 item-519,HOC General Data,96
@@ -53,9 +53,9 @@ item-525,Quick Auto-Battle Contract,339
 item-601,Infinite Surprise Dye,43
 item-602,Colorful Specified Dye,1
 item-603,Potential Energy,2
-item-604,Electronic Impulse,9
+item-604,Electronic Impulse,11
 item-605,Aid Commission,49
-item-606,Transfer Catalyst,300
+item-606,Transfer Catalyst,325
 item-1001,AAT-52 Icon,1
 item-1002,G43 Icon,1
 item-1003,IDW Icon,1
@@ -218,7 +218,7 @@ item-6002,Bundle of Meat Buns,54
 item-6003,Trove of Meat Buns,85
 item-6004,Commonfolk Standard,18
 item-6005,Comfort Bucket for One,8
-item-6006,Full Meal for Two,80
+item-6006,Full Meal for Two,79
 item-6007,Strawberry Cheesecake Slice,27
 item-6008,One Week's Cake Selection,37
 item-6009,Sweet Explosives,42
@@ -332,7 +332,7 @@ gift-100003,Strawberry Custard Cheesecake,1138
 gift-100006,Magic of Happiness,25
 gift-100007,Whiskey,60
 gift-100008,Eden's Apple,10
-gift-200001,Combat Report,91155
+gift-200001,Combat Report,91235
 gift-200004,Paper Target,25
 gift-200005,Kandel Formulation,60
 gift-200006,Satan's Tears,10
