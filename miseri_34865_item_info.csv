@@ -1,32 +1,32 @@
 ﻿Item ID,Item Name,Item Number
 -1,reg_time,2018-05-10 20:01:10
-item-10,Dummy Core,2823
-item-31,Basic Training Data,9569
-item-32,Intermediate Training Data,8219
-item-33,Advanced Training Data,7922
+item-10,Dummy Core,2818
+item-31,Basic Training Data,9609
+item-32,Intermediate Training Data,8239
+item-33,Advanced Training Data,8154
 -1,kalina_level,29
 -1,kalina_favor,110145
-item-1,T-Doll Contract,2234
-item-2,Equipment Contract,4264
-item-3,Quick Production Contract,1726
-item-4,Quick Repair Contract,6047
+item-1,T-Doll Contract,2239
+item-2,Equipment Contract,4290
+item-3,Quick Production Contract,1762
+item-4,Quick Repair Contract,6063
 item-5,Daily Pause Permit,1
 item-7,Oath Certificate,4
 item-8,Quick Training Contract,149
-item-9,Enhancement Capsule,1845
+item-9,Enhancement Capsule,1847
 item-11,Key Card,0
 item-12,Points,0
-item-14,Original Sample,1433
+item-14,Original Sample,1723
 item-15,Pure Sample,307
-item-16,Quick Analysis Contract,1065
-item-17,Data Patch,524
-item-41,Token,6986
+item-16,Quick Analysis Contract,1066
+item-17,Data Patch,528
+item-41,Token,6992
 item-43,Black Card,5
-item-44,Calibration Ticket,8347
-item-45,Memory Fragment,4030
+item-44,Calibration Ticket,8297
+item-45,Memory Fragment,4220
 item-46,Special Combat Report,8724
 item-47,Theater Material,1
-item-50,Universal Parts,3061
+item-50,Universal Parts,3065
 item-51,New Type Fire-Control Component,38
 item-100,Elite Griffin Combat Medal,5
 item-101,Combat Ranking Medal,95
@@ -35,16 +35,16 @@ item-104,Elite Adventurer Medal,4
 item-304,Central Data: M2,0
 item-306,Core Data: QLZ-04,0
 item-307,Central Data: Mk 153,95
-item-506,Battery,9473
-item-507,Surplus EXP,233064
+item-506,Battery,8849
+item-507,Surplus EXP,1440
 item-508,Friendship Points,92730
 item-509,Fairy Command,200
 item-510,Combat Sim Extra Energy,20
 item-512,Supernova Kernel,210
 item-513,Dark Star Kernel,25900
-item-514,Petri Dish,6076
-item-515,Basic Training Keycode,64581
-item-516,Advanced Training Keycode,24648
+item-514,Petri Dish,6164
+item-515,Basic Training Keycode,65043
+item-516,Advanced Training Keycode,24879
 item-519,HOC General Data,96
 item-520,Frag Grenade,28
 item-521,Stun Grenade,40
@@ -52,9 +52,9 @@ item-522,Turret,15
 item-525,Quick Auto-Battle Contract,339
 item-601,Infinite Surprise Dye,43
 item-602,Colorful Specified Dye,1
-item-603,Potential Energy,1
+item-603,Potential Energy,2
 item-604,Electronic Impulse,6
-item-605,Aid Commission,49
+item-605,Aid Commission,50
 item-606,Transfer Catalyst,325
 item-1001,AAT-52 Icon,1
 item-1002,G43 Icon,1
@@ -209,10 +209,10 @@ item-2016,Icon: Best Partner,2
 item-2017,Icon:  Setting Sail,1
 item-2018,Icon:  Friend of Pure Loyalty,1
 item-2019,ID:  Screen Breakers,1
-item-4001,City's Gift,16981
-item-4002,Snowfield's Gift,16227
-item-4003,Forest's Gift,15749
-item-4004,Wasteland's Gift,8491
+item-4001,City's Gift,17398
+item-4002,Snowfield's Gift,17807
+item-4003,Forest's Gift,16215
+item-4004,Wasteland's Gift,8859
 item-6001,Ordinary Meat Bun,31
 item-6002,Bundle of Meat Buns,54
 item-6003,Trove of Meat Buns,85
@@ -220,10 +220,10 @@ item-6004,Commonfolk Standard,18
 item-6005,Comfort Bucket for One,8
 item-6006,Full Meal for Two,74
 item-6007,Strawberry Cheesecake Slice,27
-item-6008,One Week's Cake Selection,37
+item-6008,One Week's Cake Selection,38
 item-6009,Sweet Explosives,42
 item-6010,"Baby  B-A-B-Y.",45
-item-6011,Streetside Oden,36
+item-6011,Streetside Oden,37
 item-6012,Wild Honeycomb,40
 item-6013,Icy Theater,35
 item-8001,Intel Points,2610
@@ -234,7 +234,7 @@ item-9005,Supply Box,600
 item-9006,item-10009006,1
 item-9007,item-10009007,1
 item-10603,Extra Potential Energy,387
-item-10604,Extra Impulse,67
+item-10604,Extra Impulse,68
 item-100009,Crown of Respect,20
 item-100013,Kitsune Mask,112
 item-100015,Dinergate Lantern,10
@@ -332,7 +332,7 @@ gift-100003,Strawberry Custard Cheesecake,1138
 gift-100006,Magic of Happiness,25
 gift-100007,Whiskey,60
 gift-100008,Eden's Apple,10
-gift-200001,Combat Report,91362
+gift-200001,Combat Report,91566
 gift-200004,Paper Target,25
 gift-200005,Kandel Formulation,60
 gift-200006,Satan's Tears,10
