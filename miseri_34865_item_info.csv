@@ -1,31 +1,31 @@
 ﻿Item ID,Item Name,Item Number
 -1,reg_time,2018-05-10 20:01:10
-item-10,Dummy Core,2837
+item-10,Dummy Core,2857
 item-31,Basic Training Data,9629
 item-32,Intermediate Training Data,8239
 item-33,Advanced Training Data,8366
 -1,kalina_level,29
 -1,kalina_favor,110145
 item-1,T-Doll Contract,2240
-item-2,Equipment Contract,4318
-item-3,Quick Production Contract,1781
+item-2,Equipment Contract,4332
+item-3,Quick Production Contract,1795
 item-4,Quick Repair Contract,6068
 item-5,Daily Pause Permit,1
 item-7,Oath Certificate,4
 item-8,Quick Training Contract,149
-item-9,Enhancement Capsule,1851
+item-9,Enhancement Capsule,1859
 item-11,Key Card,0
 item-12,Points,0
-item-14,Original Sample,1833
-item-15,Pure Sample,157
+item-14,Original Sample,1883
+item-15,Pure Sample,257
 item-16,Quick Analysis Contract,1067
-item-17,Data Patch,529
+item-17,Data Patch,533
 item-41,Token,6995
 item-43,Black Card,5
 item-44,Calibration Ticket,8317
-item-45,Memory Fragment,4320
+item-45,Memory Fragment,4460
 item-46,Special Combat Report,8724
-item-47,Theater Material,1
+item-47,Theater Material,0
 item-50,Universal Parts,3065
 item-51,New Type Fire-Control Component,38
 item-100,Elite Griffin Combat Medal,5
@@ -35,9 +35,9 @@ item-104,Elite Adventurer Medal,4
 item-304,Central Data: M2,0
 item-306,Core Data: QLZ-04,0
 item-307,Central Data: Mk 153,95
-item-506,Battery,9739
+item-506,Battery,9757
 item-507,Surplus EXP,0
-item-508,Friendship Points,92740
+item-508,Friendship Points,92750
 item-509,Fairy Command,200
 item-510,Combat Sim Extra Energy,20
 item-512,Supernova Kernel,210
@@ -45,7 +45,7 @@ item-513,Dark Star Kernel,25900
 item-514,Petri Dish,6229
 item-515,Basic Training Keycode,65505
 item-516,Advanced Training Keycode,25572
-item-519,HOC General Data,97
+item-519,HOC General Data,98
 item-520,Frag Grenade,28
 item-521,Stun Grenade,40
 item-522,Turret,15
@@ -332,11 +332,11 @@ gift-100003,Strawberry Custard Cheesecake,1138
 gift-100006,Magic of Happiness,25
 gift-100007,Whiskey,60
 gift-100008,Eden's Apple,10
-gift-200001,Combat Report,91646
+gift-200001,Combat Report,91726
 gift-200004,Paper Target,25
 gift-200005,Kandel Formulation,60
 gift-200006,Satan's Tears,10
-gift-400001,Rapid Growth Disk,9160
+gift-400001,Rapid Growth Disk,9253
 furniture-10110,State-of-the-Art Workbench,10
 furniture-10210,Large Cat Castle,10
 furniture-10310,Integrated Canine Care Station,10
